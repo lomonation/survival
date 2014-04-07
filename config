@@ -1,0 +1,9 @@
+worlds["Lomonation"] = "./lomo"
+
+renders["normalRender"] = {
+	"world": "Lomonation",
+	"title": "Normal Render"
+}
+
+outputdir = "/var/www/minecraft/maps/lomo"
+texturepath = "../Isabella_II_1.7f.zip"
