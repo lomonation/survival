@@ -1,8 +1,14 @@
-[08:35:23] [Server thread/INFO]: Stopping the server
-[08:35:23] [Server thread/INFO]: Stopping server
-[08:35:23] [Server thread/INFO]: Saving players
-[08:35:23] [Server thread/INFO]: Saving worlds
-[08:35:23] [Server thread/INFO]: Saving chunks for level 'lomo'/Overworld
-[08:35:23] [Server thread/INFO]: Saving chunks for level 'lomo'/Nether
-[08:35:23] [Server thread/INFO]: Saving chunks for level 'lomo'/The End
-[08:35:23] [Server Shutdown Thread/INFO]: Stopping server
+[08:44:47] [Server thread/INFO]: Starting minecraft server version 1.7.5
+[08:44:47] [Server thread/INFO]: Loading properties
+[08:44:47] [Server thread/INFO]: Default game type: SURVIVAL
+[08:44:47] [Server thread/INFO]: Generating keypair
+[08:44:47] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
+[08:44:47] [Server thread/INFO]: Preparing level "lomo"
+[08:44:47] [Server thread/INFO]: Preparing start region for level 0
+[08:44:48] [Server thread/INFO]: Preparing spawn area: 49%
+[08:44:49] [Server thread/INFO]: Done (1.490s)! For help, type "help" or "?"
+[08:44:55] [User Authenticator #1/INFO]: UUID of player maxdeviant is be25cecd1e3a456a97d46375f726c344
+[08:44:55] [Server thread/INFO]: maxdeviant[/144.26.129.2:50997] logged in with entity id 303 at (293.4889016113819, 64.0, 129.7602704101101)
+[08:44:55] [Server thread/INFO]: maxdeviant joined the game
+[08:45:00] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:45:00] [Server thread/INFO]: maxdeviant left the game
