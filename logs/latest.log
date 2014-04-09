@@ -1,21 +1,18 @@
-[19:34:13] [Server thread/INFO]: Starting minecraft server version 1.7.7
-[19:34:13] [Server thread/INFO]: Loading properties
-[19:34:13] [Server thread/INFO]: Default game type: SURVIVAL
-[19:34:13] [Server thread/INFO]: Generating keypair
-[19:34:13] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
-[19:34:14] [Server thread/INFO]: Preparing level "lomo"
-[19:34:15] [Server thread/INFO]: Preparing start region for level 0
-[19:34:16] [Server thread/INFO]: Preparing spawn area: 49%
-[19:34:16] [Server thread/INFO]: Done (1.576s)! For help, type "help" or "?"
-[19:34:25] [User Authenticator #1/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[19:34:25] [Server thread/INFO]: maxdeviant[/69.249.70.239:57312] logged in with entity id 198 at (122.17778440994424, 75.0, -47.95059232229626)
-[19:34:25] [Server thread/INFO]: maxdeviant joined the game
-[19:35:02] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:35:02] [Server thread/INFO]: maxdeviant left the game
-[19:35:05] [Server thread/INFO]: Stopping the server
-[19:35:05] [Server thread/INFO]: Stopping server
-[19:35:05] [Server thread/INFO]: Saving players
-[19:35:05] [Server thread/INFO]: Saving worlds
-[19:35:05] [Server thread/INFO]: Saving chunks for level 'lomo'/Overworld
-[19:35:05] [Server thread/INFO]: Saving chunks for level 'lomo'/Nether
-[19:35:05] [Server thread/INFO]: Saving chunks for level 'lomo'/The End
+[19:36:05] [Server thread/INFO]: Starting minecraft server version 1.7.7
+[19:36:05] [Server thread/INFO]: Loading properties
+[19:36:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:05] [Server thread/INFO]: Generating keypair
+[19:36:05] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
+[19:36:05] [Server thread/INFO]: Preparing level "lomo"
+[19:36:06] [Server thread/INFO]: Preparing start region for level 0
+[19:36:07] [Server thread/INFO]: Preparing spawn area: 39%
+[19:36:07] [Server thread/INFO]: Done (1.517s)! For help, type "help" or "?"
+[19:53:28] [Server thread/INFO]: Stopping the server
+[19:53:28] [Server thread/INFO]: Stopping server
+[19:53:28] [Server thread/INFO]: Saving players
+[19:53:28] [Server thread/INFO]: Saving worlds
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/Overworld
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/Nether
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/The End
+[19:53:28] [Server Shutdown Thread/INFO]: Stopping server
+[19:53:28] [Server Shutdown Thread/INFO]: Saving players
