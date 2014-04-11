@@ -1,18 +1,316 @@
-[19:36:05] [Server thread/INFO]: Starting minecraft server version 1.7.7
-[19:36:05] [Server thread/INFO]: Loading properties
-[19:36:05] [Server thread/INFO]: Default game type: SURVIVAL
-[19:36:05] [Server thread/INFO]: Generating keypair
-[19:36:05] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
-[19:36:05] [Server thread/INFO]: Preparing level "lomo"
-[19:36:06] [Server thread/INFO]: Preparing start region for level 0
-[19:36:07] [Server thread/INFO]: Preparing spawn area: 39%
-[19:36:07] [Server thread/INFO]: Done (1.517s)! For help, type "help" or "?"
-[19:53:28] [Server thread/INFO]: Stopping the server
-[19:53:28] [Server thread/INFO]: Stopping server
-[19:53:28] [Server thread/INFO]: Saving players
-[19:53:28] [Server thread/INFO]: Saving worlds
-[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/Overworld
-[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/Nether
-[19:53:28] [Server thread/INFO]: Saving chunks for level 'lomo'/The End
-[19:53:28] [Server Shutdown Thread/INFO]: Stopping server
-[19:53:28] [Server Shutdown Thread/INFO]: Saving players
+[14:18:08] [User Authenticator #4/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[14:18:08] [Server thread/INFO]: iamnbutler[/198.96.89.176:38122] logged in with entity id 223940 at (118.76403540980574, 70.0, -52.23357195214296)
+[14:18:08] [Server thread/INFO]: iamnbutler joined the game
+[14:53:15] [Server thread/INFO]: iamnbutler was blown up by Creeper
+[15:14:16] [Server thread/WARN]: iamnbutler moved wrongly!
+[15:50:19] [User Authenticator #5/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[15:50:19] [Server thread/INFO]: maxdeviant[/69.249.70.239:49210] logged in with entity id 367256 at (123.36163645648541, 75.0, -57.058038916095846)
+[15:50:19] [Server thread/INFO]: maxdeviant joined the game
+[15:54:13] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:54:13] [Server thread/INFO]: maxdeviant left the game
+[15:55:06] [User Authenticator #6/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[15:55:06] [Server thread/INFO]: maxdeviant[/69.249.70.239:49326] logged in with entity id 377932 at (107.9062065164807, 74.0, -28.958930005207687)
+[15:55:06] [Server thread/INFO]: maxdeviant joined the game
+[15:58:02] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[15:58:02] [Server thread/INFO]: /achievement give <stat_name> [player]
+[15:58:02] [Server thread/INFO]: /ban <name> [reason ...]
+[15:58:02] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[15:58:02] [Server thread/INFO]: /banlist [ips|players]
+[15:58:02] [Server thread/INFO]: /clear <player> [item] [data]
+[15:58:02] [Server thread/INFO]: /debug <start|stop>
+[15:58:02] [Server thread/INFO]: /defaultgamemode <mode>
+[15:58:06] [Server thread/INFO]: --- Showing help page 2 of 7 (/help <page>) ---
+[15:58:06] [Server thread/INFO]: /deop <player>
+[15:58:06] [Server thread/INFO]: /difficulty <new difficulty>
+[15:58:06] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[15:58:06] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[15:58:06] [Server thread/INFO]: /gamemode <mode> [player]
+[15:58:06] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[15:58:06] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[15:58:09] [Server thread/INFO]: --- Showing help page 3 of 7 (/help <page>) ---
+[15:58:09] [Server thread/INFO]: /help [page|command name]
+[15:58:09] [Server thread/INFO]: /kick <player> [reason ...]
+[15:58:09] [Server thread/INFO]: /kill
+[15:58:09] [Server thread/INFO]: /list
+[15:58:09] [Server thread/INFO]: /me <action ...>
+[15:58:09] [Server thread/INFO]: /list
+[15:58:09] [Server thread/INFO]: /op <player>
+[15:58:11] [Server thread/INFO]: --- Showing help page 4 of 7 (/help <page>) ---
+[15:58:11] [Server thread/INFO]: /pardon <name>
+[15:58:11] [Server thread/INFO]: /pardon-ip <address>
+[15:58:11] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[15:58:11] [Server thread/INFO]: /save-all
+[15:58:11] [Server thread/INFO]: /save-off
+[15:58:11] [Server thread/INFO]: /save-on
+[15:58:11] [Server thread/INFO]: /say <message ...>
+[15:58:13] [Server thread/INFO]: --- Showing help page 5 of 7 (/help <page>) ---
+[15:58:13] [Server thread/INFO]: /scoreboard <objectives|players|teams>
+[15:58:13] [Server thread/INFO]: /seed
+[15:58:13] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[15:58:13] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[15:58:13] [Server thread/INFO]: /setworldspawn OR /setworldspawn <x> <y> <z>
+[15:58:13] [Server thread/INFO]: /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+[15:58:13] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[15:58:25] [Server thread/INFO]: Set maxdeviant's spawn point to (145, 72, -52)
+[15:58:45] [Server thread/INFO]: Set the world spawn point to (145, 72, -51)
+[16:04:55] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:04:55] [Server thread/INFO]: maxdeviant left the game
+[16:05:03] [User Authenticator #7/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[16:05:03] [Server thread/INFO]: maxdeviant[/69.249.70.239:49605] logged in with entity id 397509 at (97.38311916224524, 71.0, -28.553235178897282)
+[16:05:03] [Server thread/INFO]: maxdeviant joined the game
+[16:16:45] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:16:45] [Server thread/INFO]: iamnbutler left the game
+[16:16:55] [User Authenticator #8/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:16:55] [Server thread/INFO]: iamnbutler[/198.96.89.176:43249] logged in with entity id 425788 at (-243.04636036595198, 64.0, -302.21444682236506)
+[16:16:55] [Server thread/INFO]: iamnbutler joined the game
+[16:17:00] [Server thread/INFO]: iamnbutler was slain by Zombie
+[16:28:07] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:28:07] [Server thread/INFO]: iamnbutler left the game
+[16:28:50] [User Authenticator #9/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:28:50] [Server thread/INFO]: iamnbutler[/198.96.89.176:42617] logged in with entity id 459650 at (-221.30077682768444, 76.0, -493.0592313018928)
+[16:28:50] [Server thread/INFO]: iamnbutler joined the game
+[16:30:34] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:30:34] [Server thread/INFO]: iamnbutler left the game
+[16:30:45] [User Authenticator #10/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:30:45] [Server thread/INFO]: iamnbutler[/198.96.89.176:44984] logged in with entity id 465903 at (-220.63447157461775, 67.99789179154453, -494.37224464799266)
+[16:30:45] [Server thread/INFO]: iamnbutler joined the game
+[16:32:53] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:32:53] [Server thread/INFO]: iamnbutler left the game
+[16:33:29] [User Authenticator #11/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:33:29] [Server thread/INFO]: iamnbutler[/198.96.89.176:40013] logged in with entity id 472038 at (-220.61136268790003, 62.99789179154453, -494.3979946523905)
+[16:33:29] [Server thread/INFO]: iamnbutler joined the game
+[16:35:03] [Server thread/INFO]: iamnbutler lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:35:03] [Server thread/INFO]: iamnbutler left the game
+[16:35:22] [User Authenticator #12/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:35:22] [Server thread/INFO]: iamnbutler[/198.96.89.176:43435] logged in with entity id 476878 at (-220.60120901524212, 57.9432360274095, -494.41475958377123)
+[16:35:22] [Server thread/INFO]: iamnbutler joined the game
+[16:37:09] [Server thread/INFO]: iamnbutler lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:37:09] [Server thread/INFO]: iamnbutler left the game
+[16:37:15] [User Authenticator #13/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:37:15] [Server thread/INFO]: iamnbutler[/198.96.89.176:60926] logged in with entity id 481482 at (-220.57503353132336, 56.0, -494.670632623433)
+[16:37:15] [Server thread/INFO]: iamnbutler joined the game
+[16:39:53] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:39:53] [Server thread/INFO]: iamnbutler left the game
+[16:43:12] [User Authenticator #14/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:43:12] [Server thread/INFO]: iamnbutler[/198.96.89.176:45191] logged in with entity id 495035 at (-220.30000001192093, 48.99789179154454, -494.61452007382786)
+[16:43:12] [Server thread/INFO]: iamnbutler joined the game
+[16:49:37] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:49:37] [Server thread/INFO]: iamnbutler left the game
+[16:51:55] [User Authenticator #15/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[16:51:55] [Server thread/INFO]: iamnbutler[/198.96.89.176:34444] logged in with entity id 516087 at (-220.69999998807907, 26.945172166585813, -494.30000001192093)
+[16:51:55] [Server thread/INFO]: iamnbutler joined the game
+[16:52:03] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+[16:52:16] [Server thread/INFO]: Teleported iamnbutler to maxdeviant
+[16:57:38] [Server thread/WARN]: iamnbutler moved wrongly!
+[17:02:37] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:02:37] [Server thread/INFO]: iamnbutler left the game
+[17:03:01] [User Authenticator #16/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[17:03:01] [Server thread/INFO]: iamnbutler[/198.96.89.176:43320] logged in with entity id 546440 at (603.6377703855844, 58.0, -519.6999999880791)
+[17:03:01] [Server thread/INFO]: iamnbutler joined the game
+[17:14:01] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:14:01] [Server thread/INFO]: iamnbutler left the game
+[17:14:31] [User Authenticator #17/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[17:14:31] [Server thread/INFO]: iamnbutler[/198.96.89.176:35794] logged in with entity id 577728 at (929.3288322045013, 64.0, -639.4629978155231)
+[17:14:31] [Server thread/INFO]: iamnbutler joined the game
+[17:22:36] [User Authenticator #18/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[17:22:36] [Server thread/INFO]: therastamasta[/69.249.70.239:49369] logged in with entity id 603736 at (242.9553384003078, 73.0, -7953.762499988079)
+[17:22:36] [Server thread/INFO]: therastamasta joined the game
+[17:22:50] [Server thread/INFO]: iamnbutler fell from a high place
+[17:25:24] [Server thread/INFO]: <therastamasta> i dont feel like skyping >.<
+[17:25:30] [Server thread/INFO]: <maxdeviant> k
+[17:25:32] [Server thread/INFO]: <maxdeviant> nub'
+[17:25:55] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:25:55] [Server thread/INFO]: therastamasta left the game
+[17:25:58] [User Authenticator #19/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[17:25:58] [Server thread/INFO]: therastamasta[/69.249.70.239:49542] logged in with entity id 614901 at (271.81997524771225, 66.0, -7828.539931179034)
+[17:25:58] [Server thread/INFO]: therastamasta joined the game
+[17:26:46] [Server thread/INFO]: therastamasta has just earned the achievement [Monster Hunter]
+[17:34:10] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:34:10] [Server thread/INFO]: iamnbutler left the game
+[17:37:20] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:37:20] [Server thread/INFO]: therastamasta left the game
+[17:37:32] [User Authenticator #20/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[17:37:32] [Server thread/INFO]: iamnbutler[/198.96.89.176:43838] logged in with entity id 666537 at (377.55231589719824, 80.0, 745.1421758554508)
+[17:37:32] [Server thread/INFO]: iamnbutler joined the game
+[17:37:36] [Server thread/INFO]: iamnbutler lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:37:36] [Server thread/INFO]: iamnbutler left the game
+[17:37:43] [User Authenticator #21/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[17:37:43] [Server thread/INFO]: therastamasta[/69.249.70.239:49933] logged in with entity id 666919 at (500.48766602245854, 63.0, -5490.438738821626)
+[17:37:43] [Server thread/INFO]: therastamasta joined the game
+[17:37:57] [User Authenticator #22/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[17:37:57] [Server thread/INFO]: iamnbutler[/198.96.89.176:37266] logged in with entity id 667977 at (377.55231589719824, 80.0, 745.1421758554508)
+[17:37:57] [Server thread/INFO]: iamnbutler joined the game
+[17:39:21] [Server thread/INFO]: maxdeviant was shot by Skeleton
+[17:48:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2086ms behind, skipping 41 tick(s)
+[17:48:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4181ms behind, skipping 83 tick(s)
+[17:48:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2542ms behind, skipping 50 tick(s)
+[17:49:28] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:49:28] [Server thread/INFO]: therastamasta left the game
+[17:49:33] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:49:33] [Server thread/INFO]: iamnbutler left the game
+[17:49:54] [User Authenticator #23/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[17:49:54] [Server thread/INFO]: therastamasta[/69.249.70.239:50208] logged in with entity id 714607 at (-167.0477162661218, 72.0, -4593.288561799679)
+[17:49:54] [Server thread/INFO]: therastamasta joined the game
+[17:50:08] [User Authenticator #24/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[17:50:08] [Server thread/INFO]: iamnbutler[/198.96.89.176:42421] logged in with entity id 716512 at (358.69999998807907, 37.0, 1030.6777407115082)
+[17:50:08] [Server thread/INFO]: iamnbutler joined the game
+[17:51:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2797ms behind, skipping 55 tick(s)
+[17:56:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2548ms behind, skipping 50 tick(s)
+[17:57:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
+[17:59:11] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:59:11] [Server thread/INFO]: therastamasta left the game
+[17:59:13] [User Authenticator #25/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[17:59:13] [Server thread/INFO]: therastamasta[/69.249.70.239:50369] logged in with entity id 746279 at (-6.928378856704983, 62.37946640986375, -2164.0796220841885)
+[17:59:13] [Server thread/INFO]: therastamasta joined the game
+[18:01:12] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:01:12] [Server thread/INFO]: iamnbutler left the game
+[18:01:14] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:01:14] [Server thread/INFO]: therastamasta left the game
+[18:01:17] [User Authenticator #26/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[18:01:17] [Server thread/INFO]: therastamasta[/69.249.70.239:50403] logged in with entity id 752501 at (349.9929997428101, 62.40066408377757, -2162.328909098315)
+[18:01:17] [Server thread/INFO]: therastamasta joined the game
+[18:02:21] [User Authenticator #27/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[18:02:21] [Server thread/INFO]: iamnbutler[/198.96.89.176:47385] logged in with entity id 754605 at (355.69999998807907, 61.0, 1035.300000011921)
+[18:02:21] [Server thread/INFO]: iamnbutler joined the game
+[18:03:30] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:03:30] [Server thread/INFO]: therastamasta left the game
+[18:04:34] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:04:34] [Server thread/INFO]: iamnbutler left the game
+[18:04:57] [User Authenticator #28/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[18:04:58] [Server thread/INFO]: therastamasta[/69.249.70.239:50598] logged in with entity id 757797 at (666.9853325837047, 64.0, -1956.033779973463)
+[18:04:58] [Server thread/INFO]: therastamasta joined the game
+[18:05:01] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:05:01] [Server thread/INFO]: therastamasta left the game
+[18:05:57] [User Authenticator #29/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[18:05:57] [Server thread/INFO]: therastamasta[/69.249.70.239:50634] logged in with entity id 759513 at (666.9853325837047, 64.0, -1956.033779973463)
+[18:05:57] [Server thread/INFO]: therastamasta joined the game
+[18:08:53] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:08:53] [Server thread/INFO]: maxdeviant left the game
+[18:08:56] [User Authenticator #30/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[18:08:56] [Server thread/INFO]: maxdeviant[/69.249.70.239:51841] logged in with entity id 771076 at (121.46654403644278, 75.0, -44.30011258551038)
+[18:08:56] [Server thread/INFO]: maxdeviant joined the game
+[18:12:32] [User Authenticator #31/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[18:12:32] [Server thread/INFO]: iamnbutler[/198.96.89.176:40139] logged in with entity id 790283 at (355.5261329383027, 62.0, 1034.444098725502)
+[18:12:32] [Server thread/INFO]: iamnbutler joined the game
+[18:18:28] [Server thread/INFO]: Game rule has been updated
+[18:21:15] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:21:15] [Server thread/INFO]: therastamasta left the game
+[18:22:22] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[18:22:22] [Server thread/INFO]: /achievement give <stat_name> [player]
+[18:22:22] [Server thread/INFO]: /ban <name> [reason ...]
+[18:22:22] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[18:22:22] [Server thread/INFO]: /banlist [ips|players]
+[18:22:22] [Server thread/INFO]: /clear <player> [item] [data]
+[18:22:22] [Server thread/INFO]: /debug <start|stop>
+[18:22:22] [Server thread/INFO]: /defaultgamemode <mode>
+[18:22:25] [Server thread/INFO]: --- Showing help page 2 of 7 (/help <page>) ---
+[18:22:25] [Server thread/INFO]: /deop <player>
+[18:22:25] [Server thread/INFO]: /difficulty <new difficulty>
+[18:22:25] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[18:22:25] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[18:22:25] [Server thread/INFO]: /gamemode <mode> [player]
+[18:22:25] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[18:22:25] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[18:22:27] [Server thread/INFO]: --- Showing help page 3 of 7 (/help <page>) ---
+[18:22:27] [Server thread/INFO]: /help [page|command name]
+[18:22:27] [Server thread/INFO]: /kick <player> [reason ...]
+[18:22:27] [Server thread/INFO]: /kill
+[18:22:27] [Server thread/INFO]: /list
+[18:22:27] [Server thread/INFO]: /me <action ...>
+[18:22:27] [Server thread/INFO]: /list
+[18:22:27] [Server thread/INFO]: /op <player>
+[18:22:28] [Server thread/INFO]: --- Showing help page 4 of 7 (/help <page>) ---
+[18:22:28] [Server thread/INFO]: /pardon <name>
+[18:22:28] [Server thread/INFO]: /pardon-ip <address>
+[18:22:28] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[18:22:28] [Server thread/INFO]: /save-all
+[18:22:28] [Server thread/INFO]: /save-off
+[18:22:28] [Server thread/INFO]: /save-on
+[18:22:28] [Server thread/INFO]: /say <message ...>
+[18:22:29] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:22:30] [Server thread/INFO]: --- Showing help page 5 of 7 (/help <page>) ---
+[18:22:30] [Server thread/INFO]: /scoreboard <objectives|players|teams>
+[18:22:30] [Server thread/INFO]: /seed
+[18:22:30] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[18:22:30] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[18:22:30] [Server thread/INFO]: /setworldspawn OR /setworldspawn <x> <y> <z>
+[18:22:30] [Server thread/INFO]: /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+[18:22:30] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[18:22:32] [Server thread/INFO]: --- Showing help page 6 of 7 (/help <page>) ---
+[18:22:32] [Server thread/INFO]: /stop
+[18:22:32] [Server thread/INFO]: /summon <EntityName> [x] [y] [z] [dataTag]
+[18:22:32] [Server thread/INFO]: /tell <player> <private message ...>
+[18:22:32] [Server thread/INFO]: /tellraw <player> <raw json message>
+[18:22:32] [Server thread/INFO]: /testfor <player>
+[18:22:32] [Server thread/INFO]: /testforblock <x> <y> <z> <TileName> [dataValue] [dataTag]
+[18:22:32] [Server thread/INFO]: /time <set|add> <value>
+[18:22:37] [Server thread/INFO]: --- Showing help page 7 of 7 (/help <page>) ---
+[18:22:37] [Server thread/INFO]: /toggledownfall
+[18:22:37] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+[18:22:37] [Server thread/INFO]: /weather <clear|rain|thunder> [duration in seconds]
+[18:22:37] [Server thread/INFO]: /whitelist <on|off|list|add|remove|reload>
+[18:22:37] [Server thread/INFO]: /xp <amount> [player] OR /xp <amount>L [player]
+[18:22:58] [Server thread/INFO]: commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing and naturalRegeneration
+[18:22:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:23:15] [Server thread/INFO]: No game rule called 'rule:doDaylightCycle' is available
+[18:23:32] [Server thread/INFO]: Game rule has been updated
+[18:23:37] [Server thread/INFO]: Set the time to 1000
+[18:24:28] [Server thread/INFO]: doDaylightCycle = false
+[18:31:08] [Server thread/INFO]: Set the time to 6000
+[18:35:36] [Server thread/INFO]: maxdeviant was shot by Skeleton
+[18:36:32] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[18:36:32] [Server thread/INFO]: /achievement give <stat_name> [player]
+[18:36:32] [Server thread/INFO]: /ban <name> [reason ...]
+[18:36:32] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[18:36:32] [Server thread/INFO]: /banlist [ips|players]
+[18:36:32] [Server thread/INFO]: /clear <player> [item] [data]
+[18:36:32] [Server thread/INFO]: /debug <start|stop>
+[18:36:32] [Server thread/INFO]: /defaultgamemode <mode>
+[18:36:34] [Server thread/INFO]: /weather <clear|rain|thunder> [duration in seconds]
+[18:36:37] [Server thread/INFO]: Changing to clear weather
+[18:42:15] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:42:15] [Server thread/INFO]: maxdeviant left the game
+[18:59:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@617ef5b9[id=<null>,name=maxdeviant,properties={},legacy=false] (/69.249.70.239:53157) lost connection: Disconnected
+[18:59:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@40ce2ac3[id=<null>,name=maxdeviant,properties={},legacy=false] (/69.249.70.239:53159) lost connection: Disconnected
+[18:59:43] [User Authenticator #32/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[18:59:43] [Server thread/INFO]: maxdeviant[/69.249.70.239:53213] logged in with entity id 865672 at (353.2624340266042, 67.0, 25.853419298776636)
+[18:59:43] [Server thread/INFO]: maxdeviant joined the game
+[19:18:20] [Server thread/INFO]: maxdeviant was slain by Zombie
+[19:45:19] [Server thread/INFO]: maxdeviant drowned
+[20:04:23] [Server thread/INFO]: iamnbutler fell from a high place
+[20:09:22] [Server thread/INFO]: maxdeviant has just earned the achievement [We Need to Go Deeper]
+[20:09:25] [Server thread/INFO]: maxdeviant was slain by Zombie Pigman
+[20:12:37] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:12:37] [Server thread/INFO]: maxdeviant left the game
+[20:12:40] [User Authenticator #33/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[20:12:41] [Server thread/INFO]: maxdeviant[/69.249.70.239:54501] logged in with entity id 1109424 at (238.9114751942726, 69.0, 63.75166398631572)
+[20:12:41] [Server thread/INFO]: maxdeviant joined the game
+[20:14:33] [Server thread/INFO]: maxdeviant was slain by Zombie Pigman
+[20:15:26] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[20:15:26] [Server thread/INFO]: /achievement give <stat_name> [player]
+[20:15:26] [Server thread/INFO]: /ban <name> [reason ...]
+[20:15:26] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[20:15:26] [Server thread/INFO]: /banlist [ips|players]
+[20:15:26] [Server thread/INFO]: /clear <player> [item] [data]
+[20:15:26] [Server thread/INFO]: /debug <start|stop>
+[20:15:26] [Server thread/INFO]: /defaultgamemode <mode>
+[20:15:29] [Server thread/INFO]: --- Showing help page 2 of 7 (/help <page>) ---
+[20:15:29] [Server thread/INFO]: /deop <player>
+[20:15:29] [Server thread/INFO]: /difficulty <new difficulty>
+[20:15:29] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[20:15:29] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[20:15:29] [Server thread/INFO]: /gamemode <mode> [player]
+[20:15:29] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[20:15:29] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[20:23:00] [Server thread/INFO]: maxdeviant was slain by Zombie Pigman
+[20:30:09] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:30:09] [Server thread/INFO]: iamnbutler left the game
+[20:30:16] [User Authenticator #34/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[20:30:16] [Server thread/INFO]: iamnbutler[/198.96.89.176:46203] logged in with entity id 1163326 at (145.2403781051724, 72.0, -44.56603088699749)
+[20:30:16] [Server thread/INFO]: iamnbutler joined the game
+[20:36:54] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+[20:37:00] [Server thread/INFO]: Teleported maxdeviant to iamnbutler
+[20:37:35] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:37:35] [Server thread/INFO]: iamnbutler left the game
+[20:39:25] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:39:25] [Server thread/INFO]: maxdeviant left the game
