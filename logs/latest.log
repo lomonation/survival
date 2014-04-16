@@ -1,16 +1,170 @@
-[00:44:20] [Server thread/INFO]: iamnbutler was shot by Skeleton
-[00:52:05] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:52:05] [Server thread/INFO]: iamnbutler left the game
-[00:52:42] [User Authenticator #12/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[00:52:42] [Server thread/INFO]: iamnbutler[/198.96.89.147:37289] logged in with entity id 1106348 at (-400.10989531908234, 64.0, -374.56381532406493)
-[00:52:42] [Server thread/INFO]: iamnbutler joined the game
-[00:53:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@22dac7c4[id=<null>,name=iamnbutler,properties={},legacy=false] (/198.96.89.147:40631) lost connection: Disconnected
-[01:36:39] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:36:39] [Server thread/INFO]: iamnbutler left the game
-[01:37:02] [User Authenticator #13/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[01:37:02] [Server thread/INFO]: iamnbutler[/198.96.89.147:41106] logged in with entity id 1228496 at (-716.1374999880791, 39.0, -6.862500011920927)
-[01:37:02] [Server thread/INFO]: iamnbutler joined the game
-[03:03:26] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:03:26] [Server thread/INFO]: maxdeviant left the game
-[04:30:12] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:30:12] [Server thread/INFO]: iamnbutler left the game
+[19:25:15] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[19:25:15] [Server thread/INFO]: Loading properties
+[19:25:15] [Server thread/INFO]: Default game type: SURVIVAL
+[19:25:15] [Server thread/INFO]: Generating keypair
+[19:25:16] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
+[19:25:16] [Server thread/INFO]: Preparing level "lomo"
+[19:25:16] [Server thread/INFO]: Preparing start region for level 0
+[19:25:17] [Server thread/INFO]: Preparing spawn area: 16%
+[19:25:18] [Server thread/INFO]: Done (1.909s)! For help, type "help" or "?"
+[19:25:22] [User Authenticator #1/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[19:25:22] [Server thread/INFO]: maxdeviant[/192.168.1.10:59358] logged in with entity id 253 at (-35.93488616541451, 57.0, 153.49141229610507)
+[19:25:22] [Server thread/INFO]: maxdeviant joined the game
+[19:25:23] [User Authenticator #2/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[19:25:23] [User Authenticator #3/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[19:25:23] [Server thread/INFO]: iamnbutler[/198.96.89.147:46945] logged in with entity id 341 at (-34.300000011920915, 50.0, 148.4754022772607)
+[19:25:23] [Server thread/INFO]: iamnbutler joined the game
+[19:25:23] [Server thread/INFO]: therastamasta[/69.249.70.239:54872] logged in with entity id 342 at (122.0526919949098, 70.0, -53.635784458503)
+[19:25:23] [Server thread/INFO]: therastamasta joined the game
+[19:26:37] [User Authenticator #4/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[19:26:37] [Server thread/INFO]: Itsall1337[/144.26.233.9:61642] logged in with entity id 5482 at (1004.4486212570837, 72.0, -50.43050794687231)
+[19:26:37] [Server thread/INFO]: Itsall1337 joined the game
+[19:29:57] [Server thread/INFO]: <Itsall1337> where are you guys
+[19:30:02] [Server thread/INFO]: <maxdeviant> we're in the neter
+[19:30:05] [Server thread/INFO]: <maxdeviant> *nether
+[19:30:28] [Server thread/INFO]: <Itsall1337> oh.
+[19:32:34] [Server thread/INFO]: <maxdeviant> you can come if you want, but be warned, it is dangerous :P
+[19:36:24] [Server thread/INFO]: <Itsall1337> how dangerous
+[19:38:22] [Server thread/INFO]: <maxdeviant> umm, just bank all of your stuff and then we can show you :)
+[19:38:38] [Server thread/INFO]: <Itsall1337> all of my stuff?
+[19:38:50] [Server thread/INFO]: <maxdeviant> well anything you aren't keen on losing
+[19:40:20] [Server thread/INFO]: <maxdeviant> you can just put it in that chest with your name on it
+[19:41:07] [Server thread/INFO]: <Itsall1337> i know, im just enchating stuff before i go
+[19:41:28] [Server thread/INFO]: <Itsall1337> okay, ready
+[19:42:16] [Server thread/INFO]: <iamnbutler> ok head to the old base
+[19:42:19] [Server thread/INFO]: <iamnbutler> the castle looking one
+[19:43:43] [Server thread/INFO]: <iamnbutler> omw
+[19:45:17] [Server thread/INFO]: <iamnbutler> follow me~~
+[19:45:43] [Server thread/INFO]: <iamnbutler> go in
+[19:46:00] [Server thread/INFO]: <iamnbutler> keep moving once we go
+[19:46:05] [Server thread/INFO]: <iamnbutler> guys shoot at you from the roof
+[19:46:09] [Server thread/INFO]: <iamnbutler> follow me
+[19:47:59] [Server thread/INFO]: <Itsall1337> creepy
+[19:48:48] [Server thread/INFO]: <maxdeviant> just be careful, cause they can set you on fire xD
+[19:48:57] [Server thread/INFO]: <Itsall1337> i got that
+[19:51:33] [Server thread/INFO]: <Itsall1337> so what does this do?
+[19:51:49] [Server thread/INFO]: <maxdeviant> it's an exp farm
+[19:51:56] [Server thread/INFO]: <Itsall1337> ahahah
+[19:52:00] [Server thread/INFO]: <maxdeviant> so we can get fairly fast xp to enchant stuff
+[19:52:09] [Server thread/INFO]: <maxdeviant> mainly our weapons and armor to take on the dragon
+[19:52:18] [Server thread/INFO]: <maxdeviant> and after that we'll build a better one in the end
+[19:52:23] [Server thread/INFO]: <Itsall1337> DRAGON :O
+[19:58:16] [Server thread/INFO]: <Itsall1337> i should get off and do homework soon
+[19:58:20] [Server thread/INFO]: <maxdeviant> okay
+[19:58:24] [Server thread/INFO]: <Itsall1337> i took a nap instead this afternoon XD
+[20:00:12] [Server thread/INFO]: <maxdeviant> HERE"S MARSHALL
+[20:00:17] [Server thread/INFO]: <Itsall1337> hahah
+[20:00:36] [Server thread/INFO]: <Itsall1337> need me to enchant anythiing?
+[20:00:46] [Server thread/INFO]: <maxdeviant> how many levels do you have?
+[20:01:00] [Server thread/INFO]: <Itsall1337> 6
+[20:01:15] [Server thread/INFO]: <Itsall1337> i just like hitting them
+[20:01:30] [Server thread/INFO]: <maxdeviant> you should wait until you get 21-31 levels and then enchant a book
+[20:01:36] [Server thread/INFO]: <maxdeviant> and guess what?
+[20:01:39] [Server thread/INFO]: <Itsall1337> what does that do?
+[20:01:42] [Server thread/INFO]: <Itsall1337> hm?
+[20:01:43] [Server thread/INFO]: <maxdeviant> we just found you a saddle :)
+[20:01:53] [Server thread/INFO]: <Itsall1337> :D HORSEY
+[20:05:50] [Server thread/INFO]: <Itsall1337> theres no easy way back to base?
+[20:05:57] [Server thread/INFO]: <maxdeviant> no, you have to run back
+[20:06:00] [Server thread/INFO]: <maxdeviant> or suicide :P
+[20:06:08] [Server thread/INFO]: <Itsall1337> okay. just because im getting off soon
+[20:07:09] [Server thread/INFO]: <Itsall1337> what can i use for a new swoed?
+[20:07:25] [Server thread/INFO]: <maxdeviant> here
+[20:09:08] [Server thread/INFO]: <maxdeviant> nathan just made a path of cobble back to the portal
+[20:09:14] [Server thread/INFO]: <maxdeviant> if you want to follow that
+[20:09:38] [Server thread/INFO]: <maxdeviant> follow me!
+[20:11:44] [Server thread/INFO]: <maxdeviant> wheee
+[20:11:59] [Server thread/INFO]: <maxdeviant> you survived your first excurision to the nether
+[20:12:04] [Server thread/INFO]: <Itsall1337> da :D
+[20:12:04] [Server thread/INFO]: <maxdeviant> that's more than kyle or nathan can say
+[20:12:10] [Server thread/INFO]: <iamnbutler> LOL
+[20:12:16] [Server thread/INFO]: <Itsall1337> well i didnt really do much
+[20:14:46] [Server thread/INFO]: Itsall1337 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:14:46] [Server thread/INFO]: Itsall1337 left the game
+[20:16:29] [Server thread/INFO]: iamnbutler has just earned the achievement [Local Brewery]
+[20:32:01] [Server thread/INFO]: maxdeviant lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:32:01] [Server thread/INFO]: maxdeviant left the game
+[20:32:18] [User Authenticator #5/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[20:32:18] [Server thread/INFO]: maxdeviant[/192.168.1.10:60444] logged in with entity id 229944 at (1241.5447010648384, 68.0, -401.2613375737666)
+[20:32:18] [Server thread/INFO]: maxdeviant joined the game
+[20:40:51] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:40:51] [Server thread/INFO]: maxdeviant left the game
+[20:40:53] [User Authenticator #6/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[20:40:53] [Server thread/INFO]: maxdeviant[/192.168.1.10:60623] logged in with entity id 260596 at (1484.8010912172992, 80.4132783584492, -523.932833502851)
+[20:40:53] [Server thread/INFO]: maxdeviant joined the game
+[20:41:02] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:41:02] [Server thread/INFO]: therastamasta left the game
+[20:41:04] [User Authenticator #7/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
+[20:41:04] [Server thread/INFO]: therastamasta[/69.249.70.239:56825] logged in with entity id 261014 at (1465.4290834617066, 72.0, -517.5395587747812)
+[20:41:04] [Server thread/INFO]: therastamasta joined the game
+[20:59:47] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:59:47] [Server thread/INFO]: maxdeviant left the game
+[21:08:49] [User Authenticator #8/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[21:08:49] [Server thread/INFO]: maxdeviant[/192.168.1.10:61231] logged in with entity id 358701 at (126.4508309909864, 70.0, -56.3048139875378)
+[21:08:49] [Server thread/INFO]: maxdeviant joined the game
+[21:35:10] [Server thread/INFO]: maxdeviant has just earned the achievement [The End?]
+[21:35:10] [Server thread/INFO]: iamnbutler has just earned the achievement [The End?]
+[21:35:48] [Server thread/INFO]: maxdeviant fell from a high place
+[21:36:34] [Server thread/INFO]: therastamasta fell from a high place
+[21:36:46] [Server thread/INFO]: iamnbutler was slain by Enderman
+[21:42:51] [User Authenticator #9/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[21:42:51] [Server thread/INFO]: Itsall1337[/144.26.233.9:62159] logged in with entity id 439457 at (112.48585040383388, 70.0, -57.85288471108424)
+[21:42:51] [Server thread/INFO]: Itsall1337 joined the game
+[21:43:09] [Server thread/INFO]: <maxdeviant> hey
+[21:43:52] [Server thread/INFO]: <Itsall1337> hey
+[21:54:46] [Server thread/INFO]: <Itsall1337> whos got the donkey
+[21:54:53] [Server thread/INFO]: <iamnbutler> danky kang
+[21:54:54] [Server thread/INFO]: <therastamasta> dankey kang
+[21:54:56] [Server thread/INFO]: <maxdeviant> kyle, cause he's a jackass
+[21:55:00] [Server thread/INFO]: <Itsall1337> haha
+[21:55:09] [Server thread/INFO]: <Itsall1337> well its in the house
+[21:57:06] [Server thread/INFO]: <maxdeviant> it's okay
+[21:57:12] [Server thread/INFO]: <maxdeviant> it's cause we don't have another leashw
+[21:59:38] [Server thread/INFO]: <maxdeviant> i'm gonna make it night
+[21:59:43] [Server thread/INFO]: <maxdeviant> so bunker down in a bed
+[21:59:45] [Server thread/INFO]: <maxdeviant> little missy
+[21:59:51] [Server thread/INFO]: <Itsall1337> wut?
+[22:00:50] [Server thread/INFO]: <maxdeviant> we need to set our spawns at the stronghold
+[22:00:56] [Server thread/INFO]: <maxdeviant> so just climb into a bed when I make it nights
+[22:01:04] [Server thread/INFO]: <Itsall1337> oh
+[22:01:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:01:29] [Server thread/INFO]: Set the time to 13000
+[22:01:53] [Server thread/INFO]: <iamnbutler> erin u wanna just log out for one sec?
+[22:02:03] [Server thread/INFO]: Itsall1337 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:02:03] [Server thread/INFO]: Itsall1337 left the game
+[22:03:38] [Server thread/INFO]: maxdeviant blew up
+[22:03:38] [Server thread/INFO]: maxdeviant has just earned the achievement [Overkill]
+[22:03:44] [User Authenticator #10/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[22:03:44] [Server thread/INFO]: Itsall1337[/144.26.233.9:62265] logged in with entity id 519101 at (119.36122738053122, 70.0, -56.88602349640618)
+[22:03:44] [Server thread/INFO]: Itsall1337 joined the game
+[22:05:36] [Server thread/INFO]: maxdeviant blew up
+[22:07:55] [Server thread/INFO]: maxdeviant was slain by Ender Dragon
+[22:08:47] [Server thread/INFO]: maxdeviant was slain by Ender Dragon
+[22:09:45] [Server thread/INFO]: therastamasta fell from a high place
+[22:11:29] [Server thread/INFO]: Itsall1337 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:11:29] [Server thread/INFO]: Itsall1337 left the game
+[22:12:40] [Server thread/INFO]: maxdeviant was slain by Ender Dragon
+[22:12:51] [Server thread/INFO]: therastamasta fell from a high place
+[22:14:53] [Server thread/INFO]: therastamasta fell from a high place
+[22:15:06] [Server thread/INFO]: iamnbutler fell from a high place
+[22:17:15] [Server thread/INFO]: maxdeviant was slain by Ender Dragon
+[22:21:57] [Server thread/INFO]: iamnbutler was slain by Enderman
+[22:22:24] [Server thread/INFO]: iamnbutler was slain by Ender Dragon
+[22:24:26] [Server thread/INFO]: iamnbutler was slain by Ender Dragon
+[22:24:41] [Server thread/INFO]: therastamasta was slain by Ender Dragon
+[22:26:51] [Server thread/INFO]: iamnbutler was slain by Ender Dragon
+[22:27:37] [Server thread/INFO]: therastamasta was slain by Ender Dragon
+[22:27:58] [Server thread/INFO]: therastamasta was slain by Ender Dragon
+[22:28:49] [Server thread/INFO]: iamnbutler was slain by Ender Dragon
+[22:29:59] [Server thread/INFO]: therastamasta was slain by Ender Dragon
+[22:30:08] [Server thread/INFO]: iamnbutler was slain by Ender Dragon
+[22:31:43] [Server thread/INFO]: maxdeviant has just earned the achievement [The End.]
+[22:31:49] [Server thread/INFO]: iamnbutler has just earned the achievement [The End.]
+[22:33:26] [Server thread/INFO]: 'midday' is not a valid number
+[22:33:35] [Server thread/INFO]: Set the time to 6000
+[22:54:56] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:54:56] [Server thread/INFO]: iamnbutler left the game
+[23:00:27] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:00:27] [Server thread/INFO]: maxdeviant left the game
+[23:17:58] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:17:58] [Server thread/INFO]: therastamasta left the game
