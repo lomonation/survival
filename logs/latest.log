@@ -1,12 +1,12 @@
-[18:10:33] [User Authenticator #9/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[18:10:33] [Server thread/INFO]: iamnbutler[/75.119.244.38:57229] logged in with entity id 7626468 at (174.51274440338412, 72.0, -38.81047360181397)
-[18:10:33] [Server thread/INFO]: iamnbutler joined the game
-[18:10:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@16981743[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:57227) lost connection: Disconnected
-[18:10:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@14198802[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:57228) lost connection: Disconnected
-[18:11:59] [User Authenticator #10/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[18:11:59] [Server thread/INFO]: maxdeviant[/192.168.1.10:53763] logged in with entity id 7663668 at (194.74576994361612, 72.0, -52.24081708008114)
-[18:11:59] [Server thread/INFO]: maxdeviant joined the game
-[19:27:05] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:27:05] [Server thread/INFO]: maxdeviant left the game
-[19:31:57] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:31:57] [Server thread/INFO]: iamnbutler left the game
+[01:36:11] [User Authenticator #14/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[01:36:11] [Server thread/INFO]: iamnbutler[/75.119.244.38:64230] logged in with entity id 11260575 at (109.72412275898064, 71.0, 17.4544391244802)
+[01:36:11] [Server thread/INFO]: iamnbutler joined the game
+[01:36:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c2449e7[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:64226) lost connection: Disconnected
+[01:36:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e4de723[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:64227) lost connection: Disconnected
+[01:36:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@7407e1e6[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:64228) lost connection: Disconnected
+[01:36:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@68ae5be2[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.244.38:64229) lost connection: Disconnected
+[02:14:22] [Server thread/INFO]: iamnbutler fell from a high place
+[03:37:07] [Server thread/WARN]: iamnbutler moved wrongly!
+[03:37:13] [Server thread/WARN]: iamnbutler moved wrongly!
+[03:48:38] [Server thread/WARN]: iamnbutler moved wrongly!
+[03:48:40] [Server thread/WARN]: iamnbutler moved wrongly!
