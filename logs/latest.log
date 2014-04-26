@@ -1,6 +1,19 @@
-[03:53:19] [User Authenticator #4/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[03:53:20] [Server thread/INFO]: iamnbutler[/75.119.252.212:60529] logged in with entity id 151895 at (127.10369153183507, 70.0, -57.216664635506625)
-[03:53:20] [Server thread/INFO]: iamnbutler joined the game
-[03:53:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@31d11f70[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:60526) lost connection: Disconnected
-[03:53:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@32fdceca[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:60527) lost connection: Disconnected
-[03:53:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@487767c6[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:60528) lost connection: Disconnected
+[00:14:57] [User Authenticator #17/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[00:14:57] [Server thread/INFO]: iamnbutler[/75.119.252.212:49776] logged in with entity id 510971 at (43.67018026862864, 12.0, 31.300000011920957)
+[00:14:57] [Server thread/INFO]: iamnbutler joined the game
+[00:15:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d3b397e[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:49774) lost connection: Disconnected
+[00:15:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@c37b4e2[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:49775) lost connection: Disconnected
+[01:23:26] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:23:26] [Server thread/INFO]: iamnbutler left the game
+[03:46:54] [User Authenticator #18/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[03:46:54] [Server thread/INFO]: iamnbutler[/75.119.252.212:52756] logged in with entity id 625097 at (31.30000001192088, 22.0, 34.69999998807904)
+[03:46:54] [Server thread/INFO]: iamnbutler joined the game
+[03:47:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e19da50[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:52755) lost connection: Disconnected
+[03:50:51] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:50:51] [Server thread/INFO]: iamnbutler left the game
+[03:54:55] [User Authenticator #19/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[03:54:55] [Server thread/INFO]: iamnbutler[/75.119.252.212:52840] logged in with entity id 636727 at (127.54769661412365, 75.0, -56.58716247164356)
+[03:54:55] [Server thread/INFO]: iamnbutler joined the game
+[03:55:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@54dcd635[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:52837) lost connection: Disconnected
+[03:55:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@60da1d0d[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:52838) lost connection: Disconnected
+[03:55:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a66d87d[id=<null>,name=iamnbutler,properties={},legacy=false] (/75.119.252.212:52839) lost connection: Disconnected
