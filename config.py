@@ -19,6 +19,13 @@ renders["survivalnether"] = {
 	"dimension": "nether",
 }
 
+renders["survivalend"] = {
+	"world": "Lomonation",
+	"title": "The End",
+	"rendermode": smooth_lighting,
+	"dimension": "end",
+}
+
 outputdir = "/var/www/minecraft/maps/lomonation"
 texturepath = "~/minecraft/Isabella_II_1.7f.zip"
 
