@@ -1,58 +1,107 @@
-[00:16:12] [User Authenticator #70/INFO]: UUID of player minemaster156 is 4e80a5d9-73c0-42d7-8d72-c0128cbd1504
-[00:16:12] [Server thread/INFO]: minemaster156[/99.235.135.33:58570] logged in with entity id 4914117 at (146.26088995784403, 74.0, 2.3792430421444215)
-[00:16:12] [Server thread/INFO]: minemaster156 joined the game
-[00:24:44] [User Authenticator #71/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[00:24:44] [Server thread/INFO]: iamnbutler[/108.175.225.214:64492] logged in with entity id 4932170 at (56.19304447340367, 72.0, 15.849435204582695)
-[00:24:44] [Server thread/INFO]: iamnbutler joined the game
-[00:24:59] [Server thread/INFO]: <iamnbutler> haha you are eternally online
-[00:25:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@25cfb8e0[id=<null>,name=iamnbutler,properties={},legacy=false] (/108.175.225.214:64490) lost connection: Disconnected
-[00:25:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@31bac09c[id=<null>,name=iamnbutler,properties={},legacy=false] (/108.175.225.214:64491) lost connection: Disconnected
-[00:25:05] [Server thread/INFO]: <minemaster156> i AM mine
-[00:25:12] [Server thread/INFO]: <iamnbutler> kekeke
-[00:25:18] [Server thread/INFO]: <iamnbutler> time to make one million fences
-[00:25:27] [Server thread/INFO]: <minemaster156> lol this is my brother's old account and I wanna change the name so badly
-[00:25:31] [Server thread/INFO]: <iamnbutler> hahaha
-[00:25:32] [Server thread/INFO]: minemaster156 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:25:32] [Server thread/INFO]: minemaster156 left the game
-[00:25:40] [User Authenticator #72/INFO]: UUID of player minemaster156 is 4e80a5d9-73c0-42d7-8d72-c0128cbd1504
-[00:25:40] [Server thread/INFO]: minemaster156[/99.235.135.33:58760] logged in with entity id 4934446 at (124.75856346160765, 71.0, -6.249622718102517)
-[00:25:40] [Server thread/INFO]: minemaster156 joined the game
-[00:25:47] [Server thread/INFO]: <minemaster156> weird
-[00:25:51] [Server thread/INFO]: <minemaster156> i got booted haha
-[00:25:51] [Server thread/INFO]: <iamnbutler> ??
-[00:25:54] [Server thread/INFO]: <iamnbutler> oh weird
-[00:26:04] [Server thread/INFO]: <iamnbutler> this runs on marshall's home server so
-[00:26:10] [Server thread/INFO]: <iamnbutler> it isn't the most stable ever
-[00:26:16] [Server thread/INFO]: <iamnbutler> it is pretty good tho
-[00:31:21] [Server thread/INFO]: <minemaster156> i was thinking of making a lava fountain
-[00:31:25] [Server thread/INFO]: <minemaster156> or is that too dangerous
-[00:31:25] [Server thread/INFO]: <iamnbutler> ooo
-[00:31:37] [Server thread/INFO]: <iamnbutler> just make sure you put your stuff away when you are working with it
-[00:31:41] [Server thread/INFO]: <minemaster156> I already have a lava bucket haha
-[00:31:51] [Server thread/INFO]: <iamnbutler> and keep a bucket of water around if you need to fix stuff
-[00:32:00] [Server thread/INFO]: <iamnbutler> make sure you don't use wood, it will light on fire
-[00:32:09] [Server thread/INFO]: <minemaster156> yuuuuup hahaha
-[00:32:15] [Server thread/INFO]: <iamnbutler> nether rack can burn foverer tho
-[00:32:28] [Server thread/INFO]: <iamnbutler> like fire will stay lit on top of it
-[00:32:32] [Server thread/INFO]: <iamnbutler> so you can do something with taht too
-[00:36:52] [Server thread/INFO]: <iamnbutler> gunna sleep soon or gunna stay up for a bit?
-[00:38:27] [Server thread/INFO]: <iamnbutler> ugh repairing creeper damage is such a pain
-[00:38:37] [Server thread/INFO]: <iamnbutler> when they blow up close to houses
-[00:41:43] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:41:43] [Server thread/INFO]: iamnbutler left the game
-[00:43:06] [User Authenticator #73/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[00:43:06] [Server thread/INFO]: iamnbutler[/108.175.225.214:64514] logged in with entity id 4977830 at (98.64976019674998, 69.0, 51.76249998807913)
-[00:43:06] [Server thread/INFO]: iamnbutler joined the game
-[00:43:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@2599f5e2[id=<null>,name=iamnbutler,properties={},legacy=false] (/108.175.225.214:64512) lost connection: Disconnected
-[00:43:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@100b8b69[id=<null>,name=iamnbutler,properties={},legacy=false] (/108.175.225.214:64513) lost connection: Disconnected
-[00:48:26] [Server thread/INFO]: minemaster156 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:48:26] [Server thread/INFO]: minemaster156 left the game
-[01:19:19] [Server thread/INFO]: iamnbutler lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:19:19] [Server thread/INFO]: iamnbutler left the game
-[21:27:18] [User Authenticator #74/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[21:27:18] [Server thread/INFO]: iamnbutler[/69.165.154.230:52153] logged in with entity id 5060404 at (130.06681707373616, 74.0, -69.79206351126489)
-[21:27:18] [Server thread/INFO]: iamnbutler joined the game
-[21:27:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d7366d1[id=<null>,name=iamnbutler,properties={},legacy=false] (/69.165.154.230:52151) lost connection: Disconnected
-[21:27:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fc9dab4[id=<null>,name=iamnbutler,properties={},legacy=false] (/69.165.154.230:52152) lost connection: Disconnected
-[21:28:27] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:28:27] [Server thread/INFO]: iamnbutler left the game
+[00:47:00] [User Authenticator #81/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[00:47:00] [Server thread/INFO]: iamnbutler[/69.165.154.230:59121] logged in with entity id 5364984 at (128.73902258869782, 73.0, 30.21634826410285)
+[00:47:00] [Server thread/INFO]: iamnbutler joined the game
+[01:02:22] [User Authenticator #82/INFO]: UUID of player minemaster156 is 4e80a5d9-73c0-42d7-8d72-c0128cbd1504
+[01:02:22] [Server thread/INFO]: minemaster156[/99.235.135.33:64076] logged in with entity id 5399933 at (147.2969223618278, 72.0, -91.72286399464495)
+[01:02:22] [Server thread/INFO]: minemaster156 joined the game
+[01:02:25] [Server thread/INFO]: <iamnbutler> o
+[01:02:38] [Server thread/INFO]: <iamnbutler> its a lady
+[01:02:40] [Server thread/INFO]: <iamnbutler> ew
+[01:02:42] [Server thread/INFO]: <minemaster156> gross
+[01:02:44] [Server thread/INFO]: <minemaster156> get it off
+[01:03:25] [Server thread/INFO]: <iamnbutler> gunna work on the villager village
+[01:03:32] [Server thread/INFO]: <iamnbutler> I think I've enslaved them long enough
+[01:05:41] [Server thread/INFO]: <minemaster156> hahaha
+[01:05:47] [Server thread/INFO]: <minemaster156> ill come visit
+[01:05:52] [Server thread/INFO]: <minemaster156> o we have a new abode here?
+[01:05:57] [Server thread/INFO]: <iamnbutler> no gurls alowed
+[01:05:59] [Server thread/INFO]: <iamnbutler> o do we
+[01:06:09] [Server thread/INFO]: <iamnbutler> another friend came on for the first time today
+[01:06:14] [Server thread/INFO]: <minemaster156> it has lava
+[01:06:16] [Server thread/INFO]: <iamnbutler> so perhaps he started one
+[01:06:19] [Server thread/INFO]: <iamnbutler> ooohhh
+[01:06:23] [Server thread/INFO]: <iamnbutler> that is the blacksmith
+[01:06:29] [Server thread/INFO]: <iamnbutler> will be done soon(tm)
+[01:06:30] [Server thread/INFO]: <minemaster156> oooo
+[01:06:45] [Server thread/INFO]: <iamnbutler> aka who knows when I'll get back to building it
+[01:06:46] [Server thread/INFO]: <iamnbutler> lol
+[01:10:42] [Server thread/INFO]: <minemaster156> hahaha
+[01:10:49] [Server thread/INFO]: <minemaster156> open fire is dangerous u fool
+[01:10:58] [Server thread/INFO]: <iamnbutler> it is contained u fool
+[01:11:02] [Server thread/INFO]: <iamnbutler> what u ganna work on?
+[01:11:06] [Server thread/INFO]: <minemaster156> YOU'RE CONTAINED
+[01:11:09] [Server thread/INFO]: <minemaster156> lmfao
+[01:11:16] [Server thread/INFO]: <iamnbutler> ;==;
+[01:11:18] [Server thread/INFO]: <minemaster156> i dunno, maybe ill finish our sheep rainbow
+[01:11:20] [Server thread/INFO]: <iamnbutler> bully
+[01:11:24] [Server thread/INFO]: <iamnbutler> oo
+[01:11:27] [Server thread/INFO]: <minemaster156> i have to get revenge somehow
+[01:11:37] [Server thread/INFO]: <iamnbutler> they need to be sorted
+[01:14:29] [Server thread/INFO]: <iamnbutler> yoho
+[01:14:36] [Server thread/INFO]: <iamnbutler> wanna come tell me if u like this style?
+[01:14:40] [Server thread/INFO]: <minemaster156> where u at bro
+[01:14:50] [Server thread/INFO]: <iamnbutler> by the villager hut
+[01:15:35] [Server thread/INFO]: <iamnbutler> where u going
+[01:15:36] [Server thread/INFO]: <iamnbutler> lol
+[01:16:03] [Server thread/INFO]: <iamnbutler> south of the area u cleared for your keep
+[01:16:16] [Server thread/INFO]: <iamnbutler> dis
+[01:16:19] [Server thread/INFO]: <minemaster156> cutie
+[01:16:28] [Server thread/INFO]: <iamnbutler> dis gon b the road style
+[01:16:32] [Server thread/INFO]: <iamnbutler> for the town
+[01:16:38] [Server thread/INFO]: <minemaster156> coolio it looks nice
+[01:16:42] [Server thread/INFO]: <iamnbutler> I'm gunna tear up most of the stuff here now
+[01:16:46] [Server thread/INFO]: <iamnbutler> and plan it out
+[01:16:57] [Server thread/INFO]: <iamnbutler> u r welcome to help if u want
+[01:17:01] [Server thread/INFO]: <minemaster156> u seem to have dropped some spider eyes
+[01:17:08] [Server thread/INFO]: <iamnbutler> eww
+[01:17:11] [Server thread/INFO]: <iamnbutler> they are icky
+[01:17:16] [Server thread/INFO]: <minemaster156> kkkkkkk
+[01:17:26] [Server thread/INFO]: <iamnbutler> I wanna make it kinda cute
+[01:17:32] [Server thread/INFO]: <minemaster156> thats a nice lil lake
+[01:17:34] [Server thread/INFO]: <iamnbutler> like a european streat
+[01:17:37] [Server thread/INFO]: <iamnbutler> street
+[01:17:40] [Server thread/INFO]: <minemaster156> awwww
+[01:17:42] [Server thread/INFO]: <minemaster156> yes plz
+[01:17:50] [Server thread/INFO]: <minemaster156> and yeah ill help!
+[01:17:54] [Server thread/INFO]: <iamnbutler> so we gotta plan buildings and stuff around that
+[01:20:01] [Server thread/INFO]: <iamnbutler> actually im gunna make this center square thing bigger
+[01:20:09] [Server thread/INFO]: <iamnbutler> should I move everything further from the wall?
+[01:20:15] [Server thread/INFO]: <minemaster156> probably a bit
+[01:20:19] [Server thread/INFO]: <iamnbutler> k
+[01:20:21] [Server thread/INFO]: <minemaster156> lol so much work
+[01:20:24] [Server thread/INFO]: <iamnbutler> I'm gunna take this apart first
+[01:20:35] [Server thread/INFO]: <iamnbutler> we can probably use some chests to store materials as well
+[01:21:23] [Server thread/INFO]: <minemaster156> hes so cute
+[01:21:28] [Server thread/INFO]: <iamnbutler> hehe
+[01:21:36] [Server thread/INFO]: <minemaster156> i wanna see him holding a flower
+[01:21:50] [Server thread/INFO]: <iamnbutler> once there are villager kids u can see it :3
+[01:22:48] [Server thread/INFO]: <minemaster156> need help with this?
+[01:22:54] [Server thread/INFO]: <iamnbutler> pls T T
+[01:23:01] [Server thread/INFO]: <iamnbutler> EVERYTHING MUST GO
+[01:23:43] [Server thread/INFO]: <minemaster156> the whole thing?
+[01:23:53] [Server thread/INFO]: <iamnbutler> yeah
+[01:24:05] [Server thread/INFO]: <iamnbutler> all the buildings here cept the spawning house
+[01:24:31] [Server thread/INFO]: <minemaster156> we should use TNT kekekekeke
+[01:24:46] [Server thread/INFO]: <iamnbutler> u have rich tastes
+[01:24:47] [Server thread/INFO]: <iamnbutler> haha
+[01:24:56] [Server thread/INFO]: <minemaster156> ive never used it
+[01:25:02] [Server thread/INFO]: <minemaster156> i wanna blow stuff up
+[01:25:03] [Server thread/INFO]: <iamnbutler> o ya?
+[01:25:05] [Server thread/INFO]: <iamnbutler> haha
+[01:25:16] [Server thread/INFO]: <iamnbutler> once we get a mob spawner going we'll getchu some
+[01:25:49] [Server thread/INFO]: <iamnbutler> k there are some chests over there
+[01:25:58] [Server thread/INFO]: <iamnbutler> one for dirt, one for wood and one for stone
+[01:26:27] [Server thread/INFO]: <minemaster156> oh yeah i was looking for those haha
+[01:26:48] [Server thread/INFO]: <iamnbutler> after we take these apart, before we start building
+[01:26:58] [Server thread/INFO]: <iamnbutler> we'll make a floorplan for the town
+[01:27:08] [Server thread/INFO]: <iamnbutler> so we know where stuff will go
+[01:27:17] [Server thread/INFO]: <iamnbutler> then we can design the houses individually
+[01:28:33] [Server thread/INFO]: <iamnbutler> omg i've had that BoA song in my head all day
+[01:28:41] [Server thread/INFO]: <minemaster156> sweet sweet boa
+[01:28:45] [Server thread/INFO]: <minemaster156> lol should we go on skype
+[01:28:49] [Server thread/INFO]: <iamnbutler> k
+[02:23:22] [Server thread/INFO]: iamnbutler drowned
+[02:49:18] [Server thread/INFO]: minemaster156 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:49:18] [Server thread/INFO]: minemaster156 left the game
+[02:49:32] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:49:32] [Server thread/INFO]: iamnbutler left the game
