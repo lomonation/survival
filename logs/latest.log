@@ -1,23 +1,8 @@
-[00:17:05] [User Authenticator #88/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[00:17:05] [Server thread/INFO]: maxdeviant[/192.168.1.10:57550] logged in with entity id 5934623 at (99.73676314215687, 74.0, -97.26262110634637)
-[00:17:05] [Server thread/INFO]: maxdeviant joined the game
-[00:55:44] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:55:44] [Server thread/INFO]: iamnbutler left the game
-[00:57:24] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:57:24] [Server thread/INFO]: maxdeviant left the game
-[11:26:07] [User Authenticator #89/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[11:26:07] [Server thread/INFO]: maxdeviant[/144.26.234.39:50471] logged in with entity id 5991527 at (119.74672281824796, 70.0, 31.818299275963675)
-[11:26:07] [Server thread/INFO]: maxdeviant joined the game
-[11:27:53] [User Authenticator #90/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
-[11:27:53] [Server thread/INFO]: Itsall1337[/144.26.233.9:54351] logged in with entity id 5995740 at (113.29898611736287, 70.0, -57.44243112198369)
-[11:27:53] [Server thread/INFO]: Itsall1337 joined the game
-[11:35:51] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[11:35:51] [Server thread/INFO]: maxdeviant left the game
-[12:02:22] [Server thread/INFO]: Itsall1337 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:02:22] [Server thread/INFO]: Itsall1337 left the game
-[15:41:51] [User Authenticator #91/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[15:41:51] [Server thread/INFO]: Tarnanduil[/130.18.131.53:50938] logged in with entity id 6072326 at (46.0206222115678, 80.0, -264.37380017227593)
-[15:41:51] [Server thread/INFO]: Tarnanduil joined the game
-[16:07:42] [Server thread/INFO]: Tarnanduil tried to swim in lava
-[16:10:50] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:10:50] [Server thread/INFO]: Tarnanduil left the game
+[22:19:12] [User Authenticator #92/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[22:19:12] [Server thread/INFO]: Tarnanduil[/130.18.131.53:59549] logged in with entity id 6113226 at (99.40593541318499, 74.0, -111.54150582411552)
+[22:19:12] [Server thread/INFO]: Tarnanduil joined the game
+[22:48:03] [Server thread/INFO]: Tarnanduil was blown up by Creeper
+[23:01:32] [Server thread/INFO]: Tarnanduil was blown up by Creeper
+[23:05:55] [Server thread/INFO]: Tarnanduil was slain by Zombie
+[23:06:02] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:06:02] [Server thread/INFO]: Tarnanduil left the game
