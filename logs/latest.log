@@ -1,18 +1,6 @@
-[14:01:05] [User Authenticator #109/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[14:01:05] [Server thread/INFO]: maxdeviant[/192.168.1.10:56015] logged in with entity id 7981644 at (123.20757011398638, 70.0, -54.98910330934452)
-[14:01:05] [Server thread/INFO]: maxdeviant joined the game
-[14:14:17] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:14:17] [Server thread/INFO]: maxdeviant left the game
-[14:14:19] [User Authenticator #110/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[14:14:19] [Server thread/INFO]: maxdeviant[/192.168.1.10:56139] logged in with entity id 8025646 at (7.03745107352638, 68.0, -17.833277698815532)
-[14:14:19] [Server thread/INFO]: maxdeviant joined the game
-[14:15:00] [Server thread/INFO]: therastamasta has just earned the achievement [We Need to Go Deeper]
-[14:28:30] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:28:30] [Server thread/INFO]: maxdeviant left the game
-[14:28:35] [User Authenticator #111/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[14:28:35] [Server thread/INFO]: maxdeviant[/192.168.1.10:56304] logged in with entity id 8059630 at (109.11270890126212, 65.5, 57.3048089770793)
-[14:28:35] [Server thread/INFO]: maxdeviant joined the game
-[14:28:59] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:28:59] [Server thread/INFO]: maxdeviant left the game
-[14:29:18] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:29:18] [Server thread/INFO]: therastamasta left the game
+[00:14:02] [Server thread/INFO]: maxdeviant fell from a high place
+[00:39:08] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:39:08] [Server thread/INFO]: maxdeviant left the game
+[00:54:35] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:54:35] [Server thread/INFO]: iamnbutler left the game
+[03:02:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
