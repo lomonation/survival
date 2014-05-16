@@ -1,2 +1,8 @@
-[03:18:16] [Server thread/INFO]: therastamasta lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:18:16] [Server thread/INFO]: therastamasta left the game
+[01:54:38] [User Authenticator #131/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[01:54:38] [Server thread/INFO]: Tarnanduil[/108.228.160.162:49450] logged in with entity id 10709429 at (183.69874541693272, 22.0, -231.3714207750297)
+[01:54:38] [Server thread/INFO]: Tarnanduil joined the game
+[02:44:58] [Server thread/INFO]: Tarnanduil has just earned the achievement [Cow Tipper]
+[02:53:52] [Server thread/INFO]: * Tarnanduil spawn
+[02:58:25] [Server thread/INFO]: Tarnanduil drowned
+[03:08:08] [Server thread/INFO]: Tarnanduil has just earned the achievement [We Need to Go Deeper]
+[03:54:29] [Server thread/INFO]: Tarnanduil has just earned the achievement [Repopulation]
