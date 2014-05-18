@@ -1,54 +1,44 @@
-[00:21:22] [User Authenticator #147/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[00:21:22] [Server thread/INFO]: iamnbutler[/198.96.89.228:45641] logged in with entity id 12432517 at (11.561029894807568, 75.0, -1089.8325311204285)
-[00:21:22] [Server thread/INFO]: iamnbutler joined the game
-[00:30:23] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:30:23] [Server thread/INFO]: iamnbutler left the game
-[00:37:37] [User Authenticator #148/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[00:37:37] [Server thread/INFO]: Tarnanduil[/108.228.160.162:51345] logged in with entity id 12465774 at (179.80636094496654, 72.7000000178814, -85.7761833398416)
-[00:37:37] [Server thread/INFO]: Tarnanduil joined the game
-[00:48:05] [User Authenticator #149/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[00:48:05] [Server thread/INFO]: iamnbutler[/198.96.89.228:42263] logged in with entity id 12490215 at (22.164796776454253, 69.0, 27.959955303926968)
-[00:48:05] [Server thread/INFO]: iamnbutler joined the game
-[00:48:32] [Server thread/INFO]: <Tarnanduil> Woot!
-[00:48:38] [Server thread/INFO]: <iamnbutler> hai :o
-[00:48:53] [Server thread/INFO]: <iamnbutler> noticed you have been busy
-[00:49:03] [Server thread/INFO]: <Tarnanduil> Indeed!
-[00:49:17] [Server thread/INFO]: <Tarnanduil> Krigy and I have been busy bees :)
-[00:49:21] [Server thread/INFO]: <iamnbutler> haha
-[00:49:38] [Server thread/INFO]: <iamnbutler> not sure if you noticed but I set up a portal system linking from the main town
-[00:49:58] [Server thread/INFO]: <iamnbutler> it goes to various places
-[00:50:14] [Server thread/INFO]: <iamnbutler> the stronghold that goes to the end, and a bunch of other places
-[00:50:21] [Server thread/INFO]: <Tarnanduil> I tried one and I think it malfunctioned :P
-[00:50:34] [Server thread/INFO]: <iamnbutler> o.O where did you end up?
-[00:50:38] [Server thread/INFO]: <iamnbutler> it should work
-[00:51:01] [Server thread/INFO]: <Tarnanduil> I think a lower level in the nether; it was one of the portals in the nether
-[00:51:17] [Server thread/INFO]: <iamnbutler> ohh.. marshall must have left the lower one active
-[00:51:30] [Server thread/INFO]: <iamnbutler> it isn't supposed to be active lol
-[00:51:46] [Server thread/INFO]: <Tarnanduil> Ended up running back :P
-[00:52:01] [Server thread/INFO]: <iamnbutler> lemme go fix that
-[00:52:01] [Server thread/INFO]: <Tarnanduil> Had plenty of food, so it was fine :)
-[00:52:24] [Server thread/INFO]: <iamnbutler> o ya
-[00:52:42] [Server thread/INFO]: <iamnbutler> I have a fortune pick if you need any rare materials farmed
-[00:53:13] [Server thread/INFO]: <Tarnanduil> Diamonds are just waiting to be mined :)
-[00:53:38] [Server thread/INFO]: <iamnbutler> ok so where didja get stuck in the portal room?
-[00:54:23] [Server thread/INFO]: <Tarnanduil> It was down the incomplete tunnel
-[00:54:34] [Server thread/INFO]: <iamnbutler> ph
-[00:54:35] [Server thread/INFO]: <iamnbutler> oh
-[00:54:46] [Server thread/INFO]: <iamnbutler> marshall added a bunch
-[00:54:55] [Server thread/INFO]: <iamnbutler> the only one you should really need is the one that is straight
-[00:55:00] [Server thread/INFO]: <iamnbutler> when you come out the portal
-[00:55:05] [Server thread/INFO]: <iamnbutler> then turn left
-[00:55:18] [Server thread/INFO]: <iamnbutler> takes you to the stronghold and the end where the enderman spawner is
-[00:55:30] [Server thread/INFO]: <Tarnanduil> went through the first time fine, came back fine; then I think it added another one, and I got stuck
-[00:55:34] [Server thread/INFO]: <Tarnanduil> Alrighty
-[00:55:39] [Server thread/INFO]: <Tarnanduil> sounds good
-[00:55:44] [Server thread/INFO]: <iamnbutler> I'll label all the paths once I get back to working on it
-[00:55:46] [Server thread/INFO]: <iamnbutler> ahh I see
-[00:55:54] [Server thread/INFO]: <iamnbutler> that can happen if the portal isn't placed properly
-[01:25:58] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:25:58] [Server thread/INFO]: iamnbutler left the game
-[02:03:41] [Server thread/INFO]: Tarnanduil has just earned the achievement [Into Fire]
-[02:28:27] [Server thread/INFO]: Tarnanduil tried to swim in lava
-[03:06:55] [Server thread/INFO]: Tarnanduil was slain by Zombie
-[03:26:11] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:26:11] [Server thread/INFO]: Tarnanduil left the game
+[00:00:07] [Server thread/INFO]: <calegok> is like attic, but no ladder
+[00:00:07] [Server thread/INFO]: <Tarnanduil> Trap door?
+[00:00:28] [Server thread/INFO]: <calegok> I don't think you can actaully fit up there
+[00:01:53] [Server thread/INFO]: <calegok> oh
+[00:02:03] [Server thread/INFO]: <calegok> there's a hole in my wall
+[00:02:12] [Server thread/INFO]: <Tarnanduil> eheh
+[00:02:20] [Server thread/INFO]: <Tarnanduil> HA
+[00:02:42] [Server thread/INFO]: <Tarnanduil> Little draty
+[00:02:48] [Server thread/INFO]: <Tarnanduil> *drafty
+[00:02:54] [Server thread/INFO]: <calegok> nonesense
+[00:03:03] [Server thread/INFO]: <calegok> there
+[00:03:03] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:03:03] [Server thread/INFO]: therastamasta left the game
+[00:03:07] [Server thread/INFO]: <calegok> no problem
+[00:03:13] [Server thread/INFO]: <Tarnanduil> Who was our friend?
+[00:03:19] [Server thread/INFO]: <calegok> Kyle
+[00:03:36] [Server thread/INFO]: <Tarnanduil> Who se are you se?
+[00:03:50] [Server thread/INFO]: <calegok> marshals brother I think
+[00:03:58] [Server thread/INFO]: <Tarnanduil> OOoooohhh
+[00:04:13] [Server thread/INFO]: <calegok> woah
+[00:04:17] [Server thread/INFO]: <Tarnanduil> mmm?
+[00:04:24] [Server thread/INFO]: <calegok> trapdoors can open down
+[00:04:36] [Server thread/INFO]: <Tarnanduil> yep :)
+[00:05:00] [Server thread/INFO]: <calegok> is secret chest now
+[00:05:03] [Server thread/INFO]: <calegok> not really
+[00:05:10] [Server thread/INFO]: <calegok> just efficient use of spae
+[00:05:13] [Server thread/INFO]: <calegok> space*
+[00:05:18] [Server thread/INFO]: <calegok> highly compact house
+[00:06:26] [Server thread/INFO]: <calegok> ok I sleep
+[00:06:31] [Server thread/INFO]: <Tarnanduil> alrighty
+[00:06:41] [Server thread/INFO]: <Tarnanduil> Sweet dreams :)
+[00:06:41] [Server thread/INFO]: <calegok> goodnight
+[00:06:45] [Server thread/INFO]: <calegok> you as well
+[00:06:49] [Server thread/INFO]: calegok lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:06:49] [Server thread/INFO]: calegok left the game
+[01:18:57] [Server thread/INFO]: Tarnanduil was burnt to a crisp whilst fighting Blaze
+[02:16:34] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:16:34] [Server thread/INFO]: Tarnanduil left the game
+[02:59:04] [User Authenticator #9/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[02:59:04] [Server thread/INFO]: Tarnanduil[/108.228.160.162:54316] logged in with entity id 734827 at (30.49295368825331, 73.0, -219.69425108513042)
+[02:59:04] [Server thread/INFO]: Tarnanduil joined the game
+[03:25:15] [Server thread/INFO]: Tarnanduil was slain by Enderman
+[03:27:11] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:27:11] [Server thread/INFO]: Tarnanduil left the game
