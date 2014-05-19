@@ -1,44 +1,10 @@
-[00:00:07] [Server thread/INFO]: <calegok> is like attic, but no ladder
-[00:00:07] [Server thread/INFO]: <Tarnanduil> Trap door?
-[00:00:28] [Server thread/INFO]: <calegok> I don't think you can actaully fit up there
-[00:01:53] [Server thread/INFO]: <calegok> oh
-[00:02:03] [Server thread/INFO]: <calegok> there's a hole in my wall
-[00:02:12] [Server thread/INFO]: <Tarnanduil> eheh
-[00:02:20] [Server thread/INFO]: <Tarnanduil> HA
-[00:02:42] [Server thread/INFO]: <Tarnanduil> Little draty
-[00:02:48] [Server thread/INFO]: <Tarnanduil> *drafty
-[00:02:54] [Server thread/INFO]: <calegok> nonesense
-[00:03:03] [Server thread/INFO]: <calegok> there
-[00:03:03] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:03:03] [Server thread/INFO]: therastamasta left the game
-[00:03:07] [Server thread/INFO]: <calegok> no problem
-[00:03:13] [Server thread/INFO]: <Tarnanduil> Who was our friend?
-[00:03:19] [Server thread/INFO]: <calegok> Kyle
-[00:03:36] [Server thread/INFO]: <Tarnanduil> Who se are you se?
-[00:03:50] [Server thread/INFO]: <calegok> marshals brother I think
-[00:03:58] [Server thread/INFO]: <Tarnanduil> OOoooohhh
-[00:04:13] [Server thread/INFO]: <calegok> woah
-[00:04:17] [Server thread/INFO]: <Tarnanduil> mmm?
-[00:04:24] [Server thread/INFO]: <calegok> trapdoors can open down
-[00:04:36] [Server thread/INFO]: <Tarnanduil> yep :)
-[00:05:00] [Server thread/INFO]: <calegok> is secret chest now
-[00:05:03] [Server thread/INFO]: <calegok> not really
-[00:05:10] [Server thread/INFO]: <calegok> just efficient use of spae
-[00:05:13] [Server thread/INFO]: <calegok> space*
-[00:05:18] [Server thread/INFO]: <calegok> highly compact house
-[00:06:26] [Server thread/INFO]: <calegok> ok I sleep
-[00:06:31] [Server thread/INFO]: <Tarnanduil> alrighty
-[00:06:41] [Server thread/INFO]: <Tarnanduil> Sweet dreams :)
-[00:06:41] [Server thread/INFO]: <calegok> goodnight
-[00:06:45] [Server thread/INFO]: <calegok> you as well
-[00:06:49] [Server thread/INFO]: calegok lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:06:49] [Server thread/INFO]: calegok left the game
-[01:18:57] [Server thread/INFO]: Tarnanduil was burnt to a crisp whilst fighting Blaze
-[02:16:34] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:16:34] [Server thread/INFO]: Tarnanduil left the game
-[02:59:04] [User Authenticator #9/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[02:59:04] [Server thread/INFO]: Tarnanduil[/108.228.160.162:54316] logged in with entity id 734827 at (30.49295368825331, 73.0, -219.69425108513042)
-[02:59:04] [Server thread/INFO]: Tarnanduil joined the game
-[03:25:15] [Server thread/INFO]: Tarnanduil was slain by Enderman
-[03:27:11] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:27:11] [Server thread/INFO]: Tarnanduil left the game
+[01:32:36] [User Authenticator #26/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[01:32:36] [Server thread/INFO]: Tarnanduil[/108.228.160.162:57297] logged in with entity id 1352680 at (43.049872023890366, 80.0, -264.50405590012565)
+[01:32:36] [Server thread/INFO]: Tarnanduil joined the game
+[02:32:52] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:32:52] [Server thread/INFO]: Tarnanduil left the game
+[02:57:33] [User Authenticator #27/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[02:57:33] [Server thread/INFO]: Tarnanduil[/108.228.160.162:57430] logged in with entity id 1398703 at (304.25276837639626, 1.0, 1.481138090826038)
+[02:57:33] [Server thread/INFO]: Tarnanduil joined the game
+[03:27:34] [Server thread/INFO]: Tarnanduil was slain by Enderman
+[03:44:34] [Server thread/INFO]: Tarnanduil has just earned the achievement [The End.]
