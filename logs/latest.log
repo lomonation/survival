@@ -1,11 +1,5 @@
-[00:22:21] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:22:21] [Server thread/INFO]: Tarnanduil left the game
-[01:22:31] [User Authenticator #87/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[01:22:32] [Server thread/INFO]: iamnbutler[/198.96.89.238:47440] logged in with entity id 5291539 at (311.38458305497886, 1.0, -0.46385582571727574)
-[01:22:32] [Server thread/INFO]: iamnbutler joined the game
-[01:42:25] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:42:25] [Server thread/INFO]: iamnbutler left the game
-[01:42:43] [User Authenticator #88/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
-[01:42:43] [Server thread/INFO]: iamnbutler[/198.96.89.238:36546] logged in with entity id 5312837 at (146.3538267991584, 72.0, -57.04931392194358)
-[01:42:43] [Server thread/INFO]: iamnbutler joined the game
-[03:28:01] [Server thread/INFO]: iamnbutler fell out of the world
+[00:17:15] [User Authenticator #101/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:17:16] [Server thread/INFO]: Tarnanduil[/98.95.146.167:62948] logged in with entity id 6920490 at (1143.4509066417252, 62.39587751688351, 541.0742751747276)
+[00:17:16] [Server thread/INFO]: Tarnanduil joined the game
+[01:57:45] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:57:45] [Server thread/INFO]: Tarnanduil left the game
