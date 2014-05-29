@@ -1,5 +1,416 @@
-[00:17:15] [User Authenticator #101/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[00:17:16] [Server thread/INFO]: Tarnanduil[/98.95.146.167:62948] logged in with entity id 6920490 at (1143.4509066417252, 62.39587751688351, 541.0742751747276)
-[00:17:16] [Server thread/INFO]: Tarnanduil joined the game
-[01:57:45] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:57:45] [Server thread/INFO]: Tarnanduil left the game
+[00:00:01] [Server thread/INFO]: <iamnbutler> the big building was gunna be an inn
+[00:00:05] [Server thread/INFO]: <Tarnanduil> Ah
+[00:00:13] [Server thread/INFO]: <iamnbutler> but it ended up just filling random roles while we were getting started
+[00:02:33] [Server thread/INFO]: <Tarnanduil> Glass and red wool are the only two things we are short of atm; gathered most of everything else
+[00:02:44] [Server thread/INFO]: <iamnbutler> yeah
+[00:03:08] [Server thread/INFO]: <iamnbutler> glass just gotta get a good efficency shovel and go somewhere out in the desert
+[00:03:14] [Server thread/INFO]: <iamnbutler> it will go pretty fast
+[00:04:29] [Server thread/INFO]: <Tarnanduil> What's with the rainbow sheep?
+[00:04:34] [Server thread/INFO]: <iamnbutler> lol
+[00:04:40] [Server thread/INFO]: <iamnbutler> a friend made it
+[00:04:46] [Server thread/INFO]: <Tarnanduil> Cool
+[00:04:51] [Server thread/INFO]: <iamnbutler> if u name a sheep "jeb_" it goes rainbow
+[00:05:05] [Server thread/INFO]: <Tarnanduil> Haha, nice :P
+[00:06:00] [Server thread/INFO]: <Tarnanduil> Oh, and add bookshelves to that list -_-
+[00:06:10] [Server thread/INFO]: <iamnbutler> ahahah yeah leather is a pain
+[00:06:18] [Server thread/INFO]: <iamnbutler> I was gunna look into an auto cow farm
+[00:06:21] [Server thread/INFO]: <iamnbutler> I'll get around to that
+[00:06:25] [Server thread/INFO]: <iamnbutler> eventually haha
+[00:06:30] [Server thread/INFO]: <Tarnanduil> HA
+[00:06:35] [Server thread/INFO]: <Tarnanduil> Too much to do!
+[00:06:43] [Server thread/INFO]: <iamnbutler> we need more active people lo
+[00:06:45] [Server thread/INFO]: <iamnbutler> lol
+[00:07:11] [Server thread/INFO]: <iamnbutler> I'm gunna have to go on another glowstone adventure soon
+[00:07:31] [Server thread/INFO]: <iamnbutler> you are using the server textures when you build right?
+[00:07:39] [Server thread/INFO]: <Tarnanduil> Uuuhhhh
+[00:07:44] [Server thread/INFO]: <Tarnanduil> Nope :P
+[00:07:48] [Server thread/INFO]: <iamnbutler> ohh
+[00:07:51] [Server thread/INFO]: <Tarnanduil> That might help
+[00:08:02] [Server thread/INFO]: <iamnbutler> yeah that might make a big difference lol
+[00:10:01] [Server thread/INFO]: <Tarnanduil> Let me see what that looks like real quick
+[00:10:05] [Server thread/INFO]: <Tarnanduil> brb
+[00:10:06] [Server thread/INFO]: <iamnbutler> k
+[00:10:08] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:10:08] [Server thread/INFO]: Tarnanduil left the game
+[00:10:39] [User Authenticator #115/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:10:39] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64486] logged in with entity id 7796887 at (12.259573310707077, 69.0, 23.160664311134315)
+[00:10:39] [Server thread/INFO]: Tarnanduil joined the game
+[00:12:01] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:12:01] [Server thread/INFO]: Tarnanduil left the game
+[00:12:23] [User Authenticator #116/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:12:23] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64493] logged in with entity id 7806094 at (132.30372112988658, 71.0, -12.748019069426226)
+[00:12:23] [Server thread/INFO]: Tarnanduil joined the game
+[00:12:56] [Server thread/INFO]: <Tarnanduil> I'm going to have to download the pack manually, aren't I?
+[00:13:03] [Server thread/INFO]: <iamnbutler> I can send u the link
+[00:13:13] [Server thread/INFO]: <iamnbutler> I use a manual one, it's a pain to download every time
+[00:13:15] [Server thread/INFO]: <Tarnanduil> That would be great!
+[00:13:28] [Server thread/INFO]: <iamnbutler> if u want, I got the 1.8 one and modded it to get rid of the pumpkin blur
+[00:13:30] [Server thread/INFO]: <iamnbutler> u want that?
+[00:13:52] [Server thread/INFO]: <Tarnanduil> Sure!
+[00:13:56] [Server thread/INFO]: <iamnbutler> k
+[00:14:02] [Server thread/INFO]: <Tarnanduil> Is 1.8 out?
+[00:14:16] [Server thread/INFO]: <iamnbutler> just a heads up the enchanting table ui is a bit wierd cause it is for 1.8
+[00:14:18] [Server thread/INFO]: <iamnbutler> one sec
+[00:14:19] [Server thread/INFO]: <iamnbutler> no
+[00:14:21] [Server thread/INFO]: <iamnbutler> not for a while
+[00:14:26] [Server thread/INFO]: <Tarnanduil> ah
+[00:14:34] [Server thread/INFO]: <iamnbutler> we gotta finish our iron farm before it comes out anyways
+[00:14:41] [Server thread/INFO]: <iamnbutler> cause it breaks if u don't build it before 1.8
+[00:14:43] [Server thread/INFO]: <iamnbutler> :x
+[00:14:47] [Server thread/INFO]: <Tarnanduil> Uh oh
+[00:15:16] [Server thread/INFO]: <iamnbutler> sent it on skype
+[00:16:44] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:16:44] [Server thread/INFO]: Tarnanduil left the game
+[00:38:29] [User Authenticator #117/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:38:29] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64670] logged in with entity id 7886509 at (174.11498867056733, 72.0, -41.55635832197878)
+[00:38:29] [Server thread/INFO]: Tarnanduil joined the game
+[00:38:47] [Server thread/INFO]: <iamnbutler> oo this is looking cool now
+[00:39:32] [Server thread/INFO]: <Tarnanduil> O_O
+[00:39:56] [Server thread/INFO]: <iamnbutler> not bad huh?
+[00:40:13] [Server thread/INFO]: <Tarnanduil> Not bad at ALL! :P
+[00:41:46] [Server thread/INFO]: <iamnbutler> hehe
+[00:41:53] [Server thread/INFO]: <iamnbutler> this is gunna go down into the mine
+[00:42:04] [Server thread/INFO]: <Tarnanduil> Ah
+[00:42:05] [Server thread/INFO]: <iamnbutler> I gotta figure out how to build an item elevator first
+[00:42:12] [Server thread/INFO]: <Tarnanduil> Ooooo
+[00:42:18] [Server thread/INFO]: <Tarnanduil> Fancy
+[00:42:45] [Server thread/INFO]: <iamnbutler> ugh and still have to dig out the fourth side lmao
+[00:43:02] [Server thread/INFO]: <Tarnanduil> That might help :P
+[00:44:01] [Server thread/INFO]: <iamnbutler> this place doesn't even look hafl bad with the default texture pack either
+[00:44:03] [Server thread/INFO]: <iamnbutler> nice
+[00:44:10] [Server thread/INFO]: <Tarnanduil> Nope
+[00:44:15] [Server thread/INFO]: <iamnbutler> just the bricks/stone slabs don't match
+[00:44:30] [Server thread/INFO]: <iamnbutler> lol I gotta clean up some of these vines :P
+[00:46:07] [Server thread/INFO]: <Tarnanduil> I thought you said you needed cobblestone?
+[00:46:21] [Server thread/INFO]: <Tarnanduil> OH
+[00:46:29] [Server thread/INFO]: <Tarnanduil> Finished as in filled?
+[00:48:22] [Server thread/INFO]: <iamnbutler> hmm?
+[00:48:28] [Server thread/INFO]: <iamnbutler> sorry watching a yt video
+[00:48:31] [Server thread/INFO]: <Tarnanduil> hehe
+[00:48:37] [Server thread/INFO]: <Tarnanduil> ^
+[00:48:41] [Server thread/INFO]: <iamnbutler> I gotta dig out this side
+[00:48:48] [Server thread/INFO]: <iamnbutler> is what I was saying
+[00:49:07] [Server thread/INFO]: <iamnbutler> Lol no I was saying I filled 2 double chests of cobble :P
+[00:49:14] [Server thread/INFO]: <Tarnanduil> Oh
+[00:49:15] [Server thread/INFO]: <Tarnanduil> :P
+[00:49:18] [Server thread/INFO]: <Tarnanduil> gotcha
+[00:51:02] [Server thread/INFO]: <iamnbutler> ahh I have a better design for when I dig out this side
+[00:51:13] [Server thread/INFO]: <iamnbutler> better for single chests
+[00:51:31] [Server thread/INFO]: <Tarnanduil> SO now would probably not be a good time to cook things? :P
+[00:51:33] [Server thread/INFO]: <iamnbutler> I also want to put a better entrance in to this place
+[00:51:36] [Server thread/INFO]: <iamnbutler> haha naw
+[00:51:39] [Server thread/INFO]: <iamnbutler> I'm not gunna do tonight
+[00:51:50] [Server thread/INFO]: <iamnbutler> gunna crash soon
+[00:51:56] [Server thread/INFO]: <Tarnanduil> I meant me :P
+[00:52:23] [Server thread/INFO]: <Tarnanduil> You were digging out the wall, so I didn't want to start something I couldn't finishe
+[00:54:55] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:54:55] [Server thread/INFO]: Tarnanduil left the game
+[00:55:23] [User Authenticator #118/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:55:23] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64703] logged in with entity id 7940175 at (159.7389618638203, 62.0, -59.53379328647248)
+[00:55:23] [Server thread/INFO]: Tarnanduil joined the game
+[00:55:42] [Server thread/INFO]: <iamnbutler> oh haha I won't touch it tonight!
+[00:55:49] [Server thread/INFO]: <iamnbutler> I'm gunna be working on this mine
+[00:55:53] [Server thread/INFO]: <Tarnanduil> Gotcha :)
+[00:55:57] [Server thread/INFO]: <iamnbutler> trying to figure out how I wanna go down
+[00:56:09] [Server thread/INFO]: <iamnbutler> I don't really want it to be a spiral staircase
+[00:56:19] [Server thread/INFO]: <iamnbutler> brb
+[00:56:25] [Server thread/INFO]: <Tarnanduil> yep yep
+[00:58:57] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:58:57] [Server thread/INFO]: Tarnanduil left the game
+[00:59:40] [User Authenticator #119/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[00:59:40] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64714] logged in with entity id 7951535 at (159.89759079889313, 62.0, -59.143557854676885)
+[00:59:40] [Server thread/INFO]: Tarnanduil joined the game
+[01:02:45] [Server thread/INFO]: <iamnbutler> ugh I wanna kill the wither
+[01:02:54] [Server thread/INFO]: <Tarnanduil> hehe
+[01:02:54] [Server thread/INFO]: <iamnbutler> but I can't find a third wither skull :x
+[01:03:04] [Server thread/INFO]: <Tarnanduil> That stinks
+[01:03:04] [Server thread/INFO]: <iamnbutler> just missing one
+[01:04:59] [Server thread/INFO]: <Tarnanduil> brb
+[01:06:23] [Server thread/INFO]: <Tarnanduil> back
+[01:06:51] [Server thread/INFO]: <Tarnanduil> You have a bit more room to stack cobble now :)
+[01:08:05] [Server thread/INFO]: <iamnbutler> yay~
+[01:08:06] [Server thread/INFO]: <iamnbutler> haha
+[01:08:17] [Server thread/INFO]: <iamnbutler> omg I'm gunna make a mcdonalds
+[01:08:22] [Server thread/INFO]: <iamnbutler> out of the chicken farm LOL
+[01:08:25] [Server thread/INFO]: <iamnbutler> or maybe a KFC?
+[01:08:26] [Server thread/INFO]: <iamnbutler> lmao
+[01:08:26] [Server thread/INFO]: <Tarnanduil> HAHA
+[01:08:38] [Server thread/INFO]: <Tarnanduil> THAT would be awsome!
+[01:08:50] [Server thread/INFO]: <iamnbutler> hehehe
+[01:08:55] [Server thread/INFO]: <iamnbutler> btw we should make mail boxes
+[01:09:04] [Server thread/INFO]: <iamnbutler> oh, you should build a house in the village
+[01:09:09] [Server thread/INFO]: <iamnbutler> doesn't need to be huge
+[01:09:18] [Server thread/INFO]: <Tarnanduil> mmmmm, might be a tent :P
+[01:09:32] [Server thread/INFO]: <iamnbutler> It'll just be nice to have one house for each person on the server
+[01:09:40] [Server thread/INFO]: <Tarnanduil> I'll set up a POBox :D
+[01:09:47] [Server thread/INFO]: <iamnbutler> so we can use mailboxes and stuff like that
+[01:09:48] [Server thread/INFO]: <iamnbutler> heehe
+[01:10:03] [Server thread/INFO]: <Tarnanduil> Post Office!
+[01:10:11] [Server thread/INFO]: <Tarnanduil> Now that's an idea
+[01:11:38] [Server thread/INFO]: <iamnbutler> oh yeah, not a bad idea :D
+[01:11:45] [Server thread/INFO]: <iamnbutler> we should make one
+[01:12:30] [Server thread/INFO]: <Tarnanduil> I am a bit too much of a neat freak :P
+[01:12:33] [Server thread/INFO]: <iamnbutler> hehe
+[01:12:39] [Server thread/INFO]: <iamnbutler> feel free to clean anything up
+[01:14:52] [Server thread/INFO]: <Tarnanduil> Refreshed our supply of stone bricks a bit
+[01:15:04] [Server thread/INFO]: <iamnbutler> oh nice
+[01:15:28] [Server thread/INFO]: <iamnbutler> I lost my nice silk touch pick when working on the enderman farm :c
+[01:15:37] [Server thread/INFO]: <iamnbutler> that is why there is less smooth stone now haha
+[01:15:45] [Server thread/INFO]: <iamnbutler> so I'm mostly generating cobblestone now
+[01:16:09] [Server thread/INFO]: <Tarnanduil> Oooo, hold on, I have the other one
+[01:16:16] [Server thread/INFO]: <iamnbutler> o ya?
+[01:16:57] [Server thread/INFO]: <Tarnanduil> Threw it to ya
+[01:17:03] [Server thread/INFO]: <iamnbutler> ty!
+[01:17:07] [Server thread/INFO]: <Tarnanduil> Yep yep
+[01:17:08] [Server thread/INFO]: <iamnbutler> appreciate it
+[01:19:01] [Server thread/INFO]: <iamnbutler> can vines grow on leaves?
+[01:19:02] [Server thread/INFO]: <iamnbutler> lol
+[01:19:09] [Server thread/INFO]: <Tarnanduil> Yep :)
+[01:19:14] [Server thread/INFO]: <iamnbutler> ok nice!
+[01:19:33] [Server thread/INFO]: <Tarnanduil> Hence vines hanging from jungle leaves
+[01:19:37] [Server thread/INFO]: <iamnbutler> ohh right
+[01:20:00] [Server thread/INFO]: <iamnbutler> gunna put leaves in the gap here
+[01:20:11] [Server thread/INFO]: <iamnbutler> and the light will shine trhough
+[01:20:17] [Server thread/INFO]: <iamnbutler> through*
+[01:20:36] [Server thread/INFO]: <Tarnanduil> What kind of leaves?
+[01:20:42] [Server thread/INFO]: <iamnbutler> hmm
+[01:20:46] [Server thread/INFO]: <iamnbutler> gotta go look at them
+[01:20:48] [Server thread/INFO]: <iamnbutler> lol
+[01:22:04] [Server thread/INFO]: <iamnbutler> this is gunna go down to y=11 or y=10
+[01:22:12] [Server thread/INFO]: <iamnbutler> so pretty deep lol
+[01:22:19] [Server thread/INFO]: <Tarnanduil> *whistles*
+[01:23:12] [Server thread/INFO]: <iamnbutler> not sure if it is just gunna go straight down like this, but for now I'll jsut dig it out
+[01:23:32] [Server thread/INFO]: <Tarnanduil> ow
+[01:24:10] [Server thread/INFO]: <iamnbutler> brb gunna go find those leaves
+[01:26:05] [Server thread/INFO]: <iamnbutler> lol I gotta go on a diamond hunting trip soon
+[01:26:30] [Server thread/INFO]: <Tarnanduil> Might join ya ;)
+[01:26:41] [Server thread/INFO]: <iamnbutler> haha ok
+[01:26:47] [Server thread/INFO]: <iamnbutler> probably not for a few more days though
+[01:26:56] [Server thread/INFO]: <iamnbutler> I gotta finish the iron farm sometime soon
+[01:27:01] [Server thread/INFO]: <iamnbutler> so we have a solid iron supply
+[01:27:09] [Server thread/INFO]: <iamnbutler> it makes 1.7k iron per hour LOL
+[01:29:24] [Server thread/INFO]: <Tarnanduil> That would be nice!
+[01:31:02] [Server thread/INFO]: <Tarnanduil> I didn't have a way back up, so went swirly :P
+[01:31:06] [Server thread/INFO]: <iamnbutler> hehe
+[01:31:33] [Server thread/INFO]: <iamnbutler> there ya g
+[01:31:34] [Server thread/INFO]: <iamnbutler> o
+[01:32:48] [Server thread/INFO]: <iamnbutler> so low for dirt
+[01:32:50] [Server thread/INFO]: <iamnbutler> strange
+[01:33:30] [Server thread/INFO]: <iamnbutler> gettin close
+[01:34:12] [Server thread/INFO]: <iamnbutler> brb gotta get more vines :P
+[01:34:19] [Server thread/INFO]: <Tarnanduil> yepey
+[01:35:59] [Server thread/INFO]: <iamnbutler> will make this into a water drop shute
+[01:36:01] [Server thread/INFO]: <Tarnanduil> I'm down to 11
+[01:36:03] [Server thread/INFO]: <iamnbutler> chute*
+[01:36:12] [Server thread/INFO]: <iamnbutler> so we don't have to climb down
+[01:36:15] [Server thread/INFO]: <iamnbutler> oh nice
+[01:37:55] [Server thread/INFO]: <Tarnanduil> Fortune 3 does the trick :P
+[01:38:01] [Server thread/INFO]: <iamnbutler> hehe
+[01:38:05] [Server thread/INFO]: <iamnbutler> more here
+[01:38:50] [Server thread/INFO]: <iamnbutler> this gunna be water
+[01:40:13] [Server thread/INFO]: <Tarnanduil> nice
+[01:40:23] [Server thread/INFO]: <iamnbutler> k one sec
+[01:42:13] [Server thread/INFO]: <iamnbutler> there
+[01:42:15] [Server thread/INFO]: <iamnbutler> should work
+[01:42:18] [Server thread/INFO]: <iamnbutler> lemme try
+[01:42:56] [Server thread/INFO]: <iamnbutler> perfect~
+[01:43:01] [Server thread/INFO]: <Tarnanduil> awesome
+[01:43:48] [Server thread/INFO]: <iamnbutler> ok now I gotta widen this room a bit
+[01:44:59] [Server thread/INFO]: <iamnbutler> lmao watch me have dug this right into a slime chunk
+[01:45:17] [Server thread/INFO]: <Tarnanduil> Seriously?!
+[01:45:21] [Server thread/INFO]: <iamnbutler> haha idk
+[01:45:23] [Server thread/INFO]: <Tarnanduil> lol
+[01:45:26] [Server thread/INFO]: <iamnbutler> that would be so sad though
+[01:48:17] [Server thread/INFO]: <iamnbutler> mmk I gotta figure out how the item elevator works before I do anything else
+[01:48:31] [Server thread/INFO]: <iamnbutler> so I'll b afk for a bit
+[01:48:47] [Server thread/INFO]: <Tarnanduil> Sounds good
+[01:55:21] [Server thread/INFO]: Tarnanduil lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:55:21] [Server thread/INFO]: Tarnanduil left the game
+[01:58:08] [User Authenticator #120/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[01:58:08] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64902] logged in with entity id 8127035 at (164.6385800773928, 11.0, -54.603055367073544)
+[01:58:08] [Server thread/INFO]: Tarnanduil joined the game
+[01:58:16] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:58:16] [Server thread/INFO]: Tarnanduil left the game
+[01:58:27] [User Authenticator #121/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[01:58:27] [Server thread/INFO]: Tarnanduil[/98.95.146.167:64908] logged in with entity id 8128189 at (164.13648228353878, 11.0, -54.27681740583662)
+[01:58:27] [Server thread/INFO]: Tarnanduil joined the game
+[01:58:29] [Server thread/INFO]: <iamnbutler> woah the last design in that video is so cool
+[01:58:43] [Server thread/INFO]: <Tarnanduil> Soooooo, when we hitting the desert :P
+[01:58:49] [Server thread/INFO]: <iamnbutler> lmao
+[01:59:04] [Server thread/INFO]: <iamnbutler> I might do design #2 though
+[01:59:13] [Server thread/INFO]: <iamnbutler> idk not sure
+[01:59:29] [Server thread/INFO]: <Tarnanduil> Any reason why?
+[01:59:40] [Server thread/INFO]: <iamnbutler> more compact
+[01:59:45] [Server thread/INFO]: <iamnbutler> I'm not sure though
+[01:59:52] [Server thread/INFO]: <Tarnanduil> than #3?
+[02:00:23] [Server thread/INFO]: <iamnbutler> yeah. 3 you need a large base as well as hoppers can't feed the items into the elevator
+[02:00:40] [Server thread/INFO]: <iamnbutler> the point of this mine is that there will be hoppers down the middle so you can just drop your items
+[02:00:53] [Server thread/INFO]: <iamnbutler> in the hoppers and then they run to the elevator and go up
+[02:01:08] [Server thread/INFO]: <Tarnanduil> Ok, I've gotcha
+[02:01:37] [Server thread/INFO]: <iamnbutler> I actuall have most of the materials for #2
+[02:01:43] [Server thread/INFO]: <iamnbutler> just need to make a bunch of droppers
+[02:01:49] [Server thread/INFO]: <iamnbutler> I hope they don't need bows lmao
+[02:01:54] [Server thread/INFO]: <Tarnanduil> Even the comparaters?
+[02:02:07] [Server thread/INFO]: <iamnbutler> yeah I have like a stack or more I think
+[02:02:34] [Server thread/INFO]: <iamnbutler> unless they got used :P
+[02:02:43] [Server thread/INFO]: <iamnbutler> yeah I have 60 already
+[02:02:46] [Server thread/INFO]: <iamnbutler> might need a few more
+[02:03:13] [Server thread/INFO]: <Tarnanduil> Want me to make droppers?
+[02:03:21] [Server thread/INFO]: <iamnbutler> sure
+[02:03:28] [Server thread/INFO]: <iamnbutler> I think we need like 50
+[02:05:19] [Server thread/INFO]: <Tarnanduil> Got em
+[02:05:30] [Server thread/INFO]: <iamnbutler> nice
+[02:05:40] [Server thread/INFO]: <iamnbutler> just digging out the room we will pump the items into
+[02:06:14] [Server thread/INFO]: <iamnbutler> hmm
+[02:06:19] [Server thread/INFO]: <iamnbutler> which side to build it on
+[02:06:30] [Server thread/INFO]: <iamnbutler> i think the north side
+[02:06:38] [Server thread/INFO]: <Tarnanduil> The side with the stoves
+[02:06:46] [Server thread/INFO]: <iamnbutler> yeha
+[02:06:53] [Server thread/INFO]: <iamnbutler> that is north I'm pretty sure
+[02:06:57] [Server thread/INFO]: <Tarnanduil> hehe
+[02:07:01] [Server thread/INFO]: <iamnbutler> yeah
+[02:08:08] [Server thread/INFO]: <iamnbutler> mmk here we go lol
+[02:08:41] [Server thread/INFO]: <iamnbutler> gunna put iron bars on the sides :D
+[02:08:56] [Server thread/INFO]: <Tarnanduil> Ok
+[02:09:23] [Server thread/INFO]: <Tarnanduil> I can't picture, so I'll take your word for it :P
+[02:09:27] [Server thread/INFO]: <iamnbutler> haha ok
+[02:13:08] [Server thread/INFO]: <iamnbutler> OWWW
+[02:13:10] [Server thread/INFO]: <iamnbutler> LOL
+[02:13:17] [Server thread/INFO]: <Tarnanduil> ?
+[02:13:21] [Server thread/INFO]: <iamnbutler> I almost died falling
+[02:13:26] [Server thread/INFO]: <Tarnanduil> Ouch :P
+[02:14:27] [Server thread/INFO]: <iamnbutler> oo lapis
+[02:15:45] [Server thread/INFO]: <iamnbutler> nice, ready to build
+[02:16:16] [Server thread/INFO]: <Tarnanduil> Sorry, repairing picks :P
+[02:16:21] [Server thread/INFO]: <iamnbutler> hehe np
+[02:18:27] [Server thread/INFO]: <iamnbutler> mmkay
+[02:18:54] [Server thread/INFO]: <iamnbutler> yeah
+[02:18:58] [Server thread/INFO]: <iamnbutler> this way is best
+[02:19:11] [Server thread/INFO]: <Tarnanduil> Want me to start up?
+[02:19:14] [Server thread/INFO]: <iamnbutler> hmm
+[02:19:20] [Server thread/INFO]: <iamnbutler> maybe I should move it back one block
+[02:19:37] [Server thread/INFO]: <iamnbutler> to give the water a bit of room
+[02:19:53] [Server thread/INFO]: <iamnbutler> mmk so that can go right up to the storage level
+[02:21:27] [Server thread/INFO]: <Tarnanduil> Want me to make the iron bars?
+[02:21:38] [Server thread/INFO]: <iamnbutler> lemme see how this works first
+[02:21:47] [Server thread/INFO]: <iamnbutler> I think bars would be cool though
+[02:21:53] [Server thread/INFO]: <iamnbutler> not sure if we have the iron for it yet though
+[02:21:58] [Server thread/INFO]: <Tarnanduil> yep yep
+[02:22:01] [Server thread/INFO]: <iamnbutler> I need iron for hoppers so lets wait haha
+[02:22:07] [Server thread/INFO]: <iamnbutler> decoration can come later :P
+[02:22:30] [Server thread/INFO]: <iamnbutler> yay it works
+[02:23:11] [Server thread/INFO]: <iamnbutler> im so gunna die building this LOL
+[02:23:16] [Server thread/INFO]: <Tarnanduil> hehe
+[02:23:24] [Server thread/INFO]: <Tarnanduil> Want me to go up one side?
+[02:23:49] [Server thread/INFO]: <iamnbutler> sure
+[02:24:22] [Server thread/INFO]: <iamnbutler> is that right?
+[02:24:34] [Server thread/INFO]: <Tarnanduil> Looks right
+[02:24:44] [Server thread/INFO]: <iamnbutler> nice
+[02:24:54] [Server thread/INFO]: <iamnbutler> yeah it is faster to do one side at a time haha
+[02:26:31] [Server thread/INFO]: <iamnbutler> nice
+[02:26:39] [Server thread/INFO]: <iamnbutler> round 2 lol
+[02:26:59] [Server thread/INFO]: <iamnbutler> ry
+[02:27:02] [Server thread/INFO]: <iamnbutler> ty*
+[02:27:11] [Server thread/INFO]: <Tarnanduil> hehe
+[02:30:42] [Server thread/INFO]: <iamnbutler> is it working?
+[02:30:58] [Server thread/INFO]: <Tarnanduil> Sent one up
+[02:31:08] [Server thread/INFO]: <iamnbutler> yes~
+[02:31:09] [Server thread/INFO]: <iamnbutler> hehe
+[02:31:11] [Server thread/INFO]: <iamnbutler> nice
+[02:31:13] [Server thread/INFO]: <Tarnanduil> hehe
+[02:32:55] [Server thread/INFO]: <Tarnanduil> Chick!
+[02:32:58] [Server thread/INFO]: <Tarnanduil> CHeck
+[02:33:01] [Server thread/INFO]: <Tarnanduil> rather
+[02:33:19] [Server thread/INFO]: <iamnbutler> seems to be stuck somewhere?
+[02:33:26] [Server thread/INFO]: <Tarnanduil> Good greef, I need a new keyboard
+[02:33:32] [Server thread/INFO]: <iamnbutler> haha
+[02:33:45] [Server thread/INFO]: iamnbutler fell from a high place
+[02:33:48] [Server thread/INFO]: <iamnbutler> LOL
+[02:33:57] [Server thread/INFO]: <Tarnanduil> Oh yuck :P
+[02:34:41] [Server thread/INFO]: <iamnbutler> it seems to hang after grabbing like 10 or so items
+[02:34:44] [Server thread/INFO]: <iamnbutler> not sure why
+[02:34:50] [Server thread/INFO]: <iamnbutler> wonder if it is the wall
+[02:34:56] [Server thread/INFO]: <iamnbutler> behind the elevator
+[02:36:16] [Server thread/INFO]: <Tarnanduil> Here
+[02:37:02] [Server thread/INFO]: <Tarnanduil> Fixed :)
+[02:37:13] [Server thread/INFO]: <iamnbutler> oh? what was wrong?
+[02:37:27] [Server thread/INFO]: <Tarnanduil> Too many items in the hopper at once; that's what the hopper's for
+[02:37:32] [Server thread/INFO]: <iamnbutler> ahh
+[02:37:33] [Server thread/INFO]: <iamnbutler> ic
+[02:38:43] [Server thread/INFO]: <iamnbutler> nice
+[02:38:44] [Server thread/INFO]: <iamnbutler> working now
+[02:39:29] [Server thread/INFO]: <Tarnanduil> Cool!
+[02:42:05] [Server thread/INFO]: Tarnanduil fell from a high place
+[02:42:11] [Server thread/INFO]: <iamnbutler> uh oh LOL
+[02:42:35] [Server thread/INFO]: <iamnbutler> guess... we better make the pool wider
+[02:42:37] [Server thread/INFO]: <iamnbutler> ahaha
+[02:42:51] [Server thread/INFO]: <iamnbutler> lemme knwo if u are missing anyhting
+[02:42:55] [Server thread/INFO]: <iamnbutler> might have picked some up
+[02:43:51] [Server thread/INFO]: <Tarnanduil> two redstone torches
+[02:44:13] [Server thread/INFO]: <Tarnanduil> Oh thanks :)
+[02:44:22] [Server thread/INFO]: <iamnbutler> np have like two stacks lol
+[02:44:40] [Server thread/INFO]: <Tarnanduil> Nice :)
+[02:44:46] [Server thread/INFO]: <iamnbutler> ok perfect
+[02:44:54] [Server thread/INFO]: <iamnbutler> now we can load the hopper from the top
+[02:45:13] [Server thread/INFO]: <iamnbutler> now I just need 48375209438752 hoppers
+[02:48:49] [Server thread/INFO]: <iamnbutler> nice
+[02:48:53] [Server thread/INFO]: <iamnbutler> got this started
+[02:49:03] [Server thread/INFO]: <iamnbutler> now time to make more hoppers T T
+[02:49:06] [Server thread/INFO]: <Tarnanduil> I think I played with something I shouldn't have :S
+[02:49:12] [Server thread/INFO]: <iamnbutler> hahaha
+[02:49:17] [Server thread/INFO]: <iamnbutler> we can work out the storage later
+[02:53:47] [Server thread/INFO]: <iamnbutler> hehe
+[02:53:50] [Server thread/INFO]: <iamnbutler> all hidden
+[02:54:03] [Server thread/INFO]: <iamnbutler> there they go~
+[02:55:00] [Server thread/INFO]: <Tarnanduil> Fixed it :P
+[02:55:03] [Server thread/INFO]: <iamnbutler> mmk
+[02:55:09] [Server thread/INFO]: <iamnbutler> that is pretty good for now
+[02:55:17] [Server thread/INFO]: <iamnbutler> decoration will come later
+[02:55:25] [Server thread/INFO]: <iamnbutler> but it is functional now
+[02:57:28] [Server thread/INFO]: <iamnbutler> idk if you noticed but this side is the wrong width...
+[02:57:36] [Server thread/INFO]: <Tarnanduil> I did...
+[02:57:38] [Server thread/INFO]: <iamnbutler> yeah
+[02:57:42] [Server thread/INFO]: <iamnbutler> i'm gunna fix it
+[02:57:43] [Server thread/INFO]: <iamnbutler> lol
+[02:57:46] [Server thread/INFO]: <Tarnanduil> I decided not to say anything :P
+[02:57:48] [Server thread/INFO]: <iamnbutler> it's gunna be a lot of work ahaha
+[02:57:56] [Server thread/INFO]: <iamnbutler> yeah I noticed the day after I finished it
+[02:57:58] [Server thread/INFO]: <iamnbutler> LOL
+[02:58:01] [Server thread/INFO]: <iamnbutler> once I dug out the next side
+[02:58:07] [Server thread/INFO]: <Tarnanduil> It's because of the creeper head :S
+[02:58:17] [Server thread/INFO]: <iamnbutler> I'm gunna mirror everything to the east side
+[02:58:25] [Server thread/INFO]: <iamnbutler> then I can dig out the extra block
+[02:58:38] [Server thread/INFO]: <iamnbutler> so the bulk storage will be the east side
+[02:58:45] [Server thread/INFO]: <Tarnanduil> Ah
+[02:58:48] [Server thread/INFO]: <iamnbutler> unless we should put it on the north side
+[02:58:57] [Server thread/INFO]: <iamnbutler> idk if we are gunna build a sorting system or now
+[02:59:04] [Server thread/INFO]: <iamnbutler> *not
+[02:59:05] [Server thread/INFO]: <Tarnanduil> So everything will look like the East side?
+[02:59:25] [Server thread/INFO]: <iamnbutler> this south side is right
+[02:59:32] [Server thread/INFO]: <iamnbutler> and this side is right
+[02:59:39] [Server thread/INFO]: <iamnbutler> for the double chest type
+[02:59:50] [Server thread/INFO]: <iamnbutler> so there will be 2 wings with double chests, and two with single
+[02:59:58] [Server thread/INFO]: <Tarnanduil> Ah
+[03:00:16] [Server thread/INFO]: <iamnbutler> but I wonder if I shold put bulk storage in the north side
+[03:00:24] [Server thread/INFO]: <iamnbutler> since the item elevator is right under this
+[03:00:30] [Server thread/INFO]: <Tarnanduil> Sure
+[03:01:36] [Server thread/INFO]: <iamnbutler> we actually only used 19 comparitors
+[03:01:38] [Server thread/INFO]: <iamnbutler> not bad
+[03:02:01] [Server thread/INFO]: <Tarnanduil> Oh, that's not bad :P
+[03:02:34] [Server thread/INFO]: <iamnbutler> I'll work out a better way to get up later
+[03:02:44] [Server thread/INFO]: <Tarnanduil> kk
+[03:02:47] [Server thread/INFO]: <iamnbutler> might make a minecart elevator or just wait for slime elevators
+[03:04:07] [Server thread/INFO]: <iamnbutler> hehe gunna do a bit of the first strip then go afk the iron farm and sleep
+[03:04:10] [Server thread/INFO]: <iamnbutler> getting tired
+[03:04:29] [Server thread/INFO]: <Tarnanduil> gotcha
+[03:04:36] [Server thread/INFO]: <Tarnanduil> headed to bed soon
+[03:05:03] [Server thread/INFO]: <iamnbutler> oo lava already haha
+[03:05:15] [Server thread/INFO]: <Tarnanduil> Nice :P
+[03:08:05] [Server thread/INFO]: <Tarnanduil> ok, I'm off; Got a LOT done :P
+[03:08:10] [Server thread/INFO]: <iamnbutler> hehe yeah
+[03:08:14] [Server thread/INFO]: <iamnbutler> have a good one
+[03:08:18] [Server thread/INFO]: <iamnbutler> thanks for the help :D
+[03:08:25] [Server thread/INFO]: <Tarnanduil> See ya soon; you too! Of course! :D
+[03:08:35] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:08:35] [Server thread/INFO]: Tarnanduil left the game
+[03:28:17] [Server thread/INFO]: iamnbutler fell from a high place
