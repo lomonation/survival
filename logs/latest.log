@@ -1,493 +1,517 @@
-[00:18:26] [Server thread/INFO]: maxdeviant was slain by Zombie
-[00:32:02] [Server thread/INFO]: maxdeviant has just earned the achievement [On A Rail]
-[01:01:11] [Server thread/INFO]: <maxdeviant> (づ｡◕‿‿◕｡)づ seduce him (づ｡◕‿‿◕｡)づ
-[01:18:01] [Server thread/INFO]: iamnbutler has just earned the achievement [Delicious Fish]
-[02:02:02] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:02:02] [Server thread/INFO]: maxdeviant left the game
-[02:02:04] [User Authenticator #5/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[02:02:04] [Server thread/INFO]: maxdeviant[/192.168.1.10:55782] logged in with entity id 853076 at (269.0619516044261, 73.0, -41.43498345858504)
-[02:02:04] [Server thread/INFO]: maxdeviant joined the game
-[02:14:15] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:14:15] [Server thread/INFO]: iamnbutler left the game
-[02:15:31] [User Authenticator #6/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:15:31] [Server thread/INFO]: Autonate[/198.96.89.216:40779] logged in with entity id 894122 at (144.71387580176756, 72.0, -51.891209193626395)
-[02:15:31] [Server thread/INFO]: Autonate joined the game
-[02:16:31] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:16:31] [Server thread/INFO]: Autonate left the game
-[02:18:33] [User Authenticator #7/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:18:33] [Server thread/INFO]: Autonate[/198.96.89.216:43736] logged in with entity id 904800 at (180.40137910451256, 60.0, -48.25991279911065)
-[02:18:33] [Server thread/INFO]: Autonate joined the game
-[02:23:04] [Server thread/INFO]: Opped Autonate
-[02:24:54] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[02:28:52] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:28:52] [Server thread/INFO]: Autonate left the game
-[02:29:36] [User Authenticator #8/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:29:36] [Server thread/INFO]: Autonate[/198.96.89.216:43309] logged in with entity id 946396 at (-6.823731489859128, 99.45671995912222, 83.74839391678518)
-[02:29:36] [Server thread/INFO]: Autonate joined the game
-[02:30:00] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:30:00] [Server thread/INFO]: Autonate left the game
-[02:30:17] [User Authenticator #9/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:30:17] [Server thread/INFO]: Autonate[/198.96.89.216:40487] logged in with entity id 948307 at (-10.011974980307214, 100.9577619004161, 116.08834530407178)
-[02:30:17] [Server thread/INFO]: Autonate joined the game
-[02:30:28] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:30:28] [Server thread/INFO]: Autonate left the game
-[02:30:44] [User Authenticator #10/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:30:44] [Server thread/INFO]: Autonate[/198.96.89.216:46585] logged in with entity id 949831 at (-9.816508911377356, 98.71676894199304, 108.48230699191711)
-[02:30:44] [Server thread/INFO]: Autonate joined the game
-[02:31:06] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:31:06] [Server thread/INFO]: Autonate left the game
-[02:31:29] [User Authenticator #11/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:31:29] [Server thread/INFO]: Autonate[/198.96.89.216:48650] logged in with entity id 952421 at (7.057280694956301, 99.09589071965705, 116.58284772265944)
-[02:31:29] [Server thread/INFO]: Autonate joined the game
-[02:32:53] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:32:53] [Server thread/INFO]: Autonate left the game
-[02:33:10] [User Authenticator #12/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:33:10] [Server thread/INFO]: Autonate[/198.96.89.216:40191] logged in with entity id 958147 at (10.472358066973982, 102.84467368331387, 120.19231966831063)
-[02:33:10] [Server thread/INFO]: Autonate joined the game
-[02:35:27] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:35:27] [Server thread/INFO]: Autonate left the game
-[02:35:44] [User Authenticator #13/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:35:44] [Server thread/INFO]: Autonate[/198.96.89.216:40607] logged in with entity id 966677 at (18.66341218986466, 100.97336202846522, 106.29489127113958)
-[02:35:44] [Server thread/INFO]: Autonate joined the game
-[02:36:03] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:36:03] [Server thread/INFO]: Autonate left the game
-[02:36:20] [User Authenticator #14/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:36:20] [Server thread/INFO]: Autonate[/198.96.89.216:36980] logged in with entity id 968407 at (13.22187152133149, 98.73236907004215, 85.54888473386507)
-[02:36:20] [Server thread/INFO]: Autonate joined the game
-[02:40:47] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:40:47] [Server thread/INFO]: Autonate left the game
-[02:40:59] [User Authenticator #15/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:40:59] [Server thread/INFO]: Autonate[/198.96.89.216:47815] logged in with entity id 986670 at (8.41602625975084, 97.27041150244852, 80.33484132299546)
-[02:40:59] [Server thread/INFO]: Autonate joined the game
-[02:44:11] [User Authenticator #16/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[02:44:11] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49581] logged in with entity id 997686 at (159.42280046370342, 74.0, -5.1248688652725)
-[02:44:11] [Server thread/INFO]: Tarnanduil joined the game
-[02:44:16] [Server thread/INFO]: <Autonate> o hai :O
-[02:44:24] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:44:24] [Server thread/INFO]: Autonate left the game
-[02:44:26] [Server thread/INFO]: <Tarnanduil> Howdy :)
-[02:44:27] [User Authenticator #17/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:44:27] [Server thread/INFO]: Autonate[/198.96.89.216:36223] logged in with entity id 1000137 at (-8.853013210750147, 82.16802667556392, 90.22306634549581)
-[02:44:27] [Server thread/INFO]: Autonate joined the game
-[02:44:34] [Server thread/INFO]: <Tarnanduil> Howdy :)
-[02:44:34] [Server thread/INFO]: <Autonate> (this is nathan lol)
-[02:44:40] [Server thread/INFO]: <Tarnanduil> Figured :P
-[02:45:00] [Server thread/INFO]: <Autonate> I did a huge amount of sorting and collecting
-[02:45:00] [Server thread/INFO]: <Tarnanduil> O_O
-[02:45:07] [Server thread/INFO]: <Autonate> u should have all the carpet u need
-[02:45:08] [Server thread/INFO]: <Tarnanduil> CARPET
-[02:45:13] [Server thread/INFO]: <Autonate> lol
-[02:45:15] [Server thread/INFO]: <Tarnanduil> OOOOOOOO
-[02:45:22] [Server thread/INFO]: <Tarnanduil> I LOVE you right now :D
-[02:45:26] [Server thread/INFO]: <Autonate> i... raised so many sheep
-[02:45:27] [Server thread/INFO]: <Autonate> lmao
-[02:45:29] [Server thread/INFO]: <Tarnanduil> lol
-[02:46:32] [Server thread/INFO]: <Autonate> I've been making bookshelves as well
-[02:46:42] [Server thread/INFO]: <Autonate> copied the world u gave me as good as I could
-[02:47:06] [Server thread/INFO]: <Autonate> the sugarcane chest is full and the paper chest is half ful
-[02:47:06] [Server thread/INFO]: <Tarnanduil> Wow, you did SO well :D
-[02:47:18] [Server thread/INFO]: <Tarnanduil> Awesome ness!!!
-[02:50:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2320ms behind, skipping 46 tick(s)
-[02:50:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2772ms behind, skipping 55 tick(s)
-[02:51:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4847ms behind, skipping 96 tick(s)
-[02:51:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3276ms behind, skipping 65 tick(s)
-[02:51:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2155ms behind, skipping 43 tick(s)
-[02:52:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3753ms behind, skipping 75 tick(s)
-[02:52:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4236ms behind, skipping 84 tick(s)
-[02:52:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3451ms behind, skipping 69 tick(s)
-[02:52:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2111ms behind, skipping 42 tick(s)
-[02:53:31] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:53:31] [Server thread/INFO]: Autonate left the game
-[02:54:26] [User Authenticator #18/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:54:26] [Server thread/INFO]: Autonate[/198.96.89.216:43726] logged in with entity id 1029886 at (18.402695673033097, 100.38172647411096, 121.73516353383263)
-[02:54:26] [Server thread/INFO]: Autonate joined the game
-[02:55:51] [Server thread/INFO]: <Autonate> lemme know if u need anything
-[02:55:56] [Server thread/INFO]: <Autonate> working on iron foundry
-[02:56:31] [Server thread/INFO]: <Tarnanduil> hehe, not sure you could have done better! Thank you :)
-[02:58:30] [Server thread/INFO]: <Tarnanduil> Do we have a chest for books?
-[02:58:35] [Server thread/INFO]: <Autonate> nope not atm
-[02:58:44] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:58:44] [Server thread/INFO]: Autonate left the game
-[02:59:04] [User Authenticator #19/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[02:59:04] [Server thread/INFO]: Autonate[/198.96.89.216:40556] logged in with entity id 1049731 at (-4.625182786246759, 101.0, 81.94789350692335)
-[02:59:04] [Server thread/INFO]: Autonate joined the game
-[02:59:08] [Server thread/INFO]: <Tarnanduil> Might make the library the place for books; seems obvious :P
-[02:59:12] [Server thread/INFO]: <Autonate> yeah lol
-[02:59:18] [Server thread/INFO]: <Autonate> right now most are just in the end
-[03:00:15] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:00:15] [Server thread/INFO]: Autonate left the game
-[03:00:34] [User Authenticator #20/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[03:00:34] [Server thread/INFO]: Autonate[/198.96.89.216:41830] logged in with entity id 1058197 at (-4.948191377035789, 95.0, 95.30348113009588)
-[03:00:34] [Server thread/INFO]: Autonate joined the game
-[03:01:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2687ms behind, skipping 53 tick(s)
-[03:01:15] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:01:15] [Server thread/INFO]: maxdeviant left the game
-[03:01:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3523ms behind, skipping 70 tick(s)
-[03:01:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2432ms behind, skipping 48 tick(s)
-[03:02:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3537ms behind, skipping 70 tick(s)
-[03:02:40] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:02:40] [Server thread/INFO]: Autonate left the game
-[03:02:43] [User Authenticator #21/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[03:02:43] [Server thread/INFO]: Autonate[/198.96.89.216:40299] logged in with entity id 1065289 at (2.006912356113655, 96.1564026074031, 85.56192688159301)
-[03:02:43] [Server thread/INFO]: Autonate joined the game
-[03:02:45] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:02:45] [Server thread/INFO]: Autonate left the game
-[03:03:02] [User Authenticator #22/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[03:03:02] [Server thread/INFO]: Autonate[/198.96.89.216:46766] logged in with entity id 1066057 at (2.006912356113655, 96.1564026074031, 85.56192688159301)
-[03:03:02] [Server thread/INFO]: Autonate joined the game
-[03:03:10] [Server thread/INFO]: <Autonate> lol checking a schematic
-[03:03:17] [Server thread/INFO]: <Autonate> that is why I'm in and out :P
-[03:09:47] [Server thread/INFO]: <Autonate> I was thiking of adding a secret entrance behind a bookshelf
-[03:09:57] [Server thread/INFO]: <Autonate> that links into the underground stuff
-[03:10:01] [Server thread/INFO]: <Autonate> like the idea~?
-[03:10:08] [Server thread/INFO]: <Tarnanduil> Possibly :)
-[03:11:38] [Server thread/INFO]: <Tarnanduil> Some chests aren't opening for me; is that normal?
-[03:11:43] [Server thread/INFO]: <Autonate> o.O
-[03:11:47] [Server thread/INFO]: <Autonate> try relogging?
-[03:11:50] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:11:50] [Server thread/INFO]: Tarnanduil left the game
-[03:11:55] [User Authenticator #23/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:11:55] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49625] logged in with entity id 1096014 at (162.18949510052397, 60.0, -34.34155798837832)
-[03:11:55] [Server thread/INFO]: Tarnanduil joined the game
-[03:12:11] [Server thread/INFO]: <Tarnanduil> nope, brb
-[03:12:14] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:12:14] [Server thread/INFO]: Tarnanduil left the game
-[03:13:29] [User Authenticator #24/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:13:30] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49666] logged in with entity id 1099896 at (160.44397601755077, 60.0, -30.748283194721914)
-[03:13:30] [Server thread/INFO]: Tarnanduil joined the game
-[03:14:29] [Server thread/INFO]: <Tarnanduil> Nope, locked out of these :S
-[03:14:38] [Server thread/INFO]: <Autonate> where are they?
-[03:15:01] [Server thread/INFO]: <Tarnanduil> From the coal ore down and to the right
-[03:15:19] [Server thread/INFO]: <Autonate> o.O
-[03:15:22] [Server thread/INFO]: <Autonate> i can open?
-[03:15:32] [Server thread/INFO]: [Autonate: Opped tarnanduil]
-[03:15:34] [Server thread/INFO]: <Autonate> try now
-[03:15:46] [Server thread/INFO]: <Tarnanduil> yep
-[03:15:49] [Server thread/INFO]: <Tarnanduil> can now
-[03:15:51] [Server thread/INFO]: [Autonate: De-opped tarnanduil]
-[03:15:53] [Server thread/INFO]: <Autonate> try now
-[03:15:59] [Server thread/INFO]: <Autonate> woah
-[03:15:59] [Server thread/INFO]: <Tarnanduil> nope
-[03:16:01] [Server thread/INFO]: <Autonate> weird
-[03:16:05] [Server thread/INFO]: <Tarnanduil> hehe
-[03:16:13] [Server thread/INFO]: <Autonate> must be because marhall opped me
-[03:16:22] [Server thread/INFO]: <Autonate> they are in the spawn chunks
-[03:16:25] [Server thread/INFO]: <Autonate> that is why
-[03:16:26] [Server thread/INFO]: <Autonate> one sec
-[03:17:12] [Server thread/INFO]: [Autonate: Set the world spawn point to (27, 74, 74)]
-[03:17:15] [Server thread/INFO]: <Autonate> try now
-[03:17:23] [Server thread/INFO]: <Tarnanduil> Can now
-[03:17:26] [Server thread/INFO]: <Autonate> yeah
-[03:17:31] [Server thread/INFO]: <Autonate> its cause of spawn chunks
-[03:17:33] [Server thread/INFO]: <Autonate> I guess
-[03:17:54] [Server thread/INFO]: <Tarnanduil> I don't understand, but if you say so :P
-[03:18:10] [Server thread/INFO]: <Autonate> do u know what an op is
-[03:18:12] [Server thread/INFO]: <Autonate> ?
-[03:18:17] [Server thread/INFO]: <Tarnanduil> yep
-[03:18:31] [Server thread/INFO]: <Autonate> once u add an op to the server
-[03:18:40] [Server thread/INFO]: <Tarnanduil> It's the spawn chunk thing
-[03:18:50] [Server thread/INFO]: <Autonate> non-ops get a block protection on the spawn chunks
-[03:19:03] [Server thread/INFO]: <Autonate> which means they can't open/edit anything inside the spawn
-[03:19:08] [Server thread/INFO]: <Autonate> to prevent greifing
-[03:19:10] [Server thread/INFO]: <Tarnanduil> OOOOoooo
-[03:19:19] [Server thread/INFO]: <Tarnanduil> Gotcha
-[03:19:54] [Server thread/INFO]: <Autonate> yupyup
-[03:20:21] [Server thread/INFO]: <Tarnanduil> Well, just glad we caught that now :P
-[03:21:46] [Server thread/INFO]: <Autonate> I had to move spawn anyways
-[03:22:01] [Server thread/INFO]: <Autonate> cause the iron foundry has to be in the spawn chunks
-[03:22:25] [Server thread/INFO]: <Tarnanduil> interesting
-[03:22:46] [Server thread/INFO]: <Tarnanduil> brb
-[03:22:50] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:22:50] [Server thread/INFO]: Tarnanduil left the game
-[03:23:34] [User Authenticator #25/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:23:34] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49693] logged in with entity id 1136146 at (175.3958319762285, 74.0, 1.90502297525993)
-[03:23:34] [Server thread/INFO]: Tarnanduil joined the game
-[03:26:05] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:26:05] [Server thread/INFO]: Tarnanduil left the game
-[03:26:42] [User Authenticator #26/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:26:42] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49701] logged in with entity id 1145275 at (173.27912679639869, 74.0, -1.0254631081905097)
-[03:26:42] [Server thread/INFO]: Tarnanduil joined the game
-[03:27:53] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:27:53] [Server thread/INFO]: Tarnanduil left the game
-[03:28:34] [User Authenticator #27/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:28:34] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49709] logged in with entity id 1150398 at (175.82461557183413, 74.0, 10.635349622708858)
-[03:28:34] [Server thread/INFO]: Tarnanduil joined the game
-[03:29:20] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:29:20] [Server thread/INFO]: Tarnanduil left the game
-[03:29:55] [User Authenticator #28/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:29:55] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49716] logged in with entity id 1154112 at (162.7805472313343, 74.0, 12.897417163568132)
-[03:29:55] [Server thread/INFO]: Tarnanduil joined the game
-[03:36:30] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:36:30] [Server thread/INFO]: Tarnanduil left the game
-[03:36:57] [User Authenticator #29/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:36:57] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49728] logged in with entity id 1176433 at (160.8826800994223, 75.0, 14.951868065676537)
-[03:36:57] [Server thread/INFO]: Tarnanduil joined the game
-[03:37:43] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:37:43] [Server thread/INFO]: Tarnanduil left the game
-[03:38:04] [User Authenticator #30/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:38:04] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49735] logged in with entity id 1179893 at (159.62777141276132, 79.0, 13.573977104932997)
-[03:38:04] [Server thread/INFO]: Tarnanduil joined the game
-[03:38:44] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:38:44] [Server thread/INFO]: Tarnanduil left the game
-[03:39:21] [User Authenticator #31/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:39:21] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49742] logged in with entity id 1182836 at (159.45985519619822, 81.0, 13.276686042394068)
-[03:39:21] [Server thread/INFO]: Tarnanduil joined the game
-[03:40:20] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:40:20] [Server thread/INFO]: Tarnanduil left the game
-[03:40:42] [User Authenticator #32/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:40:42] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49749] logged in with entity id 1186777 at (161.98477814933517, 82.0, 14.145011075409387)
-[03:40:42] [Server thread/INFO]: Tarnanduil joined the game
-[03:41:22] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:41:22] [Server thread/INFO]: Tarnanduil left the game
-[03:41:39] [User Authenticator #33/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:41:39] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49757] logged in with entity id 1189563 at (162.63243944859607, 83.0, 14.745507366269777)
-[03:41:39] [Server thread/INFO]: Tarnanduil joined the game
-[03:44:01] [Server thread/INFO]: <Tarnanduil> One window done!
-[03:44:10] [Server thread/INFO]: <Autonate> nice!
-[03:47:06] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:47:06] [Server thread/INFO]: Autonate left the game
-[03:49:58] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:49:58] [Server thread/INFO]: Tarnanduil left the game
-[03:50:04] [User Authenticator #34/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[03:50:04] [Server thread/INFO]: Autonate[/198.96.89.216:45715] logged in with entity id 1217404 at (-29.343680146876487, 98.15042566139483, 99.01278002712135)
-[03:50:04] [Server thread/INFO]: Autonate joined the game
-[03:50:43] [User Authenticator #35/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:50:43] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49768] logged in with entity id 1218666 at (174.9603735245987, 74.0, -0.281536406822701)
-[03:50:43] [Server thread/INFO]: Tarnanduil joined the game
-[03:51:36] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:51:36] [Server thread/INFO]: Tarnanduil left the game
-[03:51:45] [User Authenticator #36/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[03:51:45] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49775] logged in with entity id 1222683 at (177.30374667503645, 76.0, -2.3836096706851837)
-[03:51:45] [Server thread/INFO]: Tarnanduil joined the game
-[03:55:34] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[03:59:58] [Server thread/INFO]: <Autonate> lookin good
-[04:00:07] [Server thread/INFO]: <Tarnanduil> Woot woot!
-[04:00:35] [Server thread/INFO]: <Autonate> left u some more red wool
-[04:00:47] [Server thread/INFO]: <Autonate> im headed to iron farm to afk then i'm going to sleep
-[04:00:51] [Server thread/INFO]: <Tarnanduil> Awesome :)
-[04:00:55] [Server thread/INFO]: <Tarnanduil> ALrighty
-[04:01:05] [Server thread/INFO]: <Autonate> oh
-[04:01:12] [Server thread/INFO]: <Autonate> come here f or a sec
-[04:01:54] [Server thread/INFO]: <Autonate> marshall worked on this all day
-[04:02:00] [Server thread/INFO]: <Autonate> trading hut
-[04:02:11] [Server thread/INFO]: <Tarnanduil> ah
-[04:02:24] [Server thread/INFO]: <Autonate> careful, the buttons kill the villagers and "order" a new one
-[04:02:35] [Server thread/INFO]: <Tarnanduil> O_O
-[04:02:37] [Server thread/INFO]: <Tarnanduil> WOW
-[04:02:39] [Server thread/INFO]: <Autonate> yeah
-[04:02:40] [Server thread/INFO]: <Tarnanduil> lol
-[04:02:41] [Server thread/INFO]: <Autonate> watch
-[04:02:56] [Server thread/INFO]: <Autonate> then when a new one spawns it will go to that spot
-[04:03:13] [Server thread/INFO]: <Autonate> but it might take a while :P
-[04:03:13] [Server thread/INFO]: <Tarnanduil> Unbelievable...
-[04:03:17] [Server thread/INFO]: <Autonate> hahaha
-[04:03:24] [Server thread/INFO]: <Autonate> just some slightly complicated redstone :P
-[04:03:35] [Server thread/INFO]: <Tarnanduil> I'd think so :P
-[04:03:41] [Server thread/INFO]: <Tarnanduil> WOWO
-[04:03:48] [Server thread/INFO]: <Autonate> there are some good trades here tho
-[04:07:04] [Server thread/INFO]: <Autonate> mmk i'll be afk till probaly tomorrow night
-[04:07:08] [Server thread/INFO]: <Autonate> Have a good one!
-[04:07:15] [Server thread/INFO]: <Tarnanduil> YOu too!
-[04:07:19] [Server thread/INFO]: <Tarnanduil> Thanks again@
-[04:12:36] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:12:36] [Server thread/INFO]: Tarnanduil left the game
-[04:12:57] [User Authenticator #37/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[04:12:57] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49789] logged in with entity id 1298636 at (161.26082031612304, 74.0, 6.152225247436605)
-[04:12:57] [Server thread/INFO]: Tarnanduil joined the game
-[04:17:31] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:17:31] [Server thread/INFO]: Tarnanduil left the game
-[04:19:15] [User Authenticator #38/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[04:19:15] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49798] logged in with entity id 1313648 at (176.0754077125314, 74.0, 2.7012799511634404)
-[04:19:15] [Server thread/INFO]: Tarnanduil joined the game
-[04:21:14] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:21:14] [Server thread/INFO]: Tarnanduil left the game
-[04:21:40] [User Authenticator #39/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[04:21:40] [Server thread/INFO]: Tarnanduil[/65.0.78.184:49807] logged in with entity id 1319710 at (170.3136596467488, 74.0, 12.969763573109457)
-[04:21:40] [Server thread/INFO]: Tarnanduil joined the game
-[04:21:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@7458dcb6[id=<null>,name=Tarnanduil,properties={},legacy=false] (/65.0.78.184:49806) lost connection: Disconnected
-[04:33:12] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:33:12] [Server thread/INFO]: Tarnanduil left the game
-[09:02:51] [User Authenticator #40/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[09:02:51] [Server thread/INFO]: maxdeviant[/192.168.1.10:58112] logged in with entity id 1573767 at (263.5729484875669, 74.0, -39.117617397231754)
-[09:02:51] [Server thread/INFO]: maxdeviant joined the game
-[09:03:08] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:03:08] [Server thread/INFO]: maxdeviant left the game
-[09:03:11] [User Authenticator #41/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[09:03:11] [Server thread/INFO]: maxdeviant[/192.168.1.10:58132] logged in with entity id 1576260 at (266.17925876180857, 73.0, -32.525487593960335)
-[09:03:11] [Server thread/INFO]: maxdeviant joined the game
-[09:05:54] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:05:54] [Server thread/INFO]: maxdeviant left the game
-[09:05:56] [User Authenticator #42/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[09:05:56] [Server thread/INFO]: maxdeviant[/192.168.1.10:58204] logged in with entity id 1582302 at (265.14689690044736, 73.0, -41.61514083959238)
-[09:05:56] [Server thread/INFO]: maxdeviant joined the game
-[09:07:55] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:07:55] [Server thread/INFO]: maxdeviant left the game
-[09:12:01] [User Authenticator #43/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[09:12:01] [Server thread/INFO]: maxdeviant[/192.168.1.10:58351] logged in with entity id 1591415 at (258.4501687483636, 73.0, -39.87738461413877)
-[09:12:01] [Server thread/INFO]: maxdeviant joined the game
-[09:13:37] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[09:13:37] [Server thread/INFO]: maxdeviant left the game
-[11:22:33] [User Authenticator #44/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[11:22:33] [Server thread/INFO]: maxdeviant[/192.168.1.10:61098] logged in with entity id 1695767 at (262.63614024611263, 73.0, -39.12241356417608)
-[11:22:33] [Server thread/INFO]: maxdeviant joined the game
-[11:23:05] [Server thread/INFO]: <maxdeviant> you afk?
-[12:47:42] [Server thread/INFO]: maxdeviant was slain by Zombie
-[12:48:59] [Server thread/WARN]: maxdeviant moved wrongly!
-[12:53:31] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:53:31] [Server thread/INFO]: maxdeviant left the game
-[13:18:55] [User Authenticator #45/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[13:18:55] [Server thread/INFO]: maxdeviant[/192.168.1.10:65177] logged in with entity id 1910045 at (29.218780732902147, 69.0, 35.6640291530251)
-[13:18:55] [Server thread/INFO]: maxdeviant joined the game
-[13:20:04] [Server thread/INFO]: Opped maxdeviant
-[13:20:21] [Server thread/INFO]: [maxdeviant: Teleported maxdeviant to Autonate]
-[13:21:35] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[13:21:35] [Server thread/INFO]: maxdeviant left the game
-[14:57:04] [User Authenticator #46/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[14:57:04] [Server thread/INFO]: maxdeviant[/192.168.1.10:51319] logged in with entity id 1972348 at (1486.5633106180558, 77.0, -518.9915849439063)
-[14:57:04] [Server thread/INFO]: maxdeviant joined the game
-[15:01:37] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[15:01:37] [Server thread/INFO]: maxdeviant left the game
-[17:07:12] [User Authenticator #47/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:07:12] [Server thread/INFO]: maxdeviant[/192.168.1.10:55508] logged in with entity id 2049344 at (165.94361322197315, 63.0, -47.75453075835019)
-[17:07:12] [Server thread/INFO]: maxdeviant joined the game
-[17:07:28] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:07:28] [Server thread/INFO]: maxdeviant left the game
-[17:42:21] [User Authenticator #48/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:42:21] [Server thread/INFO]: maxdeviant[/192.168.1.10:57316] logged in with entity id 2068658 at (158.79350315808088, 63.0, -53.95086126205906)
-[17:42:21] [Server thread/INFO]: maxdeviant joined the game
-[17:42:50] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:42:50] [Server thread/INFO]: maxdeviant left the game
-[17:51:54] [User Authenticator #49/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:51:54] [Server thread/INFO]: maxdeviant[/192.168.1.10:57957] logged in with entity id 2075167 at (169.8350091831831, 62.0, -47.886799239817314)
-[17:51:54] [Server thread/INFO]: maxdeviant joined the game
-[17:53:29] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:53:29] [Server thread/INFO]: maxdeviant left the game
-[17:53:54] [User Authenticator #50/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:53:54] [Server thread/INFO]: maxdeviant[/192.168.1.10:58011] logged in with entity id 2079521 at (162.80954152340658, 62.0, -44.22443362922062)
-[17:53:54] [Server thread/INFO]: maxdeviant joined the game
-[17:54:08] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:54:08] [Server thread/INFO]: maxdeviant left the game
-[17:54:30] [User Authenticator #51/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:54:30] [Server thread/INFO]: maxdeviant[/192.168.1.10:58028] logged in with entity id 2081002 at (162.80954152340658, 62.0, -44.22443362922062)
-[17:54:30] [Server thread/INFO]: maxdeviant joined the game
-[17:54:45] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:54:45] [Server thread/INFO]: maxdeviant left the game
-[17:55:28] [User Authenticator #52/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:55:28] [Server thread/INFO]: maxdeviant[/192.168.1.10:58054] logged in with entity id 2082428 at (161.1041542488896, 62.0, -44.437030953805156)
-[17:55:28] [Server thread/INFO]: maxdeviant joined the game
-[17:55:37] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:55:37] [Server thread/INFO]: maxdeviant left the game
-[17:55:50] [User Authenticator #53/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[17:55:50] [Server thread/INFO]: maxdeviant[/192.168.1.10:58070] logged in with entity id 2084260 at (160.2411367716732, 62.0, -42.65284053065535)
-[17:55:50] [Server thread/INFO]: maxdeviant joined the game
-[17:57:43] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:57:43] [Server thread/INFO]: maxdeviant left the game
-[18:24:24] [User Authenticator #54/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[18:24:24] [Server thread/INFO]: Tarnanduil[/74.240.4.2:50336] logged in with entity id 2102449 at (157.16014564057116, 74.0, -8.345687539643395)
-[18:24:24] [Server thread/INFO]: Tarnanduil joined the game
-[18:24:40] [Server thread/INFO]: <Tarnanduil> Hello :)
-[18:25:14] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:25:14] [Server thread/INFO]: Tarnanduil left the game
-[18:25:19] [User Authenticator #55/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[18:25:19] [Server thread/INFO]: Tarnanduil[/74.240.4.2:50342] logged in with entity id 2106010 at (166.38035992331635, 74.0, -2.2384664465799062)
-[18:25:19] [Server thread/INFO]: Tarnanduil joined the game
-[18:27:47] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:27:47] [Server thread/INFO]: Tarnanduil left the game
-[18:30:48] [User Authenticator #56/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[18:30:48] [Server thread/INFO]: Tarnanduil[/74.240.4.2:50355] logged in with entity id 2113387 at (155.2676653065675, 70.0, -24.19293894142535)
-[18:30:48] [Server thread/INFO]: Tarnanduil joined the game
-[18:35:24] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:35:24] [Server thread/INFO]: Tarnanduil left the game
-[18:40:27] [User Authenticator #57/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[18:40:27] [Server thread/INFO]: maxdeviant[/192.168.1.10:60204] logged in with entity id 2126334 at (260.7478816316651, 73.0, -32.823114899732325)
-[18:40:27] [Server thread/INFO]: maxdeviant joined the game
-[18:44:02] [Server thread/INFO]: [maxdeviant: Set own game mode to Survival Mode]
-[18:45:51] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:45:51] [Server thread/INFO]: maxdeviant left the game
-[19:40:31] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[20:02:46] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[20:03:40] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[20:22:58] [User Authenticator #58/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
-[20:22:58] [Server thread/INFO]: Itsall1337[/71.200.30.253:55518] logged in with entity id 2290990 at (166.69999998807913, 61.0, -61.69999998807907)
-[20:22:58] [Server thread/INFO]: Itsall1337 joined the game
-[20:23:03] [Server thread/INFO]: <Autonate> hi~
-[20:23:12] [Server thread/INFO]: <Itsall1337> hello
-[20:23:40] [Server thread/INFO]: <Autonate> (this is nate)
-[20:23:51] [Server thread/INFO]: <Itsall1337> i figured :)
-[20:23:54] [Server thread/INFO]: <Autonate> haha
-[20:24:02] [Server thread/INFO]: <Autonate> pls dont make or place any doors today!
-[20:24:10] [Server thread/INFO]: <Itsall1337> i wont i read the chat
-[20:24:14] [Server thread/INFO]: <Autonate> hehe ty
-[20:24:29] [Server thread/INFO]: <Autonate> I'm doing somthing rather complicated any any doors could mess it up
-[20:24:43] [Server thread/INFO]: <Itsall1337> i had a feeling this dealt with something complicated
-[20:27:42] [User Authenticator #59/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[20:27:42] [Server thread/INFO]: Tarnanduil[/74.240.4.2:50642] logged in with entity id 2320063 at (166.9963774297924, 71.0, -28.887623960525893)
-[20:27:42] [Server thread/INFO]: Tarnanduil joined the game
-[20:27:58] [Server thread/INFO]: <Tarnanduil> Howdy!
-[20:28:03] [Server thread/INFO]: <Autonate> hey!
-[20:28:04] [Server thread/INFO]: <Itsall1337> hi
-[20:28:08] [Server thread/INFO]: <Autonate> did you see my skype message?
-[20:28:17] [Server thread/INFO]: <Tarnanduil> no
-[20:28:20] [Server thread/INFO]: <Autonate> ok
-[20:28:29] [Server thread/INFO]: <Autonate> pls don't place or make any doors today
-[20:28:40] [Server thread/INFO]: <Tarnanduil> Oh
-[20:28:42] [Server thread/INFO]: <Tarnanduil> ok
-[20:28:45] [User Authenticator #60/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[20:28:45] [Server thread/INFO]: maxdeviant[/192.168.1.10:65513] logged in with entity id 2325090 at (133.2519911576943, 71.0, -16.462441963884498)
-[20:28:45] [Server thread/INFO]: maxdeviant joined the game
-[20:28:49] [Server thread/INFO]: <Autonate> finishing the iron foundry tonight and 1 door could ruin many hours of work
-[20:28:54] [Server thread/INFO]: <maxdeviant> Oh man, it's a party
-[20:28:58] [Server thread/INFO]: <Autonate> hehe
-[20:29:04] [Server thread/INFO]: <maxdeviant> Nate, get on Mumble :3
-[20:29:05] [Server thread/INFO]: <Autonate> u skypeable marsh?
-[20:29:12] [Server thread/INFO]: <Autonate> oh ok
-[20:29:40] [Server thread/INFO]: <Tarnanduil> I can't stay, friend's here
-[20:29:40] [Server thread/INFO]: <Autonate> lol I forgot my mumble is crashing
-[20:29:46] [Server thread/INFO]: <Autonate> lemme redownload
-[20:29:47] [Server thread/INFO]: <maxdeviant> o_O
-[20:29:47] [Server thread/INFO]: <Autonate> k cya!
-[20:29:50] [Server thread/INFO]: <Autonate> have a good one
-[20:29:53] [Server thread/INFO]: <maxdeviant> bye nolan
-[20:29:55] [Server thread/INFO]: <Tarnanduil> I'll see y'all a bit later
-[20:29:58] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:29:58] [Server thread/INFO]: Tarnanduil left the game
-[20:30:16] [Server thread/INFO]: <Itsall1337> brb
-[20:30:18] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:30:18] [Server thread/INFO]: Itsall1337 left the game
-[20:31:50] [User Authenticator #61/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
-[20:31:50] [Server thread/INFO]: Itsall1337[/71.200.30.253:56037] logged in with entity id 2339226 at (156.4969535806042, 62.0, -59.605163754139255)
-[20:31:50] [Server thread/INFO]: Itsall1337 joined the game
-[20:32:33] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:32:33] [Server thread/INFO]: maxdeviant left the game
-[20:33:49] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:33:49] [Server thread/INFO]: Itsall1337 left the game
-[20:34:15] [User Authenticator #62/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
-[20:34:15] [Server thread/INFO]: Itsall1337[/71.200.30.253:56227] logged in with entity id 2346679 at (159.01591135754197, 60.0, -30.574201379293697)
-[20:34:15] [Server thread/INFO]: Itsall1337 joined the game
-[20:36:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2203ms behind, skipping 44 tick(s)
-[20:36:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2656ms behind, skipping 53 tick(s)
-[20:38:14] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[20:38:44] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[20:38:55] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[20:39:57] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[20:46:30] [User Authenticator #63/INFO]: UUID of player therastamasta is f22fe83f-b601-4516-8ca3-59323d13e559
-[20:46:30] [Server thread/INFO]: therastamasta[/69.249.70.239:61508] logged in with entity id 2409741 at (1485.619985490919, 76.0, -526.6999999880791)
-[20:46:30] [Server thread/INFO]: therastamasta joined the game
-[20:49:44] [Server thread/INFO]: Itsall1337 has just earned the achievement [Repopulation]
-[20:51:10] [Server thread/INFO]: <Itsall1337> wow
-[20:51:26] [Server thread/INFO]: <Autonate> yeah ;x
-[20:52:31] [Server thread/INFO]: <Itsall1337> theres a zombie pig man down here..
-[20:53:17] [Server thread/INFO]: <Autonate> haha it is fine
-[20:53:22] [Server thread/INFO]: <Autonate> just don't attack him
-[20:55:09] [Server thread/INFO]: <Itsall1337> well time for got bye!
-[20:55:11] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:55:11] [Server thread/INFO]: Itsall1337 left the game
-[20:56:43] [Server thread/INFO]: therastamasta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:56:43] [Server thread/INFO]: therastamasta left the game
-[21:44:39] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:44:39] [Server thread/INFO]: Autonate left the game
-[21:44:57] [User Authenticator #64/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[21:44:57] [Server thread/INFO]: Autonate[/198.96.89.216:41183] logged in with entity id 2550162 at (-28.816750277722512, 107.00334841056957, 107.7088554623894)
-[21:44:57] [Server thread/INFO]: Autonate joined the game
-[21:46:04] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:46:04] [Server thread/INFO]: Autonate left the game
+[00:09:35] [User Authenticator #25/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[00:09:35] [Server thread/INFO]: Autonate[/198.96.89.216:46019] logged in with entity id 3139435 at (158.67783597241626, 60.0, -32.33258024452071)
+[00:09:35] [Server thread/INFO]: Autonate joined the game
+[00:09:42] [Server thread/INFO]: <Autonate> ohai
+[00:09:50] [Server thread/INFO]: <Tarnanduil> Howdy!
+[00:09:59] [Server thread/INFO]: <Tarnanduil> Beautifying
+[00:10:03] [Server thread/INFO]: <Autonate> I logged in right behind you
+[00:10:04] [Server thread/INFO]: <Autonate> lol
+[00:10:06] [Server thread/INFO]: <Autonate> Nice!
+[00:10:20] [Server thread/INFO]: <Autonate> yeah we need a lot of cleanup down here haha
+[00:10:44] [Server thread/INFO]: <Autonate> Maybe I'll work on the bank some tonight
+[00:12:05] [Server thread/INFO]: <Autonate> Too bad there isn't a way to farm glowstone in a farm
+[00:12:07] [Server thread/INFO]: <Autonate> :c
+[00:12:16] [Server thread/INFO]: <Tarnanduil> Riiiiight
+[00:35:19] [Server thread/INFO]: <Tarnanduil> What you up to?
+[00:40:31] [Server thread/INFO]: <Autonate> sorry was chatting with a friend
+[00:40:39] [Server thread/INFO]: <Autonate> hmm... what do do with the design in here
+[00:47:37] [Server thread/INFO]: <Autonate> I wish there was a guild/guild storage system in mc
+[00:47:52] [Server thread/INFO]: <Tarnanduil> Indeed
+[00:49:05] [Server thread/INFO]: <Autonate> ugh I gotta dig out the bulk storage rooms soon
+[00:49:10] [Server thread/INFO]: <Autonate> cobble chests are filling up
+[00:51:37] [Server thread/INFO]: <Autonate> Thanks for cleaning up the roof <3
+[00:51:43] [Server thread/INFO]: <Tarnanduil> np :P
+[00:51:45] [Server thread/INFO]: <Autonate> Not looking forward to digging out the other side lol
+[00:51:49] [Server thread/INFO]: <Tarnanduil> heh
+[00:51:57] [Server thread/INFO]: <Autonate> over here has to be dug too T T
+[00:52:09] [Server thread/INFO]: <Tarnanduil> Wheresa?
+[00:52:22] [Server thread/INFO]: <Autonate> here...
+[00:52:22] [Server thread/INFO]: <Autonate> LOL
+[00:52:29] [Server thread/INFO]: <Autonate> has to be 10 wide as well T T
+[00:52:37] [Server thread/INFO]: <Tarnanduil> As in a whole new.... oh dear
+[00:52:42] [Server thread/INFO]: <Autonate> there will be another set of chests on this wall
+[00:52:46] [Server thread/INFO]: <Autonate> yeah LOL
+[00:52:48] [Server thread/INFO]: <Autonate> No rush
+[00:52:53] [Server thread/INFO]: <Tarnanduil> right...
+[00:52:55] [Server thread/INFO]: <Autonate> As we need more storage we will do it
+[00:53:12] [Server thread/INFO]: <Autonate> We will want to organize the items better anyways once we finish stuff up
+[00:55:05] [Server thread/INFO]: <Autonate> oh dear
+[00:55:12] [Server thread/INFO]: <Autonate> where did all the glowstone go x.x
+[00:55:19] [Server thread/INFO]: <Tarnanduil> Away :P
+[00:55:22] [Server thread/INFO]: <Autonate> T T
+[01:08:10] [Server thread/INFO]: <Autonate> What do you think of this roof so far?
+[01:08:14] [Server thread/INFO]: <Autonate> Any suggestions?
+[01:08:38] [Server thread/INFO]: <Tarnanduil> ooooo
+[01:09:09] [Server thread/INFO]: <Tarnanduil> I would say that you made a good choice using iron :P
+[01:09:14] [Server thread/INFO]: <Autonate> yay :D
+[01:09:20] [Server thread/INFO]: <Autonate> Bank should feel expensive
+[01:09:29] [Server thread/INFO]: <Autonate> I wanted to use gold but we don't have that much :P
+[01:09:37] [Server thread/INFO]: <Tarnanduil> Yeah
+[01:09:52] [Server thread/INFO]: <Tarnanduil> Use gold where the torches go
+[01:10:03] [Server thread/INFO]: <Autonate> not a bad idea
+[01:10:07] [Server thread/INFO]: <Autonate> I can fill it in later
+[01:10:14] [Server thread/INFO]: <Tarnanduil> cool
+[01:10:28] [Server thread/INFO]: <Autonate> we do gotta work on gold farm eventually :X
+[01:10:35] [Server thread/INFO]: <Autonate> that is not gunna be fun
+[01:10:40] [Server thread/INFO]: <Tarnanduil> how's that work?
+[01:10:43] [Server thread/INFO]: <Autonate> gotta make like 1403281501 nether portals
+[01:10:48] [Server thread/INFO]: <Autonate> You farm the zombie pigmen
+[01:10:49] [Server thread/INFO]: <Tarnanduil> complicated
+[01:10:53] [Server thread/INFO]: <Tarnanduil> ah
+[01:10:58] [Server thread/INFO]: <Tarnanduil> lovely
+[01:11:38] [Server thread/INFO]: <Autonate> feel free to add your own touches to any of the decoration down here :)
+[01:11:53] [Server thread/INFO]: <Tarnanduil> gotcha
+[01:16:16] [Server thread/INFO]: <Autonate> nice
+[01:18:40] [Server thread/INFO]: <Autonate> are slabs nicer?
+[01:18:46] [Server thread/INFO]: <Tarnanduil> much :)
+[01:18:52] [Server thread/INFO]: <Autonate> Yeah it gives some texture
+[01:21:18] [Server thread/INFO]: <Autonate> no torch blocks on the outside rim~
+[01:21:30] [Server thread/INFO]: <Tarnanduil> ah
+[01:24:13] [Server thread/INFO]: <Tarnanduil> That all the gold needed?
+[01:24:29] [Server thread/INFO]: <Autonate> these back 4 still need
+[01:25:08] [Server thread/INFO]: <Autonate> woah
+[01:25:15] [Server thread/INFO]: <Autonate> did I not center it....
+[01:25:22] [Server thread/INFO]: <Tarnanduil> nope :P
+[01:25:22] [Server thread/INFO]: <Autonate> lmao
+[01:25:36] [Server thread/INFO]: <Autonate> uhh... lets leave it for now
+[01:25:41] [Server thread/INFO]: <Autonate> I'll fix it later lol
+[01:26:02] [Server thread/INFO]: <Autonate> gunna figure out the rest of the room first
+[01:26:06] [Server thread/INFO]: <Autonate> might wanna make some changes
+[01:31:50] [Server thread/INFO]: <Autonate> nice
+[01:31:51] [Server thread/INFO]: <Autonate> looks good
+[01:49:49] [Server thread/INFO]: <Autonate> Omg looks so much better
+[01:49:53] [Server thread/INFO]: <Autonate> Haha thanks for fixing it
+[01:50:02] [Server thread/INFO]: <Tarnanduil> hehe, np :)
+[01:50:10] [Server thread/INFO]: <Autonate> time to figure out the floor
+[01:56:01] [Server thread/INFO]: <Tarnanduil> did you pick up a gold block>
+[01:56:02] [Server thread/INFO]: <Tarnanduil> ?
+[01:56:29] [Server thread/INFO]: <Tarnanduil> Sanks@
+[01:56:41] [Server thread/INFO]: <Autonate> so glad we already have quartz
+[01:56:46] [Server thread/INFO]: <Autonate> lol didn't want to have to go mine
+[02:10:17] [Server thread/INFO]: <Autonate> Is the roof done?
+[02:10:41] [Server thread/INFO]: <Tarnanduil> Reletively
+[02:10:53] [Server thread/INFO]: <Autonate> looks good :)
+[02:11:07] [Server thread/INFO]: <Autonate> I need more Quartz :C
+[02:11:55] [Server thread/INFO]: <Tarnanduil> I know what I'd do to the roof to make it the same, but I'm bout to fall onto my keyboard :P
+[02:12:09] [Server thread/INFO]: <Autonate> haha sleepy?
+[02:12:18] [Server thread/INFO]: <Tarnanduil> a little :)
+[02:12:28] [Server thread/INFO]: <Autonate> Get some rest~
+[02:12:37] [Server thread/INFO]: <Autonate> It's lookign good
+[02:12:43] [Server thread/INFO]: <Autonate> Did you see the fancy door?
+[02:12:44] [Server thread/INFO]: <Tarnanduil> indeed!
+[02:12:50] [Server thread/INFO]: <Tarnanduil> OOOoooo
+[02:12:58] [Server thread/INFO]: <Tarnanduil> Nice!
+[02:13:09] [Server thread/INFO]: <Autonate> Might change it or make it lava :3
+[02:13:22] [Server thread/INFO]: <Tarnanduil> Not necessarily intended to keep anyone out?
+[02:13:24] [Server thread/INFO]: <Autonate> Gotta set up pressure plates
+[02:13:28] [Server thread/INFO]: <Autonate> Not really
+[02:13:31] [Server thread/INFO]: <Tarnanduil> an
+[02:13:35] [Server thread/INFO]: <Autonate> Mostly just aesthetic haha
+[02:13:36] [Server thread/INFO]: <Tarnanduil> h
+[02:13:40] [Server thread/INFO]: <Tarnanduil> ah
+[02:13:44] [Server thread/INFO]: <Autonate> Feel free to mess with it :D
+[02:13:58] [Server thread/INFO]: <Tarnanduil> Looks good to me
+[02:15:47] [Server thread/INFO]: <Autonate> diamond n emerald will go on that wall
+[02:15:52] [Server thread/INFO]: <Tarnanduil> ah
+[02:16:19] [Server thread/INFO]: <Autonate> We gotta find an emerald ore to silk touch
+[02:16:25] [Server thread/INFO]: <Autonate> That might be a bit difficult :x
+[02:17:09] [Server thread/INFO]: <Autonate> brb
+[02:17:23] [Server thread/INFO]: <Tarnanduil> yep yep
+[02:17:23] [Server thread/INFO]: <Autonate> do you like the single chest wall or the double chest one?
+[02:17:34] [Server thread/INFO]: <Tarnanduil> doubl
+[02:17:36] [Server thread/INFO]: <Tarnanduil> 2
+[02:18:33] [Server thread/INFO]: <Autonate> kk
+[02:18:36] [Server thread/INFO]: <Autonate> bac
+[02:18:54] [Server thread/INFO]: <Autonate> time to.. find more quartz :c
+[02:23:47] [Server thread/INFO]: <Tarnanduil> You know where the chests are, right?
+[02:23:53] [Server thread/INFO]: <Autonate> yep
+[02:23:59] [Server thread/INFO]: <Tarnanduil> Got two full stacks
+[02:24:02] [Server thread/INFO]: <Autonate> hehe i put it over there
+[02:24:22] [Server thread/INFO]: <Tarnanduil> ok, just makin sure :P
+[02:24:27] [Server thread/INFO]: <Autonate> :D
+[02:25:18] [Server thread/INFO]: <Autonate> bars or no bars?
+[02:25:50] [Server thread/INFO]: <Tarnanduil> There!
+[02:26:02] [Server thread/INFO]: <Autonate> You like those?
+[02:26:22] [Server thread/INFO]: <Tarnanduil> I think so
+[02:26:49] [Server thread/INFO]: <Autonate> I wanna replace the slabs with quartz later
+[02:26:59] [Server thread/INFO]: <Tarnanduil> ah
+[02:27:05] [Server thread/INFO]: <Autonate> just so expensive now lol
+[02:29:01] [Server thread/INFO]: <Tarnanduil> How bout that?
+[02:29:05] [Server thread/INFO]: <Autonate> looks good
+[02:29:27] [Server thread/INFO]: <Autonate> enderchests
+[02:29:31] [Server thread/INFO]: <Autonate> in other spots
+[02:29:32] [Server thread/INFO]: <Autonate> I think
+[02:29:45] [Server thread/INFO]: <Tarnanduil> here?
+[02:30:01] [Server thread/INFO]: <Autonate> Oh I was gunna put them in the middle
+[02:30:05] [Server thread/INFO]: <Autonate> but there works too
+[02:30:08] [Server thread/INFO]: <Tarnanduil> ok LO
+[02:30:11] [Server thread/INFO]: <Tarnanduil> :P
+[02:30:23] [Server thread/INFO]: <Autonate> need 2 more glowstone
+[02:38:25] [Server thread/INFO]: <Autonate> hehe it looks so good
+[02:38:28] [Server thread/INFO]: <Tarnanduil> There, no more glowstone problem :P
+[02:38:33] [Server thread/INFO]: <Autonate> yay haha
+[02:39:12] [Server thread/INFO]: <Autonate> woah endstone looks really different with no texture pack
+[02:39:26] [Server thread/INFO]: <Tarnanduil> yep
+[02:39:32] [Server thread/INFO]: <Autonate> Might change that
+[02:39:37] [Server thread/INFO]: <Tarnanduil> THought it looked strange :P
+[02:39:44] [Server thread/INFO]: <Autonate> everything else seems to look good with no texture pack
+[02:40:09] [Server thread/INFO]: <Tarnanduil> How bout obsidian instead?
+[02:40:23] [Server thread/INFO]: <Autonate> So expensive T T
+[02:40:30] [Server thread/INFO]: <Tarnanduil> na
+[02:40:30] [Server thread/INFO]: <Autonate> remember there is still a looot to do haha
+[02:40:36] [Server thread/INFO]: <Autonate> But if u wanna mine it then sure :P
+[02:41:19] [Server thread/INFO]: <Autonate> ugh its gunna drive me crazy that we have now emerald ore now
+[02:44:16] [Server thread/INFO]: <Tarnanduil> eheh
+[02:44:33] [Server thread/INFO]: <Autonate> just need lapis, gold and emrald ore
+[02:44:58] [Server thread/INFO]: <Tarnanduil> Stuck lapis up there
+[02:45:02] [Server thread/INFO]: <Autonate> onice
+[02:45:03] [Server thread/INFO]: <Autonate> ry
+[02:45:04] [Server thread/INFO]: <Autonate> ry
+[02:45:07] [Server thread/INFO]: <Autonate> ty*
+[02:54:17] [Server thread/INFO]: <Autonate> hehe
+[02:54:19] [Server thread/INFO]: <Autonate> Finished
+[02:54:42] [Server thread/INFO]: <Tarnanduil> Nice!
+[02:58:23] [Server thread/INFO]: <Autonate> Thinking of tearing down the inn to rebuild the one from the old server
+[02:58:28] [Server thread/INFO]: <Autonate> It was so much nicer
+[03:05:25] [Server thread/INFO]: <Tarnanduil> ok, now I'm going to bed :P
+[03:05:29] [Server thread/INFO]: <Autonate> Night man~
+[03:05:30] [Server thread/INFO]: <Tarnanduil> Night!
+[03:05:36] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:05:36] [Server thread/INFO]: Tarnanduil left the game
+[03:22:13] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:22:13] [Server thread/INFO]: Autonate left the game
+[10:24:49] [User Authenticator #26/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[10:24:49] [Server thread/INFO]: Itsall1337[/71.200.30.253:60887] logged in with entity id 4072209 at (170.69999998807907, 62.0, -59.69999998807908)
+[10:24:49] [Server thread/INFO]: Itsall1337 joined the game
+[10:50:05] [User Authenticator #27/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[10:50:05] [Server thread/INFO]: Tarnanduil[/74.240.4.2:64606] logged in with entity id 4170526 at (154.74348203521924, 62.0, -50.55363111681128)
+[10:50:05] [Server thread/INFO]: Tarnanduil joined the game
+[10:50:36] [Server thread/INFO]: <Tarnanduil> Heller
+[10:50:39] [Server thread/INFO]: <Tarnanduil> :)
+[10:50:41] [Server thread/INFO]: <Itsall1337> hi
+[10:54:14] [Server thread/INFO]: <Tarnanduil> Do we have a spider spawner somewhere?
+[10:54:22] [Server thread/INFO]: <Itsall1337> im not sure i dont think so
+[10:56:00] [Server thread/INFO]: <Tarnanduil> I'm going afk at the mob spawner for a bit; bbl
+[10:56:11] [Server thread/INFO]: <Itsall1337> okie
+[11:27:17] [Server thread/INFO]: Tarnanduil fell off a ladder
+[11:38:56] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:38:56] [Server thread/INFO]: Tarnanduil left the game
+[12:03:39] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:03:39] [Server thread/INFO]: Itsall1337 left the game
+[12:03:56] [User Authenticator #28/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[12:03:57] [Server thread/INFO]: Itsall1337[/71.200.30.253:61385] logged in with entity id 4447342 at (306.9424865822444, 89.0, -65.64574909277671)
+[12:03:57] [Server thread/INFO]: Itsall1337 joined the game
+[12:35:54] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:35:54] [Server thread/INFO]: Itsall1337 left the game
+[12:37:40] [User Authenticator #29/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[12:37:40] [Server thread/INFO]: Itsall1337[/71.200.30.253:61434] logged in with entity id 4552405 at (315.6999999880791, 87.0, -56.48070598156755)
+[12:37:40] [Server thread/INFO]: Itsall1337 joined the game
+[12:56:27] [User Authenticator #30/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[12:56:27] [Server thread/INFO]: Tarnanduil[/74.240.4.2:65084] logged in with entity id 4609770 at (695.3557263062542, 72.0, -41.48089524278897)
+[12:56:27] [Server thread/INFO]: Tarnanduil joined the game
+[13:00:50] [Server thread/INFO]: <Itsall1337> hii
+[13:00:55] [Server thread/INFO]: <Tarnanduil> Howdy :)
+[13:01:00] [Server thread/INFO]: <Itsall1337> whatcha doin?
+[13:01:27] [User Authenticator #31/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[13:01:27] [Server thread/INFO]: Autonate[/198.96.89.216:44612] logged in with entity id 4628104 at (157.45513149307197, 62.5, -45.9674331960317)
+[13:01:27] [Server thread/INFO]: Autonate joined the game
+[13:01:34] [Server thread/INFO]: <Tarnanduil> Wishing this mob spawner might be a bit faster :P
+[13:01:46] [Server thread/INFO]: <Autonate> mornin'
+[13:01:50] [Server thread/INFO]: <Tarnanduil> Hello, nate!
+[13:01:52] [Server thread/INFO]: <Autonate> Yeah that needs to be rebuilt
+[13:02:07] [Server thread/INFO]: <Autonate> I'm gunna build it over y=128
+[13:02:16] [Server thread/INFO]: <Itsall1337> hii nate
+[13:02:17] [Server thread/INFO]: <Autonate> so there is no other mobs interfering
+[13:02:34] [Server thread/INFO]: <Autonate> Hehe the bank is so nice
+[13:02:37] [Server thread/INFO]: <Autonate> GJ us
+[13:02:45] [Server thread/INFO]: <Tarnanduil> Woot!
+[13:02:55] [Server thread/INFO]: <Autonate> djda see it erin?
+[13:03:11] [Server thread/INFO]: <Itsall1337> ill look in a bit im working on a tower of my own.
+[13:03:18] [Server thread/INFO]: <Itsall1337> but dont look D:
+[13:03:19] [Server thread/INFO]: <Autonate> oh nice ok!
+[13:03:26] [Server thread/INFO]: <Autonate> LOL
+[13:03:35] [Server thread/INFO]: <Tarnanduil> Too late!
+[13:03:41] [Server thread/INFO]: <Itsall1337> :C
+[13:04:02] [Server thread/INFO]: <Tarnanduil> ehehe, don't worry, won't peek too bad :)
+[13:04:20] [Server thread/INFO]: <Itsall1337> its a mess because Im not on creative
+[13:04:25] [Server thread/INFO]: <Itsall1337> all the dirt D:
+[13:04:29] [Server thread/INFO]: <Tarnanduil> hehe
+[13:04:36] [Server thread/INFO]: <Autonate> Haha welcome to survival mode
+[13:04:51] [Server thread/INFO]: <Autonate> It feels more satisfying building in survival :D
+[13:04:57] [Server thread/INFO]: <Itsall1337> i know
+[13:05:00] [Server thread/INFO]: <Tarnanduil> The place where you earn what you build@
+[13:06:39] [Server thread/INFO]: <Autonate> oh right
+[13:06:44] [Server thread/INFO]: <Autonate> oday I was gunna tear down the inn
+[13:07:04] [Server thread/INFO]: <Autonate> So much work x.x
+[13:07:09] [Server thread/INFO]: <Tarnanduil> I do miss the old one :S
+[13:07:12] [Server thread/INFO]: <Itsall1337> whatcha going to put there?
+[13:07:21] [Server thread/INFO]: <Tarnanduil> ^
+[13:07:34] [Server thread/INFO]: <Autonate> There is an inn I built on our old server
+[13:07:39] [Server thread/INFO]: <Itsall1337> ooh
+[13:07:40] [Server thread/INFO]: <Autonate> I'm gunna build a similar one
+[13:07:53] [Server thread/INFO]: <Autonate> This one is just so boring and square
+[13:08:56] [Server thread/INFO]: <Itsall1337> im starting to get flustered lol
+[13:09:26] [Server thread/INFO]: <Tarnanduil> Just kind of as a side note: I'm not too fond of the water elevaters :S But if you build them anyway
+[13:09:36] [Server thread/INFO]: <Tarnanduil> I won't be peeved :P
+[13:10:50] [Server thread/INFO]: <Tarnanduil> Why do I have a bucket of Destiny in my inventory?
+[13:10:58] [Server thread/INFO]: <Autonate> LOL
+[13:11:01] [Server thread/INFO]: <Autonate> YES
+[13:11:11] [Server thread/INFO]: <Autonate> I hoped someone would pick it up :3
+[13:11:30] [Server thread/INFO]: <Autonate> Do you feel like you control your destiny now?
+[13:11:32] [Server thread/INFO]: <Tarnanduil> I tried to put it in the with the other buckets, and I couldn't make it stack :D
+[13:11:46] [Server thread/INFO]: <Itsall1337> sorry haha
+[13:11:51] [Server thread/INFO]: <Tarnanduil> Couldn't figure out why :P
+[13:12:32] [Server thread/INFO]: <Tarnanduil> Nate, in minecraft, I ALWAYS control my destiny ;)
+[13:12:40] [Server thread/INFO]: <Autonate> kekeke
+[13:12:52] [Server thread/INFO]: <Itsall1337> what about the 'real' world lol
+[13:13:37] [Server thread/INFO]: <Autonate> time to find an efficient mob spawner to build
+[13:14:16] [Server thread/INFO]: <Tarnanduil> Can't make up your mind on a project to stick to, huh?
+[13:14:33] [Server thread/INFO]: <Autonate> lol, welcome to how I play minecraft
+[13:14:40] [Server thread/INFO]: <Autonate> This is why there aer 1000 unfinshed projects
+[13:16:07] [Server thread/INFO]: <Tarnanduil> The Bucket of Destiny is now hanging on the wall above the anvil
+[13:16:16] [Server thread/INFO]: <Autonate> :3
+[13:16:36] [Server thread/INFO]: <Autonate> Where didja find the packed ice?
+[13:16:47] [Server thread/INFO]: <Autonate> I'm gunna need 5-10 stacks
+[13:16:57] [Server thread/INFO]: <Tarnanduil> Um
+[13:17:33] [Server thread/INFO]: <Tarnanduil> It's at the end of a VERY long passage in the nether
+[13:17:44] [Server thread/INFO]: <Autonate> to the east?
+[13:17:51] [Server thread/INFO]: <Itsall1337> good thing i made lots of rails
+[13:18:05] [Server thread/INFO]: <Tarnanduil> yep
+[13:18:14] [Server thread/INFO]: <Autonate> yeah we should start cleaning up the portal system with walls and rails soon
+[13:18:16] [Server thread/INFO]: <Tarnanduil> To the Ice Lands
+[13:20:30] [Server thread/INFO]: <Autonate> mmk imma head out there
+[13:20:36] [Server thread/INFO]: <Autonate> I'll try to get as much as I can
+[13:20:40] [Server thread/INFO]: <Itsall1337> have fun.
+[13:20:47] [Server thread/INFO]: <Tarnanduil> Got a silk touch pick?
+[13:20:50] [Server thread/INFO]: <Autonate> yeah
+[13:20:53] [Server thread/INFO]: <Tarnanduil> good
+[13:20:57] [Server thread/INFO]: <Autonate> a fresh one
+[13:22:19] [Server thread/INFO]: <Autonate> SO LONG
+[13:22:26] [Server thread/INFO]: <Tarnanduil> hehe
+[13:23:42] [Server thread/INFO]: <Autonate> made it :D
+[13:23:52] [Server thread/INFO]: <Autonate> This biome is so cool
+[13:24:14] [Server thread/INFO]: <Tarnanduil> Agreed
+[13:28:10] [Server thread/INFO]: <Itsall1337> this roof will be the death of me
+[13:28:18] [Server thread/INFO]: <Autonate> WElcome to my pain
+[13:28:25] [Server thread/INFO]: <Autonate> I hate building roofs
+[13:28:26] [Server thread/INFO]: <Itsall1337> oh no, i know.
+[13:28:27] [Server thread/INFO]: <Autonate> lmao
+[13:28:40] [Server thread/INFO]: <Itsall1337> i use to build towers all the time on a different game
+[13:29:06] [Server thread/INFO]: <Tarnanduil> Does the chest that says Place Iron Blocks in here do something?
+[13:29:23] [Server thread/INFO]: <Autonate> It should feed the blocks into the other side but...
+[13:29:28] [Server thread/INFO]: <Autonate> for some reason the chest doesn'twork
+[13:29:36] [Server thread/INFO]: <Autonate> if u put them right in the hoppers it works
+[13:29:39] [Server thread/INFO]: <Autonate> I'll figure it out later
+[13:29:48] [Server thread/INFO]: <Autonate> I think the redstone behind the wall is messing with it
+[13:31:24] [Server thread/INFO]: <Tarnanduil> Yeah, it's the redstone torch behind the chest and hopper
+[13:31:33] [Server thread/INFO]: <Autonate> ahh
+[13:31:46] [Server thread/INFO]: <Autonate> maybe we need to more the chest down or forward
+[13:34:38] [Server thread/INFO]: <Tarnanduil> Fixed
+[13:34:42] [Server thread/INFO]: <Autonate> yay~
+[13:35:09] [Server thread/INFO]: <Autonate> makes it so when there are alot of chests full you don't have to search for which one to put the
+[13:35:11] [Server thread/INFO]: <Autonate> blocks in
+[13:40:37] [Server thread/INFO]: <Tarnanduil> I take that back...
+[13:40:47] [Server thread/INFO]: <Autonate> lol didja break it?
+[13:41:00] [Server thread/INFO]: <Tarnanduil> Missing half the blocks once you put them in
+[13:41:01] [Server thread/INFO]: <Autonate> it doesn't matter that much haha
+[13:41:08] [Server thread/INFO]: <Autonate> weird lol
+[13:41:17] [Server thread/INFO]: <Autonate> they must be stuck in the elevator?
+[13:42:47] [Server thread/INFO]: <Tarnanduil> Some were, but some were shot out the back of the building :S
+[13:42:54] [Server thread/INFO]: <Autonate> lmao what
+[13:43:15] [Server thread/INFO]: <Autonate> up to 9 stacks of packed ice
+[13:43:19] [Server thread/INFO]: <Autonate> still need 7 more :C
+[13:43:27] [Server thread/INFO]: <Tarnanduil> wow
+[13:43:42] [Server thread/INFO]: <Autonate> 16 stacks for this mob farm
+[13:45:19] [Server thread/INFO]: <Itsall1337> brb
+[13:45:20] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:45:20] [Server thread/INFO]: Itsall1337 left the game
+[13:46:49] [Server thread/INFO]: <Tarnanduil> I give up
+[13:46:58] [Server thread/INFO]: <Autonate> haha no worries
+[13:47:05] [User Authenticator #32/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
+[13:47:05] [Server thread/INFO]: <Tarnanduil> Not a clue what happened :P
+[13:47:05] [Server thread/INFO]: Itsall1337[/71.200.30.253:61525] logged in with entity id 4825874 at (322.6750709051195, 107.0, -62.404858787960514)
+[13:47:05] [Server thread/INFO]: Itsall1337 joined the game
+[13:47:10] [Server thread/INFO]: <Autonate> I just threw somethign together quick so I could get the iron flowing
+[13:47:21] [Server thread/INFO]: <Autonate> we can redesign the bottom of the foundry at a later date
+[13:48:03] [Server thread/INFO]: <Tarnanduil> brb
+[13:55:28] [Server thread/INFO]: <Autonate> Finally
+[13:58:40] [Server thread/INFO]: <Tarnanduil> Ever tried choping down a tree?
+[13:58:48] [Server thread/INFO]: <Itsall1337> yes
+[13:58:58] [Server thread/INFO]: <Tarnanduil> It's something :P
+[13:59:11] [Server thread/INFO]: <Itsall1337> its easier haha
+[13:59:16] [Server thread/INFO]: <Tarnanduil> HA
+[13:59:16] [Server thread/INFO]: <Autonate> wut
+[14:04:48] [Server thread/INFO]: <Autonate> made a stack of regular and a stack of sticky pistons
+[14:11:36] [Server thread/INFO]: <Tarnanduil> There is DIRT in the vault! O_O
+[14:12:04] [Server thread/INFO]: <Tarnanduil> MUST be fixed!
+[14:13:58] [Server thread/INFO]: <Tarnanduil> Crisis has been averted
+[14:20:57] [Server thread/INFO]: <Tarnanduil> Where did the flowers go?
+[14:21:14] [Server thread/INFO]: <Itsall1337> idk ive been up here forever
+[14:22:20] [Server thread/INFO]: <Tarnanduil> Found em!
+[14:22:23] [Server thread/INFO]: <Itsall1337> :D
+[14:24:48] [Server thread/INFO]: <Itsall1337> how make a flag?
+[14:25:53] [Server thread/INFO]: <Tarnanduil> Start with three wool and stedily get smaller while changing directions
+[14:26:02] [Server thread/INFO]: <Tarnanduil> if that even makes sense :P
+[14:26:04] [Server thread/INFO]: <Itsall1337> do you use fences for a poll?
+[14:26:24] [Server thread/INFO]: <Tarnanduil> I do
+[14:26:29] [Server thread/INFO]: <Itsall1337> okie :D
+[14:27:27] [Server thread/INFO]: <Autonate> o.O
+[14:27:36] [Server thread/INFO]: <Autonate> dirt?
+[14:27:44] [Server thread/INFO]: <Itsall1337> its going away lol
+[14:27:54] [Server thread/INFO]: <Autonate> been watching mob spawner videos ahaha
+[14:28:01] [Server thread/INFO]: <Autonate> where are you building erin?
+[14:28:10] [Server thread/INFO]: <Itsall1337> by the super secret villager thingy
+[14:28:14] [Server thread/INFO]: <Autonate> ohh ok
+[14:28:22] [Server thread/INFO]: <Autonate> "super secret"
+[14:28:23] [Server thread/INFO]: <Autonate> lol
+[14:30:25] [Server thread/INFO]: <Tarnanduil> Got to go shower then off to a job interview! :D
+[14:30:30] [Server thread/INFO]: <Autonate> Ohh nice!
+[14:30:31] [Server thread/INFO]: <Itsall1337> good luck!
+[14:30:34] [Server thread/INFO]: <Autonate> Good luck man!
+[14:30:42] [Server thread/INFO]: <Autonate> Looking good erin :D
+[14:30:50] [Server thread/INFO]: <Tarnanduil> Hopefully be back later! Thanks! See y'all :D
+[14:30:53] [Server thread/INFO]: <Autonate> cyaa
+[14:30:56] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:30:56] [Server thread/INFO]: Tarnanduil left the game
+[14:31:01] [Server thread/INFO]: <Itsall1337> thanks :3 i want to build an underground entrace :D
+[14:32:37] [Server thread/INFO]: <Itsall1337> ugh i have to takem down all the dirt and stuff
+[14:32:42] [Server thread/INFO]: <Autonate> yuup
+[14:32:44] [Server thread/INFO]: <Autonate> so annyoing haha
+[14:44:25] [Server thread/INFO]: <Itsall1337> the worst is im not even close to done D:
+[14:44:31] [Server thread/INFO]: <Autonate> hehe
+[14:44:34] [Server thread/INFO]: <Autonate> no rush~
+[14:44:38] [Server thread/INFO]: <Autonate> that is the fun
+[14:44:49] [Server thread/INFO]: <Itsall1337> psh
+[14:47:24] [Server thread/INFO]: Autonate fell from a high place
+[14:47:28] [Server thread/INFO]: <Itsall1337> uh oh
+[14:47:33] [Server thread/INFO]: <Autonate> lmao
+[15:12:51] [Server thread/INFO]: <Itsall1337> the bank loos amazing
+[15:12:59] [Server thread/INFO]: <Autonate> hehe yey :D
+[15:13:08] [Server thread/INFO]: <Autonate> Me and nolan worked on it for hours last night :P
+[15:13:12] [Server thread/INFO]: <Itsall1337> i can tell
+[15:13:22] [Server thread/INFO]: <Itsall1337> but im done for now, plus work soon
+[15:13:29] [Server thread/INFO]: <Itsall1337> ill be back on after wards
+[15:13:30] [Server thread/INFO]: <Autonate> ok!
+[15:13:36] [Server thread/INFO]: <Itsall1337> bye!
+[15:13:38] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:13:38] [Server thread/INFO]: Itsall1337 left the game
+[15:13:40] [Server thread/INFO]: <Autonate> cya~
+[15:40:47] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:40:47] [Server thread/INFO]: Autonate left the game
+[15:41:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@51d1228a[id=<null>,name=Autonate,properties={},legacy=false] (/198.96.89.216:35434) lost connection: Timed out
+[15:42:32] [User Authenticator #33/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[15:42:32] [Server thread/INFO]: Autonate[/198.96.89.216:38791] logged in with entity id 6136721 at (-41.57202030431354, 161.0, 6.87801186749411)
+[15:42:32] [Server thread/INFO]: Autonate joined the game
+[16:12:25] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:12:25] [Server thread/INFO]: Autonate left the game
+[17:00:02] [User Authenticator #34/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[17:00:02] [Server thread/INFO]: Autonate[/198.96.89.216:47949] logged in with entity id 6550194 at (-42.099799724447095, 116.0, 23.16209864859991)
+[17:00:02] [Server thread/INFO]: Autonate joined the game
+[19:31:39] [User Authenticator #35/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[19:31:39] [Server thread/INFO]: Tarnanduil[/74.240.4.2:49658] logged in with entity id 9583776 at (159.87123152251738, 60.0, -30.255049222919503)
+[19:31:39] [Server thread/INFO]: Tarnanduil joined the game
+[19:52:30] [Server thread/INFO]: <Tarnanduil> Hey! You actually there?
+[20:28:09] [Server thread/INFO]: <Autonate> I'm afking at the mob farm~
+[20:28:11] [Server thread/INFO]: <Autonate> Whats up?
+[20:28:27] [Server thread/INFO]: <Tarnanduil> Nothin, just refilling the wood and stick chests :P
+[20:28:38] [Server thread/INFO]: <Autonate> Ahaha yeah sorry
+[20:28:44] [Server thread/INFO]: <Autonate> I used a ton on the spawner
+[20:30:02] [Server thread/INFO]: <Tarnanduil> Got ya 3 more stacks of chests
+[20:30:11] [Server thread/INFO]: <Autonate> nice!
+[20:30:18] [Server thread/INFO]: <Autonate> Got you a ton more string up here
+[20:30:27] [Server thread/INFO]: <Tarnanduil> Awesome!
+[20:31:04] [Server thread/INFO]: <Autonate> Careful, apparently the fall damage doesn't kill the armored mobs
+[20:31:10] [Server thread/INFO]: <Autonate> Gotta figure out a way to fix that
+[20:31:26] [Server thread/INFO]: <Autonate> They can't get out of the collection area regardless though
+[20:31:38] [Server thread/INFO]: <Tarnanduil> That's good :P
+[20:32:53] [Server thread/INFO]: <Autonate> gunna work on an item sorter for the mob drops now
+[20:33:39] [Server thread/INFO]: <Tarnanduil> Need anything?
+[20:33:51] [Server thread/INFO]: <Autonate> I'll come grab some chests in a bit
+[20:33:58] [Server thread/INFO]: <Autonate> You saw where the spawner is right?
+[20:34:04] [Server thread/INFO]: <Tarnanduil> yep
+[20:37:48] [Server thread/INFO]: <Autonate> woah are you getting this lag?
+[20:37:59] [Server thread/INFO]: <Tarnanduil> NOt really
+[20:38:48] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:38:48] [Server thread/INFO]: Autonate left the game
+[20:38:50] [Server thread/INFO]: <Tarnanduil> I think I take back what I said about knowing where you ate
+[20:38:53] [Server thread/INFO]: <Tarnanduil> are
+[20:38:54] [User Authenticator #36/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[20:38:54] [Server thread/INFO]: Autonate[/198.96.89.216:33347] logged in with entity id 10045081 at (124.5348629272861, 71.0, -11.618236433939314)
+[20:38:54] [Server thread/INFO]: Autonate joined the game
+[20:39:01] [Server thread/INFO]: <Tarnanduil> I think I take back what I said about knowing where you are
+[20:39:23] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:39:23] [Server thread/INFO]: Autonate left the game
+[20:40:00] [User Authenticator #37/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[20:40:00] [Server thread/INFO]: Autonate[/198.96.89.216:46843] logged in with entity id 10047918 at (125.16914691275882, 71.0, -15.332082370538714)
+[20:40:00] [Server thread/INFO]: Autonate joined the game
+[20:40:19] [Server thread/INFO]: <Autonate> my fps keeps dropping to like 2 randomly
+[20:40:32] [Server thread/INFO]: <Autonate> The new mob spawner is alomst right beside the iron foundry
+[20:40:40] [Server thread/INFO]: <Tarnanduil> AH
+[20:41:57] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:41:57] [Server thread/INFO]: Autonate left the game
+[20:42:00] [User Authenticator #38/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[20:42:00] [Server thread/INFO]: Autonate[/198.96.89.216:38777] logged in with entity id 10062313 at (126.5497925391718, 71.0, -6.1797605327347265)
+[20:42:00] [Server thread/INFO]: Autonate joined the game
+[20:42:43] [Server thread/INFO]: <Autonate> You are not getting any lag?
+[20:42:47] [Server thread/INFO]: <Tarnanduil> nope
+[20:42:52] [Server thread/INFO]: <Autonate> just by this farm
+[20:42:59] [Server thread/INFO]: <Autonate> I start lagging really hard
+[20:43:32] [Server thread/INFO]: <Tarnanduil> Woaw
+[20:43:39] [Server thread/INFO]: <Tarnanduil> spike
+[20:43:46] [Server thread/INFO]: <Autonate> is it happening to you too?
+[20:44:00] [Server thread/INFO]: <Tarnanduil> NOt bad, but noticeable
+[20:44:54] [Server thread/INFO]: <Autonate> everytime I go by the farm I drop to 2-4 fps
+[20:45:09] [Server thread/INFO]: <Autonate> I've heard about this happening on other servers
+[20:45:20] [Server thread/INFO]: <Autonate> Random high-ping low-fps chunks
+[20:46:58] [Server thread/INFO]: <Tarnanduil> WOW
+[20:47:04] [Server thread/INFO]: <Autonate> ??
+[20:47:05] [Server thread/INFO]: <Tarnanduil> That's a lot of stuf :P
+[20:47:09] [Server thread/INFO]: <Autonate> haha
+[20:47:14] [Server thread/INFO]: <Autonate> that is just from the last hour
+[20:47:30] [Server thread/INFO]: <Tarnanduil> MUCH better than the other one
+[20:47:46] [Server thread/INFO]: <Autonate> yup. that is why I rebuilt it :P
+[20:47:54] [Server thread/INFO]: <Tarnanduil> FP II and FF III boots :D
+[20:47:55] [Server thread/INFO]: <Autonate> The packed ice and the height makes a big difference
+[20:49:13] [Server thread/INFO]: <Tarnanduil> Can't help myself :)
+[20:49:16] [Server thread/INFO]: <Autonate> hehe
+[20:49:25] [Server thread/INFO]: <Autonate> These chests will all be auto sorted
+[20:49:29] [Server thread/INFO]: <Autonate> at the bottom
+[20:49:37] [Server thread/INFO]: <Tarnanduil> Cool!
+[20:50:08] [Server thread/INFO]: <Autonate> There are 5 main mob drop types right?
+[20:50:29] [Server thread/INFO]: <Tarnanduil> eys
+[20:50:32] [Server thread/INFO]: <Tarnanduil> yes
+[20:50:35] [Server thread/INFO]: <Autonate> mmk
+[20:50:40] [Server thread/INFO]: <Autonate> and I need a misc chest
+[20:52:42] [Server thread/INFO]: <Tarnanduil> You doing ok now?
+[20:52:59] [Server thread/INFO]: <Autonate> Yeah~
+[20:53:45] [Server thread/INFO]: <Autonate> I'll need a few item frames
+[20:54:23] [Server thread/INFO]: <Autonate> the circuits will go in the middl
+[20:54:27] [Server thread/INFO]: <Autonate> *middle
+[20:56:40] [Server thread/INFO]: <Autonate> And I need more hoppers T T
+[20:56:43] [Server thread/INFO]: <Autonate> I can't ever win lol
+[20:56:45] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:56:45] [Server thread/INFO]: Tarnanduil left the game
+[20:57:45] [User Authenticator #39/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[20:57:45] [Server thread/INFO]: Tarnanduil[/74.240.4.2:49960] logged in with entity id 10127862 at (126.4875000119209, 71.0, -10.723139987496177)
+[20:57:45] [Server thread/INFO]: Tarnanduil joined the game
+[20:59:57] [Server thread/INFO]: <Tarnanduil> WOW
+[21:00:02] [Server thread/INFO]: <Tarnanduil> Just got out
+[21:00:07] [Server thread/INFO]: <Autonate> yup
+[21:00:10] [Server thread/INFO]: <Autonate> it is really bad
+[21:00:27] [Server thread/INFO]: <Autonate> once marshall is home I'll get him to check the server logs
+[21:01:30] [Server thread/INFO]: <Tarnanduil> brb
+[21:18:49] [Server thread/INFO]: <Tarnanduil> back
+[21:18:52] [Server thread/INFO]: <Autonate> weba
+[21:50:38] [Server thread/INFO]: <Autonate> Watchu working on?
+[21:55:58] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:55:58] [Server thread/INFO]: Autonate left the game
+[21:56:01] [User Authenticator #40/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[21:56:01] [Server thread/INFO]: Autonate[/198.96.89.216:47332] logged in with entity id 10410152 at (126.71471699657613, 74.0, -66.1622689062819)
+[21:56:01] [Server thread/INFO]: Autonate joined the game
+[22:22:16] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:22:16] [Server thread/INFO]: Autonate left the game
+[22:51:59] [User Authenticator #41/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[22:51:59] [Server thread/INFO]: maxdeviant[/192.168.1.10:58792] logged in with entity id 10644518 at (145.50018790577073, 72.0, -31.11481817049654)
+[22:51:59] [Server thread/INFO]: maxdeviant joined the game
+[22:52:26] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:52:26] [Server thread/INFO]: maxdeviant left the game
