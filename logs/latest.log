@@ -1,52 +1,68 @@
-[01:20:36] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[01:20:36] [Server thread/INFO]: Loading properties
-[01:20:36] [Server thread/INFO]: Default game type: SURVIVAL
-[01:20:36] [Server thread/INFO]: Generating keypair
-[01:20:36] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
-[01:20:37] [Server thread/INFO]: Preparing level "lomo"
-[01:20:37] [Server thread/INFO]: Preparing start region for level 0
-[01:20:38] [Server thread/INFO]: Preparing spawn area: 34%
-[01:20:39] [Server thread/INFO]: Done (2.044s)! For help, type "help" or "?"
-[01:20:42] [User Authenticator #1/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
-[01:20:42] [Server thread/INFO]: maxdeviant[/192.168.1.10:62864] logged in with entity id 845 at (177.24255043066134, 72.0, -50.37085847576965)
-[01:20:42] [Server thread/INFO]: maxdeviant joined the game
-[01:21:15] [Server thread/INFO]: Kicked maxdeviant from the game
-[01:21:15] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:21:15] [Server thread/INFO]: maxdeviant left the game
-[12:11:57] [User Authenticator #2/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[12:11:57] [Server thread/INFO]: Autonate[/198.96.89.216:34292] logged in with entity id 409534 at (-58.05345927210461, 67.0, 14.843638419647705)
-[12:11:57] [Server thread/INFO]: Autonate joined the game
-[12:12:08] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[12:20:44] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[12:22:15] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[12:22:24] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
-[12:26:53] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[12:31:55] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:31:55] [Server thread/INFO]: Autonate left the game
-[12:43:35] [User Authenticator #3/INFO]: UUID of player Itsall1337 is 09f8cb48-7707-4c27-b5dd-1850549c587b
-[12:43:35] [Server thread/INFO]: Itsall1337[/71.200.30.253:49455] logged in with entity id 478515 at (169.6999999880791, 62.0, -42.30000001192083)
-[12:43:35] [Server thread/INFO]: Itsall1337 joined the game
-[15:02:29] [Server thread/INFO]: Itsall1337 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[15:02:29] [Server thread/INFO]: Itsall1337 left the game
-[17:06:29] [User Authenticator #4/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
-[17:06:29] [Server thread/INFO]: Tarnanduil[/74.240.4.2:52754] logged in with entity id 898342 at (144.5237322440022, 72.0, -33.22936704953134)
-[17:06:29] [Server thread/INFO]: Tarnanduil joined the game
-[17:06:39] [Server thread/INFO]: There are 1/20 players online:
-[17:06:39] [Server thread/INFO]: Tarnanduil
-[17:06:53] [Server thread/INFO]: [Server] About to do some maintenance stuff
-[17:07:27] [Server thread/INFO]: [Server] Have to take the server offline for a bit
-[17:07:40] [Server thread/INFO]: There are 1/20 players online:
-[17:07:40] [Server thread/INFO]: Tarnanduil
-[17:08:07] [Server thread/INFO]: <Tarnanduil> Ok go for it; getting my horse out
-[17:08:14] [Server thread/WARN]: Tarnanduil moved wrongly!
-[17:08:26] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:08:26] [Server thread/INFO]: Tarnanduil left the game
-[17:08:26] [Server thread/INFO]: There are 0/20 players online:
-[17:08:26] [Server thread/INFO]: 
-[17:08:29] [Server thread/INFO]: Stopping the server
-[17:08:29] [Server thread/INFO]: Stopping server
-[17:08:29] [Server thread/INFO]: Saving players
-[17:08:29] [Server thread/INFO]: Saving worlds
-[17:08:29] [Server thread/INFO]: Saving chunks for level 'lomo'/Overworld
-[17:08:29] [Server thread/INFO]: Saving chunks for level 'lomo'/Nether
-[17:08:29] [Server thread/INFO]: Saving chunks for level 'lomo'/The End
+[19:46:46] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[19:46:46] [Server thread/INFO]: Loading properties
+[19:46:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:46] [Server thread/INFO]: Generating keypair
+[19:46:46] [Server thread/INFO]: Starting Minecraft server on 192.168.1.24:25565
+[19:46:47] [Server thread/INFO]: Preparing level "lomo"
+[19:46:47] [Server thread/INFO]: Preparing start region for level 0
+[19:46:48] [Server thread/INFO]: Preparing spawn area: 30%
+[19:46:49] [Server thread/INFO]: Done (2.145s)! For help, type "help" or "?"
+[19:46:56] [User Authenticator #2/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[19:46:56] [User Authenticator #1/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[19:46:56] [Server thread/ERROR]: Couldn't parse statistics file ./lomo/stats/808073a3-ed34-413d-a865-3eadefb4be8c.json
+com.google.gson.JsonSyntaxException: java.io.EOFException: End of input at line 1 column 3721
+	at com.google.gson.internal.Streams.parse(Streams.java:54) ~[minecraft_server.jar:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:84) ~[minecraft_server.jar:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:59) ~[minecraft_server.jar:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[minecraft_server.jar:?]
+	at pf.a(SourceFile:79) ~[minecraft_server.jar:?]
+	at pf.a(SourceFile:40) [minecraft_server.jar:?]
+	at oh.a(SourceFile:815) [minecraft_server.jar:?]
+	at mv.<init>(SourceFile:84) [minecraft_server.jar:?]
+	at oh.f(SourceFile:312) [minecraft_server.jar:?]
+	at nm.c(SourceFile:86) [minecraft_server.jar:?]
+	at nm.a(SourceFile:52) [minecraft_server.jar:?]
+	at ej.a(SourceFile:176) [minecraft_server.jar:?]
+	at nb.c(SourceFile:134) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:540) [minecraft_server.jar:?]
+	at ls.v(SourceFile:275) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.u(SourceFile:453) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:369) [minecraft_server.jar:?]
+	at li.run(SourceFile:628) [minecraft_server.jar:?]
+Caused by: java.io.EOFException: End of input at line 1 column 3721
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1377) ~[minecraft_server.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:471) ~[minecraft_server.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:403) ~[minecraft_server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$25.read(TypeAdapters.java:666) ~[minecraft_server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$25.read(TypeAdapters.java:642) ~[minecraft_server.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:44) ~[minecraft_server.jar:?]
+	... 17 more
+[19:46:56] [Server thread/INFO]: Autonate[/198.96.89.132:39268] logged in with entity id 984 at (-2.9195552260264503, 70.41999998688698, -1.4219862875533624)
+[19:46:56] [Server thread/INFO]: Autonate joined the game
+[19:46:56] [Server thread/INFO]: maxdeviant[/192.168.1.10:65188] logged in with entity id 991 at (117.60862928205094, 73.0, -19.883952243951065)
+[19:46:56] [Server thread/INFO]: maxdeviant joined the game
+[19:47:56] [Server thread/INFO]: Autonate has just earned the achievement [Taking Inventory]
+[19:49:46] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:49:46] [Server thread/INFO]: Autonate left the game
+[19:49:50] [User Authenticator #3/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[19:49:50] [Server thread/INFO]: Autonate[/198.96.89.132:44421] logged in with entity id 15638 at (165.4894375586324, 60.5, -40.07411646617092)
+[19:49:50] [Server thread/INFO]: Autonate joined the game
+[19:58:50] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:58:50] [Server thread/INFO]: maxdeviant left the game
+[19:59:16] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:59:16] [Server thread/INFO]: Autonate left the game
+[20:03:15] [User Authenticator #4/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[20:03:15] [Server thread/INFO]: maxdeviant[/192.168.1.10:65340] logged in with entity id 55616 at (167.8319161284525, 72.0, -38.917577844569706)
+[20:03:15] [Server thread/INFO]: maxdeviant joined the game
+[20:03:22] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:03:22] [Server thread/INFO]: maxdeviant left the game
+[20:09:06] [User Authenticator #5/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[20:09:06] [Server thread/INFO]: Autonate[/198.96.89.132:42396] logged in with entity id 59290 at (160.51515864808215, 62.0, -56.84725416949905)
+[20:09:06] [Server thread/INFO]: Autonate joined the game
+[20:09:13] [User Authenticator #6/INFO]: UUID of player maxdeviant is be25cecd-1e3a-456a-97d4-6375f726c344
+[20:09:13] [Server thread/INFO]: maxdeviant[/192.168.1.10:65383] logged in with entity id 59954 at (152.55508828416762, 72.0, -35.17836051741663)
+[20:09:13] [Server thread/INFO]: maxdeviant joined the game
+[20:09:16] [Server thread/INFO]: maxdeviant lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:09:16] [Server thread/INFO]: maxdeviant left the game
+[20:09:16] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:09:16] [Server thread/INFO]: Autonate left the game
