@@ -2,7 +2,7 @@ def signFilter(poi):
 	if poi['id'] == 'Sign':
 		return "\n".join([poi['Text1'], poi['Text2'], poi['Text3'], poi['Text4']])
 
-worlds["Lomonation"] = "~/minecraft/survival/lomo"
+worlds["Lomonation"] = "/etc/minecraft/survival/lomo"
 
 renders["survivalday"] = {
 	"world": "Lomonation",
@@ -27,7 +27,7 @@ renders["survivalend"] = {
 }
 
 outputdir = "/var/www/minecraft/maps/lomonation"
-texturepath = "~/minecraft/Isabella_II_1.7f.zip"
+texturepath = "/etc/minecraft/Isabella_II_1.7f.zip"
 
 from observer import JSObserver
 observer = JSObserver(outputdir, 10)

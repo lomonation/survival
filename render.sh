@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd ~/minecraft/survival/
+cd /etc/minecraft/survival/
 overviewer.py --config=config.py
 overviewer.py --config=config.py --genpoi
