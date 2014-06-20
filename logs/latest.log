@@ -1,2 +1,9 @@
-[08:15:49] [Server thread/INFO]: There are 0/20 players online:
-[08:15:49] [Server thread/INFO]: 
+[02:17:39] [User Authenticator #147/INFO]: UUID of player iamnbutler is aa836fec-41d3-4a8a-abee-1cfe7d1577d7
+[02:17:39] [Server thread/INFO]: iamnbutler[/23.91.142.27:57131] logged in with entity id 3443735 at (158.98695354298636, 74.0, -51.469536492433406)
+[02:17:39] [Server thread/INFO]: iamnbutler joined the game
+[02:18:09] [Server thread/INFO]: There are 1/20 players online:
+[02:18:09] [Server thread/INFO]: iamnbutler
+[02:18:13] [Server thread/INFO]: Opped iamnbutler
+[02:18:21] [Server thread/INFO]: [iamnbutler: Set own game mode to Creative Mode]
+[02:20:43] [Server thread/INFO]: iamnbutler lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:20:43] [Server thread/INFO]: iamnbutler left the game
