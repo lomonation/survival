@@ -1,26 +1,38 @@
-[00:39:09] [User Authenticator #154/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[00:39:09] [Server thread/INFO]: Autonate[/206.248.179.245:53020] logged in with entity id 4172349 at (1287.1045762645067, 83.40749355662993, 1143.7708877524294)
-[00:39:09] [Server thread/INFO]: Autonate joined the game
-[00:39:33] [Server thread/INFO]: [Autonate: Teleported Autonate to 0.5,70.0,0.5]
-[00:40:19] [Server thread/INFO]: [Autonate: Cleared the inventory of Autonate, removing 771 items]
-[00:40:33] [Server thread/INFO]: [Autonate: Set the time to 8000]
-[00:40:41] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
-[00:47:27] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:47:27] [Server thread/INFO]: Autonate left the game
-[00:47:31] [User Authenticator #155/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[00:47:31] [Server thread/INFO]: Autonate[/206.248.179.245:53074] logged in with entity id 4389405 at (1512.5802382732195, 13.0, 301.7540714258844)
-[00:47:31] [Server thread/INFO]: Autonate joined the game
-[00:49:26] [User Authenticator #156/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[00:49:26] [Server thread/INFO]: Autonate[/206.248.179.245:54023] logged in with entity id 4429248 at (1512.5802382732195, 13.0, 301.7540714258844)
-[00:49:26] [Server thread/INFO]: Autonate joined the game
-[00:49:26] [Server thread/INFO]: Autonate lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:49:26] [Server thread/INFO]: Autonate left the game
-[00:49:31] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:49:31] [Server thread/INFO]: Autonate left the game
-[00:49:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@4faf1431[id=<null>,name=Autonate,properties={},legacy=false] (/206.248.179.245:53089) lost connection: Disconnected
-[00:49:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cdca655[id=<null>,name=Autonate,properties={},legacy=false] (/206.248.179.245:53091) lost connection: Disconnected
-[00:53:28] [User Authenticator #157/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
-[00:53:28] [Server thread/INFO]: Autonate[/206.248.179.245:53155] logged in with entity id 4430742 at (1512.5802382732195, 13.0, 301.7540714258844)
-[00:53:28] [Server thread/INFO]: Autonate joined the game
-[00:58:04] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:58:04] [Server thread/INFO]: Autonate left the game
+[06:40:22] [User Authenticator #158/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[06:40:22] [Server thread/INFO]: Tarnanduil[/98.95.96.113:51631] logged in with entity id 4525481 at (51.85204356947429, 72.0, -227.42285312152538)
+[06:40:22] [Server thread/INFO]: Tarnanduil joined the game
+[06:56:06] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:56:06] [Server thread/INFO]: Tarnanduil left the game
+[06:56:13] [User Authenticator #159/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[06:56:13] [Server thread/INFO]: Tarnanduil[/98.95.96.113:51643] logged in with entity id 4760927 at (330.87538619833225, 3.0, -10.13692558741488)
+[06:56:13] [Server thread/INFO]: Tarnanduil joined the game
+[06:56:48] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:56:48] [Server thread/INFO]: Tarnanduil left the game
+[06:56:53] [User Authenticator #160/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[06:56:53] [Server thread/INFO]: Tarnanduil[/98.95.96.113:51646] logged in with entity id 4761084 at (328.08443462652707, 3.0, -10.314010190038813)
+[06:56:53] [Server thread/INFO]: Tarnanduil joined the game
+[07:02:47] [Server thread/WARN]: Tarnanduil moved wrongly!
+[07:02:49] [Server thread/WARN]: Tarnanduil moved wrongly!
+[07:02:50] [Server thread/WARN]: Tarnanduil moved wrongly!
+[07:16:30] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:16:30] [Server thread/INFO]: Tarnanduil left the game
+[07:16:37] [User Authenticator #161/INFO]: UUID of player Tarnanduil is f7528862-90bd-47ac-a5aa-32edd611cc22
+[07:16:37] [Server thread/INFO]: Tarnanduil[/98.95.96.113:51657] logged in with entity id 4853558 at (1274.5840266589043, 63.0, 1193.691237170359)
+[07:16:37] [Server thread/INFO]: Tarnanduil joined the game
+[07:42:21] [Server thread/INFO]: Tarnanduil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:42:21] [Server thread/INFO]: Tarnanduil left the game
+[16:30:38] [User Authenticator #162/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[16:30:38] [Server thread/INFO]: Autonate[/69.165.143.125:53173] logged in with entity id 5423096 at (1511.5667602930007, 11.0, 303.92185223212704)
+[16:30:38] [Server thread/INFO]: Autonate joined the game
+[16:30:57] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:30:57] [Server thread/INFO]: Autonate left the game
+[16:42:05] [User Authenticator #163/INFO]: UUID of player Autonate is 808073a3-ed34-413d-a865-3eadefb4be8c
+[16:42:05] [Server thread/INFO]: Autonate[/69.165.143.125:53306] logged in with entity id 5429536 at (1511.1715389744472, 11.0, 307.66827323252954)
+[16:42:05] [Server thread/INFO]: Autonate joined the game
+[16:55:39] [Server thread/INFO]: [Autonate: Teleported Autonate to 1200.5,72.0,1200.5]
+[17:01:04] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
+[17:05:53] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
+[17:06:05] [Server thread/INFO]: [Autonate: Set own game mode to Creative Mode]
+[17:08:31] [Server thread/INFO]: [Autonate: Set own game mode to Survival Mode]
+[17:16:22] [Server thread/INFO]: Autonate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:16:22] [Server thread/INFO]: Autonate left the game
